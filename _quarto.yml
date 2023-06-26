@@ -1,0 +1,28 @@
+project:
+  type: book
+
+book:
+  title: "Søknad Merittert Utdanner UiO 2023"
+  author: "Lex Nederbragt"
+  date: today
+  date-format: long
+  language: nb
+  chapters:
+    - index.qmd
+    - redegjoerelse.qmd
+    - referanser.qmd
+  appendices:
+      - vedlegg.qmd
+
+bibliography: references.bib
+csl: plos-computational-biology.csl
+link-citations: true
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+

@@ -1,0 +1,25 @@
+# Vedlegg
+
+## Fokus på studentenes læring
+
+## En klar utvikling over tid
+
+## En forskende tilnærming
+
+### Emneevalueringer  {#sec-vl-emneeval}
+
+* BIOS1100 Innføring i beregningsmodeller for biovitenskap (2017-)
+  * 2017
+    * Fil: `Sluttrapport BIOS1100 Høsten 2017.pdf`
+  * 2018
+    * Fil: `Sluttrapport BIOS1100 Høsten 2018.pdf`
+  * 2019
+    * Fil: `Sluttrapport BIOS1100 Høsten 2019.pdf`
+  * 2020
+    * Fil: `Sluttrapport BIOS1100 Høsten 2020.pdf`
+  * 2021
+    * Fil: `Sluttrapport BIOS1100 Høsten 2021.pdf`
+  * 2022
+    * Fil: `Sluttrapport BIOS1100 Høsten 2022.pdf`
+
+## Kollegial holdning og praksis

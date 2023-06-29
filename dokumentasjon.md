@@ -1,0 +1,189 @@
+
+
+#### En klar utvikling over tid
+
+**Emneansvar**
+
+* BIOS1100 (2017-)
+  * Kurstittel: **Innføring i beregningsmodeller for biovitenskap**
+  * Emnesidene: <https://www.uio.no/studier/emner/matnat/ibv/BIOS1100/>
+  * 2017
+    * [Semestersidene](https://www.uio.no/studier/emner/matnat/ibv/BIOS1100/h17/ressurser/hovedside.md)
+    * Fil: `Sluttrapport BIOS1100 Høsten 2017.pdf`
+
+  * 2018
+    * [Canvas sidene](https://uio.instructure.com/courses/5848)
+    * Fil: `Sluttrapport BIOS1100 Høsten 2018.pdf`
+
+  * 2019
+    * [Canvas sidene](https://uio.instructure.com/courses/20058)
+    * Fil: `Sluttrapport BIOS1100 Høsten 2019.pdf`
+
+  * 2020
+    * [Canvas sidene](https://uio.instructure.com/courses/26583)
+    * Fil: `Sluttrapport BIOS1100 Høsten 2020.pdf`
+
+  * Pensumbok "Introduction to Analysis and Modeling in Biology with Python", [siste versjon (august 2020)](https://uio.instructure.com/courses/26583/pages/introduction-to-analysis-and-modeling-in-biology-with-python?module_item_id=266340)
+  * Jeg har skrevet noen blogposter om BIOS1100: <http://lexnederbragt.com/bios1100>
+
+* INF-BIO5121/9121 (2012-2016)
+  * Kurstittel: **High Throughput Sequencing technologies and bioinformatics analysis**
+  * Emnesidene: <https://www.uio.no/studier/emner/matnat/ifi/INF-BIO5120/index-eng.html>
+  * Semestersidene for høsten 2016: <http://inf-biox121.readthedocs.org/en/2016>
+
+
+**Annen universitetsundervisning**
+
+* [MBV-INF4410/9410](https://www.uio.no/studier/emner/matnat/ibv/MBV-INF4410/index.html) Bioinformatics for Molecular Biology 2013-2016
+  * Forelesning "The bioinformatics of sequencing and assembling genomes"
+  * Forelesning "What does it mean to do bioinformatics?"
+
+* [BIO9905MERG1](https://www.uio.no/studier/emner/matnat/ibv/BIO9905MERG1/) - Bioinformatics for Metagenomic Analyses and Environmental Sequencing (2011)
+  * Forelesning "Next Generation Sequencing techniques and data relevant for metagenomics analyses"
+  * Forelesning "Assembly of metagenomes"
+
+* [BIO2120](https://www.uio.no/studier/emner/matnat/ibv/nedlagte-emner/BIO2120/) Evolusjonsbiologi 2006-2007
+  * Forelesning "Evolution and Development"
+  * Forelesning "Evolution of Genes and Genomes"
+  * Oppgaver for gruppearbeid
+
+
+**Workshops**
+
+* Next-Gen Sequence Analysis Workshop 'week 3' (intermediate and advanced skills) (invitert), Michigan State University 2015
+  * [Websidene](http://angus.readthedocs.org/en/2015/week3.html)
+
+* University of California Davis Assembly Masterclass (invitert) 2013
+  * [Websidene](http://davis-assembly-masterclass-2013.readthedocs.org/en/latest)
+
+* Norwegian Sequencing Centre course: High Through-put Sequencing: technology basics, applications and bioinformatic analysis 2011
+  * [Websidene](https://www.sequencing.uio.no/events/2011/nsc_course_2011.html)
+  * Jeg gjennomførte en Workshop om [Genome Assembly](https://github.com/lexnederbragt/denovo-assembly-tutorial)
+
+* *De novo* genome assembly (invitert), Univ. of Gothenburg, 2011
+* Erasmus ICP course Marine Cell Biology (Observatoire Oceanologique, Banyuls-sur-mer, France) 2000
+  * Forelesning "Fundamental aspects of development"
+  * Forelesning "Cell cycle changes during development"
+
+
+**Software Carpentry, Data Carpentry, The Carpentries, Carpentry@UiO**
+
+* [Software Carpentry](http://software-carpentry.org/)
+* [Data Carpentry](http://www.datacarpentry.org/)
+* fra og med 2018 ble disse sammen til [The Carpentries](https://carpentries.org)
+* jeg er en sertifisert [instruktør](https://carpentries.org/instructors/) og [instruktør trener](https://carpentries.org/trainers/)
+  * Fil: `SoftwareCarpentry_Instructor_Certificate.pdf`
+  * Fil: `DataCarpentry_Instructor_Certificate.pdf`
+  * Fil: `Carpentries_Instructor_Trainer_Certificate.pdf`
+
+* Jeg har bidratt til undervisningsmaterial til The Carpentries
+  * The Carpentries Instructor Training [@erinalisonbecker2019Carpentries]
+  * Software Carpentry: The Unix Shell [@aldazabalmensa2017Software]
+  * Software Carpentry: Programming with Python [@achterberg2017Software]
+  * Software Carpentry: Version Control with Git [@ahmadia2017Softwarea]
+  * Software Carpentry: Automation and Make [@allen2017Software]
+  * Data Carpentry Wrangling Genomics Lesson [@wilson2017Data]
+
+* Jeg er også medlem av The Carpentries [Executive Council](https://carpentries.org/governance/), som kan sees på som organisajsonens styret (2018-2021)
+* Carpentry@UiO
+  * Sammen med Karin Lagesen og Realfagsbiblioteket etablerte vi i 2014
+
+  Carpentry@UiO
+  * UiO er siden 2017 [medlemsorganisasjon](https://carpentries.org/members/) av The Carpentries
+  * Webside til [Carpentry@UiO](https://uio-carpentry.github.io), bl.a. med oversikt over [tidligere workshops](https://uio-carpentry.github.io/workshops/#past-workshops)
+  * Websidene fra Universitetsbiblioteket:
+    * [carpentry.uio.no](https://www.uio.no/carpentry)
+    * [oversikt over workshops](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/)
+
+  * Jeg leder [styret for Carpentry@UiO](https://uio-carpentry.github.io/about/members/)
+
+* Software Carpentry workshops jeg har bidratt til
+  * Universitetet i Oslo: 2012, 2013, 2015 - 2019
+  * Netherlands eScience Centre: 2017
+  * Universitet i Bergen: 2014
+  * Science for Life Laboratory, Stockholm, Sverige: 2014
+  * Online (ved UiO): 2020, 2021
+
+* Instruktør trening workshops jeg har undervist for
+  * Universitetet i Oslo: 2016, 2018
+  * Online for the Carpentries: 2016-2019
+
+
+#### En forskende tilnærming
+
+* Vitenskapelige publikasjoner
+  * **A. Nederbragt, R. M. Harris, A. P. Hill and G. Wilson** (2020). "Ten quick tips for teaching with participatory live coding", *PLOS Computational Biology*, 16(9),pp. e1008090, [doi: 10.1371/journal.pcbi.1008090](https://dx.doi.org/10.1371/journal.pcbi.1008090)
+
+* Konferansebidrag
+  * MNT konferansen mars 2019: **Gregers, T.F., and Nederbragt, Lex** (2019). Lektorstudenter utvikler unik kompetanse og bidrar til økt kvalitet på begynneremner gjennom en undervisningsrettet master. *Nordic Journal of STEM education* 3, 23–27, <https://doi.org/10.5324/njsteme.v3i1.2992>. Tilgjengelig som fil: `Gregers and Nederbragt, Lex - 2019 - Lektorstudenter utvikler unik kompetanse og bidrar.pdf`
+  * MNT konferansen mars 2021: **J.E.Eliassen, M.V.Bøe, L.Nederbragt, M.M.Berg, og T.F.Gregers** (2021). Motivasjon for beregningsorientert biologi og sammenhengen med matematikk R2 fra videregående opplæring. *Nordic Journal of STEM education*, *in press*. Tilgjengelig som fil: `Eliassen_etal_2021_Motivasjon for beregningsorientert biologi.pdf`
+
+* Forskning på egen undervisning
+  * Masterstudent June Edvarda Eliassen (2020)
+    * Tittel: Biologistudenters motivasjon for beregningsorientert biologi etter innføring av krav om full fordypning i realfaglig matematikk
+    * Lenke til oppgaven: <http://urn.nb.no/URN:NBN:no-82918>
+    * Fil: `Masteroppgave_Eliassen.pdf`
+
+  * Masterstudent Sofie Rudberg (2020)
+    * Tittel: Relevansen av kompetansen fra matematikk R2 i beregningsorientert biologi
+    * Lenke til oppgaven: <http://urn.nb.no/URN:NBN:no-82936>
+    * Fil: `Masteroppgave_Rudberg.pdf`
+
+  * Masterstudent Marthe Mjøen Berg (2019)
+    * Tittel: Studentar si interesse og meistringsforventning for programmering og modellering i biologi
+    * Lenke til oppgaven: <http://urn.nb.no/URN:NBN:no-73633>
+    * Fil: `Masteroppgave_Berg.pdf`
+
+  * Masterstudent Lars Erik Håland (2019)
+    * Tittel: Studenters arbeid med programmering i biovitenskapelige problemstillinger. En kvalitativ studie av biologistudenters arbeid med Python
+    * Lenke til oppgaven: <http://urn.nb.no/URN:NBN:no-73632>
+    * Fil: `Masteroppgave_Håland.pdf`
+
+
+
+#### En kollegial holdning og praksis
+
+* UnderVerk
+  * [Oversikt over workshops](https://www.uio.no/for-ansatte/enhetssider/mn/ibv/underverk) (krever login med UiO brukernavn og passord)
+  * Se også [denne side om UnderVerk](https://www.mn.uio.no/kurt/undervisningsutvikling/underverk)
+
+* Gruppelærere
+  * [Dokumentasjonssider for gruppelærere](https://pages.github.uio.no/alexajo/bios1100-assistants/start.html) (krever login med UiO brukernavn og passord)
+
+* CSE@IBV
+  * Sammen med undervisere involvert i arbeidet med integrering av beregningsperspektivet i bachelor utdanningen ('CSE@IBV') skrev vi rapporten "Computing in Science Education (CSE) på IBV: status og veien videre".
+  * Fil: `Status CSE på IBV februar 2020 og veien videre.pdf`
+
+* CCSE
+  * Jeg er en del av [ledergruppen](https://www.mn.uio.no/ccse/english/about/organization/leader-group/)
+  * Bidrag til [CCSE sine årsrapporter](https://www.mn.uio.no/ccse/english/about/reports)
+
+* Foredrag
+  * **BIOS1100: Innføring i beregningsmodeller biovitenskap – erfaringer og evaluering**, Real utdanning – fagdag for utdanning ved MN fakultetet, 2018
+  * **Programmering og modellering i biovitenskapsutdanning**, Undervisningsseminar om beregningsorientert realfagsundervisning for NT-fakultet, Universitet i Tromsø/Norges Akrtiske Universitet, 2018 (invitert)
+
+* Mediaoppmerksomhet mm
+  * jeg jar skrevet noen innlegg på min personlige blog om BIOS1100: <http://lexnederbragt.com/bios1100>
+  * besøk av daværende kunnskapsministeren til UiO, inkludert undervisningen i BIOS1100
+    * artikkel i [Uniforum](https://www.uniforum.uio.no/nyheter/2017/10/henrik-asheim-blei-begreistra-for-forsking-og-unde.html)
+    * artikkel på "IBV sine websider": <https://www.mn.uio.no/ibv/om/aktuelt/aktuelle-saker/2017/kunnskapsministeren-imponert-over-bios1100-og-igem.html>
+
+  * ['Programmerings- revolusjonen'](https://issuu.com/nokut/docs/sfu_magasinet_02.18_72dpi_enkeltsid); artikkel i SFU-magasinet 2018/2, side 25
+
+
+#### Det digitale
+
+* Prosjekt "Integrasjon av Jupyter og Canvas for digital vurdering"
+  * [Prosjektsiden](https://www.usit.uio.no/om/organisasjon/itf/aktiviteter/prosjekter/jupyter-canvas) (krever login med UiO brukernavn og passord)
+  * finansiert av LINK - Senter for Læring og Utdanning ved UiO
+    * [Utlysning av prosjektmidler for digital vurdering](https://www.uio.no/link/arrangementer/2019/digitalvurdering/prosjektmidlerdigitalvurdering.pdf)
+
+
+* JupyterHub ved UiO
+  * <https://jupyterhub.uio.no>
+  * [Dokumentasjon for studenter](https://www.uio.no/tjenester/it/forskning/beregning/jupyter/)
+  * [Dokumentasjon for undervisere](https://www.uio.no/english/services/it/research/hpc/jupyter-notebook/for-teachers/index.html)
+  * [Canvas side om JupyterHub](https://uio.instructure.com/courses/26583/pages/jupyter-notebook-og-jupyterhub) for studenter i BIOS1100
+
+
+

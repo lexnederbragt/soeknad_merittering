@@ -11,8 +11,7 @@ book:
     - index.qmd
     - redegjoerelse.qmd
     - referanser.qmd
-  appendices:
-      - vedlegg.qmd
+    - vedlegg.qmd
 
 bibliography: references.bib
 csl: plos-computational-biology.csl

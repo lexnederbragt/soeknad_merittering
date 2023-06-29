@@ -1,0 +1,36 @@
+## En klar utvikling over tid {.unnumbered}
+
+<!-- Fra 2021: “Nederbragt beskriver utvikling over tid, og viser til at enkel interesse for undervisning i seminargrupper har vokst seg til et stort engasjement for undervisningens muligheter som helhet. Nederbragt har stadig fått mer undervisningsansvar ved sitt institutt, og har jevnlig deltatt på kurs. Nederbragt viser en evne til å plukke opp problemer tidsnok, samt ta til seg tilbakemeldinger fra studenter og fagfeller, slik at nødvendige løsninger kan settes i verk – eksemplifisert gjennom endringen til samkoding og delt gruppeundervisning i BIOS1100. Det er verdt å merke at Nederbragt også utviser en særlig god forståelse om hvordan kunnskap om undervisning som fagfelt og undervisningsobjektene kan tas inn i undervisningen, eksemplifisert gjennom samarbeidet med Tone Gregers ved MatNat.” -->
+
+### Beskriv
+
+<!-- Beskriv, analyser og reflekter over hvordan du systematisk har utviklet din utdanningspraksis over tid, inkludert endring av emner eller studieprogrammer, samt utprøving og utvikling av innovative undervisnings- og vurderingsformer. -->
+
+Instructor trainer Carpentries → ped.opplæring gruppelærere → LA program og MNPED9000
+JupyterHub under eksamen
+JupyterHub prosjekt (vellykket søknad)
+
+### Begrunn
+
+
+<!-- Begrunn hvorfor du valgte å gjøre disse endringene, gjerne forankret i relevant forskningslitteratur. -->
+
+
+### Eksempler
+
+<!-- Gi eksempler på hvordan du har inkludert nye undervisnings- og vurderingsformer i din utdanningspraksis og hvordan endringene har påvirket studentenes læring. -->
+
+* Hele BIOS1100 og CSE@IBV
+* Samkoding (fra Carpentries)
+
+
+### Dokumenter
+
+<!-- Dokumenter hvordan du har fulgt opp utfordringer knyttet til din utdanningspraksis og hvordan du gjennom disse endringene har utviklet deg som utdanner. -->
+
+* BIOS1100 og samkoding
+
+### Videre planer
+
+<!-- Beskriv og reflekter over konkrete planer for videreutvikling av din egen utdanningspraksis, gjerne knyttet til UiOs Strategi 2030 når det gjelder bærekraft, innovasjon eller digitalisering. -->
+

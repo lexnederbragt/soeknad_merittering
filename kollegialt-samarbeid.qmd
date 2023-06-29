@@ -1,0 +1,52 @@
+## Kollegial holdning og praksis {.unnumbered}
+
+<!-- Fra 2021: “Nederbragt beskriver sin undervisningsinteresse som et resultat av samarbeid og sampraksis med fagfeller. Videre beskrives det i den pedagogiske mappen at kursene han tilbyr enda er i startfasen, både som undervisningstilbud og som fagfelt. På denne bakgrunn har Nederbragt deltatt i samarbeid med andre forskere i den hensikt å skaffe til veie mer innsikt om hvordan undervisningen slår ut på studentene. Disse funnene er blitt distribuert og delt til fagfeller på institusjonen. Nederbragt viser også til et engasjement knyttet til å samarbeide med og bistå gruppeundervisere og forskningsassistenter i deres arbeid. Det er imidlertid få henvisninger til samarbeid av betydelig omfang med kolleger utenfor fagmiljøet knyttet til det ene emnet. Deling er knyttet til undervisningsfellesskapet han inngår i.” -->
+
+### Beskriv
+
+<!-- Beskriv og reflekter over hvordan du har samarbeidet med kollegaer (inkludert administrasjon, studenter og eksterne samarbeidspartnere) i utvikling, forbedring og gjennomføring av din og andres utdanningspraksis. -->
+
+* DLM2030, samarbeid med mange
+* arbeidsgruppen bachelorprogram Biovitenskap, samarbeid med undervisere og studieadmin på IBV
+* UnderVerk, samarbeid med undervisere og studieadmin på IBV
+* Carpentry@UiO, samarbeid med UB
+* Foredrag om CSE@IBV flere steder, inkludert UiB besøk ved STUT CircleU gruppen (online)
+* Dialog med bl a Geir Kjetil om hvordan å undervise og vurdere programmering
+* Nettverk Geir Kjetil programmering
+* Rapport CSE@IBV fra 2019 (e.l.)
+* Instructor trainer Carpentries?
+* OBiWoW (samarbeid med PhD studenter)
+* erfaringsdokument BIOS1100 og MNPED9000
+* CSE sommerstudenter og lektorstudenter
+
+
+
+### Begrunn
+
+<!-- Begrunn hvorfor du har valgt nettopp disse samarbeidsformene for å styrke utdanningskvalitet. -->
+
+
+* DLM2030: bruke kompetanse jeg har bygget opp over mange år for å vise UiO veien framover
+* Hvorfor erfaringsdeling (hvorfor UnderVerk)
+
+### Eksempler
+
+<!-- Gi eksempler på hvordan samhandling med kollegaer har bidratt til å endre din og andres utdanningspraksis, gjerne forankret i relevant litteratur. -->
+
+
+### Dokumenter
+
+<!-- Dokumenter eventuelle lederroller du har, eller har hatt, for å fremme utdanningskvalitet. -->
+
+* DLM2030
+* SBI
+* Ledergruppen CCSE
+* Fagråd SK-ITU
+* ​​Styret DLN forskerskole
+* Carpentries EC?
+
+### Videre planer
+
+<!-- Beskriv og reflekter over dine konkrete planer for videre kollegialt samarbeid og erfaringsdeling for å fremme utdanningskvalitet. -->
+
+* Arbeidsgruppen videreutvikling CSE@IBV

@@ -1,0 +1,64 @@
+## Fokus på studentenes læring {.unnumbered}
+
+<!-- Fra 2021: “Nederbragt viser til et tydelig fokus på studenters læring. Gjennom en åpen tilnærming til innretting av undervisningsopplegget og en åpenhet for studentevalueringer og tilbakemeldinger, viser Nederbragt en vilje til å justere undervisningsopplegget etter studentenes egne ønsker. Gjennom metoder som «Peer instruction» og «Formative Learning, samt bruk av lærerassistenter, viser Nederbragt at studentenes læring står i sentrum. Det at Nederbragt aktivt tar i bruk digitale hjelpemidler i forbindelse med dette arbeidet og at studentene selv får være med å forme kursene, ser komiteen som en styrke.”  -->
+
+
+* Bruk av samkoding som undervisningsform for å redusere kognitiv last når studenter lærer programmering
+* Bruk av formativ vurdering kombinert med Peer Instruction for å sjekke forståelse og rette opp misforståelser
+* Fokus på samstemt undervisning i utforming av obligatoriske øvelser og eksamensoppgaver, samt hvordan eksamen gjennomføres
+* Bruk av tilbakemeldinger på obligatoriske innleveringer for å kunne hjelpe studenter med å forbedre seg faglig
+
+### Beskriv
+
+<!-- Beskriv og reflekter over hvordan du forstår studentenes læringsprosesser innenfor ditt fagområde. -->
+
+1) Fokus på undervisning av programmering til i fagfelt der dette ikke er en naturlig del av opplæringen --> både BIOS1100 og Carpentries perspektiv (studenter og uteksaminerte)
+2) Viktigheten av pedagogisk kompetanse for ferske undervisere?
+
+--> Beskriv og reflekter over hvordan du forstår studentenes læringsprosesser innenfor ditt fagområde.
+
+1) lære å programmerer er vanskelig, fort stor kognitiv last.
+Introduser kognitiv last @sweller2019Cognitive.
+
+2) man kan ikke anta at studentene har lært det du har undervist
+
+3) aktiv læring
+
+
+
+### Begrunn
+
+<!-- Begrunn hvorfor du vektlegger disse læringsprosessene og diskuter sammenhengene mellom din utdanningspraksis og implikasjoner for studentenes læring, gjerne forankret i pedagogisk og fagdidaktisk litteratur. -->
+
+1) Managing cognitive load in teaching programming: Participatory live coding
+https://lexnederbragt.github.io/teaching-portfolio/03_mappe.html#what-does-this-mean-for-bios1100
+
+2) formativ vurdering 
+
+
+3) aktiv læring
+
+
+### Eksempler
+
+<!-- Gi eksempler på undervisningsdesign, strategier eller metoder du har utviklet og forklar hvordan du engasjerer studentene i forskning og aktive lærings- og vurderingsformer. -->
+
+1) samkoding i BIOS1100; Valg av Jupyter Notebook? → kognitiv last
+
+
+2) MCQ i BIOS1100
+
+3) aktiv læring i MNPED9000
+practice what you preach (aktiv læring gjennomsyrer kurset), pluss temaene jeg underviser i det
+
+### Dokumenter
+
+<!-- Dokumenter hvordan du oppmuntrer studentene til refleksjon og kritisk tenkning. -->
+
+Siste deloppgave i BIOS100, spesielt det de får vurdert
+Essay i MNPED9000?
+
+### Videre planer
+
+<!-- Beskriv og reflekter over konkrete planer for hvordan du vil jobbe med studentenes læring. -->
+

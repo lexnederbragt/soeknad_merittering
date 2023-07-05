@@ -10,9 +10,59 @@
 * Lektorstudentene
 * Emneevalueringer
 
-Emne-evalueringer og sluttrapportet skal være en del av punkt 3, forskende tilnærming (!)
-“Jeg har på en systematisk måte brukt emneevalueringer for å forske på min egen utdanningspraksis, det vil si endre den”
-https://lexnederbragt.github.io/teaching-portfolio/04_mappe.html#evaluering-og-systematisk-utvikling-av-undervisningen
+
+
+Jeg ser på 'En forskende tilnærming' som to ting:
+
+#### Bruk av resultater fra forskning om læring i undervisningen
+
+Jeg er sterkt overbevist om at undervisere bør bruke resultater fra vitenskapelig forskning på læring og utdanning når man planlegger og utvikler sin undervisning. Hvordan jeg bruker forskningen på disse områdene i min undervisning er beskrevet utfyllende i kapittelet om min undervisningsfilosofi.
+
+Kort sammenfattet har jeg fokusert på tre områder:
+
+Teorien om Kognitiv Last (Cognitive Load Theory)
+Formativ vurdering og Peer instruction
+Samstemt undervisning (Constructive Alignment)
+
+
+
+#### Forskning på egen undervisning
+
+##### Systematisk bruk av evalueringer
+
+I min undervisning bruker jeg underveisevaluering og sluttevaluering 
+på en systematisk måte for å forbedre min egen utdanningspraksis.
+
+
+Erfaringsdokument: et delt dokument (en Google Doc) hvor jeg ba gruppelærere om å notere sine erfaringer umiddelbart etter undervisningen. De andre gruppelærere kan da lese dette såkalte erfaringsdokumentet og bruke det for å hjelpe dem med å forberede seg på undervisningen. Jeg bruker dokumentet for å umiddelbart rette opp feil i undervisningsmaterialet, eller foreslå løsninger når ting ikke fungerer som jeg hadde tenkt dem. Dette har fungert veldig bra, og mye nyttig tilbakemelding, eller inspirerende forslag, har blitt skrevet ned av gruppelærere gjennom årene. Det viser også gruppelærere at deres tilbakemeldinger blir tatt på alvor, og at deres innspill til kurset er veldig velkommen. Det gir dem eierskap i undervisningen, noe de også gir meg som tilbakemelding under kursevalueringene mot slutten av semesteret.
+Når jeg forbereder meg til neste års undervisning i kurset, bruker jeg dette dokumentet, og et privat ‘erfaringsdokument’ som jeg skriver selv under semesteret, som et viktig hjelpemiddel for å forbedre undervisningsmaterialet ytterligere og justere undervisningsøkter der det er nødvendig. Disse dokumentene viste seg å være viktig for å forbedre kurset.
+
+På de ukentlige gruppelærermøtene gjennom semesteret starter vi alltid men en kort oppsummering av uken som var for å se om det var noe problemer som må rettes opp i umiddelbart eller for neste gang kurset organiseres.
+
+En kort, online ‘exit quiz’ som studentene fyller ut på slutten av gruppetimen med to spørsmål: “Hva var bra med dagens gruppetime?” og “Hva er fortsatt uklart for deg?”. Dette var verdifull for å forstå eventuelle problemer studentene hadde, slik at de kunne adresseres umiddelbart. Jeg skal fortsette med denne formen for formativ vurdering i kurset framover.
+
+Egenvurdering i obligatoriske innleveringer og som siste frivillig spørsmål under eksamen: 
+Hvordan var det å jobbe med denne oppgaven?
+Hva mestrer du, hva er fortsatt utfordrende?
+
+Også emneevalueringer fra INF_BIO kurset: bytte av undervisere (se https://lexnederbragt.github.io/teaching-portfolio/02_mappe.html#inf-bio5121-9121)
+
+BIOS1100 har også studentrepresentanter, og de har vi felles med BIOS1110. Dette har som fordel at vi sammen med studentene kan avstemme arbeidsbelastning mellom kursene, og bidra til at opplevelser av kursene er noenlunde likt. Det gjennomføres en midtveisevaluering og en sluttevaluering der alle studenter bes å fylle ut et nettskjema. Resultatene av disse spørreundersøkelser diskuteres med studentrepresentantene på felles møter midt i kurset, og etter siste undervisningsuke. Evalueringer har ført til en rekke endringer, som er beskrevet der utviklingen i BIOS1100 beskrives (avsnittet BIOS1100 (2017-)).
+
+
+
+##### Forskningsprosjekt "Programmering og modellering i biologi"
+
+Det er per dags dato lite forskningsbasert kunnskap om hvordan biologistudenter stiller seg til programmering i biologi og enda mindre hvilke læringsstrategier de bruker for å løse biologiske problemstillinger med programmering. Vi er derfor i en unik posisjon ved Institutt for Biovitenskap til å fremskaffe slik kunnskap ved å ‘forske på’ studenter i BIOS1100.
+
+Som et første steg i å samle kunnskap på dette området har kollega Tone Gregers ved IBV tatt initiativ til å tilby lektorstudenter som tar en undervisningsrettet master å skrive sin oppgave om studenter som tar BIOS1100. Så langt har fire masterstudenter hatt et slikt prosjekt, og jeg var medveileder for alle disse. Veiledningsteamet har vært tverrfaglig, med utdanningsforskere fra fysisk institutt (Maria Vetleseter Bøe og Ellen Henriksen) en underviser fra skolelaboratoriet ved Institutt for Biologi (Tone Gregers) og meg som emneansvarlig i BIOS1100.
+
+Formålet med disse prosjektene har vært å undersøke studenters holdninger til, og motivasjon for programmering og modellering i biologi, samt å finne ut hvordan studentene velger å løse ulike biologiske problemstillinger ved hjelp av programmering.
+
+Funnene i masterprosjekter har jeg brukt aktivt for å forbedre kurset, både faglig og hvordan emnet undervises. I tillegg har dette arbeidet blitt presentert på MNT konferansen i 2019 og 2021. MNT konferansen er en nasjonal konferanse om erfaringsdeling av den forskningsbaserte og vitenskapelige tilnærmingen til undervisning og læring etter SoTL (Scholarship of Teaching and Learning) prinsippene. Det har i tillegg blitt publisert en vitenskapelig artikkel om hvordan lektorstudenter som tar en undervisningsrettet master ved instituttet bidrar til undervisningskvaliteten [19], og en om resultatene av to av deres prosjekter [20].
+
+Nedenfor gjøres kort rede for prosjektene, funnene, og hvordan disse har blitt integrert i videreutvikling av BIOS1100.
+
 
 
 
@@ -36,7 +86,7 @@ https://lexnederbragt.github.io/teaching-portfolio/04_mappe.html#evaluering-og-s
 
 <!-- Dokumenter eventuelle priser eller annen anerkjennelse du har mottatt for dine bidrag til utdanningskvalitet. -->
 
-Se emneevalueringer i [vedlegg @sec-vl-emneeval].
+Se emneevalueringer i [ped.mappe @sec-vl-emneeval].
 
 ### Videre planer
 

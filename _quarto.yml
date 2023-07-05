@@ -16,17 +16,21 @@ book:
       - forskningsbasert.qmd
       - kollegialt-samarbeid.qmd
     - referanser.qmd
-    - vedlegg.qmd
+    - ped_mappe.qmd
 
-bibliography: references.bib
+bibliography: pedagogisk_mappe.bib
 csl: plos-computational-biology.csl
 link-citations: true
 
 format:
   html:
     theme: cosmo
+    citations-hover: true
   pdf:
     documentclass: scrreprt
+    toc: false
+  docx: 
+    toc: false
 
 
 

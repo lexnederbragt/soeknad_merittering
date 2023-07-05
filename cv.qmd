@@ -17,7 +17,7 @@ Utdanningsfaglig CV (maks fire A4 sider) skal inneholde en kortfattet oversikt o
 
 #### Universitetspedagogisk kompetanse
 
-<!-- Synkroniser med vedlegg.md -->
+<!-- Synkroniser med ped_mappe.md -->
 <!-- https://app.uio.no/fup/historikk -->
 
 * Jeg tok *Felles innføringsdel* for Universitetspedagogisk Basiskompetanse i 2019

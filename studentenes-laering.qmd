@@ -7,23 +7,46 @@
 * Bruk av formativ vurdering kombinert med Peer Instruction for å sjekke forståelse og rette opp misforståelser
 * Fokus på samstemt undervisning i utforming av obligatoriske øvelser og eksamensoppgaver, samt hvordan eksamen gjennomføres
 * Bruk av tilbakemeldinger på obligatoriske innleveringer for å kunne hjelpe studenter med å forbedre seg faglig
+* lær-å-lære økte Programseminar Biovitenskap H2021 (?) og H2023
+* Motivasjon gjennom valg av relevante biologiske problemstillinger
+
 
 ### Beskriv
 
 <!-- Beskriv og reflekter over hvordan du forstår studentenes læringsprosesser innenfor ditt fagområde. -->
 
-1) Fokus på undervisning av programmering til i fagfelt der dette ikke er en naturlig del av opplæringen --> både BIOS1100 og Carpentries perspektiv (studenter og uteksaminerte)
-2) Viktigheten av pedagogisk kompetanse for ferske undervisere?
 
---> Beskriv og reflekter over hvordan du forstår studentenes læringsprosesser innenfor ditt fagområde.
+Jeg har i min undervisning fokusert på undervise programmering til studenter
+i fagfelt der dette ikke er en naturlig del av opplæringen.
+Et tydelig eksempel på dette er kurset BIOS1100 - Innføring i beregningsmodeller for biovitenskap
+et kurs jeg har bygget opp fra grunnen siden 2017.
+Andre områder er kurs i regi av The Carpentries - [The Carpentries] (https://carpentries.org),
+en global frivillighetsorganisasjon som
+"lærer forskere dataferdighetene de trenger for å få mer gjort på kortere tid og mer effektivt"
+for det meste rettet mot forskere på doktorgrads- og postdoc-nivå.
 
-1) lære å programmerer er vanskelig, fort stor kognitiv last.
-Introduser kognitiv last @sweller2019Cognitive.
+Å lære å programmere anses generelt som vanskelig
+@jenkins2002difficulty @robins2003Learning @guzdial2015LearnerCentered.
+Da er det viktig å velge undervisningsformer som støtter opp under studentenes læring.
+For eksempel tilnærminger som er mer basert på veiledet instruksjon ("Guided instruction") @fisher2013Better.
 
-2) man kan ikke anta at studentene har lært det du har undervist
+Å flytte fokus fra 'det jeg gjør som underviser' til 'det studentene gjør' 
+@kugel1993professors @biggs2012What
+medfører viktige innsikt som at det ville være en feil å anta at
+studentene har lært det du nettopp presenterte for dem.
+Et viktig hjelpemiddel som jeg har tatt i bruk for 
+å undersøke denne læringen er formativ vurdering.
+Formativ vurdering er opptatt av å informere både læreren og eleven
+om hvor mye elevene forstår om et tema, og oppdage eventuelle misforståelser @boston2019Concept.
+Dette gjør det mulig å adressere misforståelser omgående,
+noe som hjelper elevene til å komme videre gjennom materialet.
+I motsetning til summativ vurdering (f. eks. eksamen) er formativ vurdering ikke karaktersatt,
+selv om noen ganger deltakelsen kan være et krav for å kunne bestå et kurs.
+Ideelt sett kan formativ vurdering gjøres raskt og på en enkel måte
+for studenter og lærere å delta og se resultatene.
+
 
 3) aktiv læring
-
 
 
 ### Begrunn
@@ -32,6 +55,10 @@ Introduser kognitiv last @sweller2019Cognitive.
 
 1) Managing cognitive load in teaching programming: Participatory live coding
 https://lexnederbragt.github.io/teaching-portfolio/03_mappe.html#what-does-this-mean-for-bios1100
+
+Introduser kognitiv last @sweller2019Cognitive.
+Å redusere kognitiv belastning for studenter blir da et viktig mål.
+
 
 2) formativ vurdering 
 
@@ -44,6 +71,8 @@ https://lexnederbragt.github.io/teaching-portfolio/03_mappe.html#what-does-this-
 <!-- Gi eksempler på undervisningsdesign, strategier eller metoder du har utviklet og forklar hvordan du engasjerer studentene i forskning og aktive lærings- og vurderingsformer. -->
 
 1) samkoding i BIOS1100; Valg av Jupyter Notebook? → kognitiv last
+Managing cognitive load in teaching programming: Participatory live coding
+https://lexnederbragt.github.io/teaching-portfolio/03_mappe.html#what-does-this-mean-for-bios1100
 
 
 2) MCQ i BIOS1100

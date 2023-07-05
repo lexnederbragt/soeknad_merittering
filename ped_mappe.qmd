@@ -1,0 +1,114 @@
+# Pedagogisk mappe
+
+Alle vedlegg er lagt ut i [en delt mappen på OneDrive](https://uio-my.sharepoint.com/:f:/g/personal/alexajo_uio_no/Et-qt9iClIBNgVCwpQXA7PsBmCR2NjSeF4sbUDopnCiC-A?e=VFR0KC).
+
+## Fokus på studentenes læring
+
+## En klar utvikling over tid
+
+## En forskende tilnærming
+
+### Emneevalueringer {#sec-vl-emneeval}
+
+* BIOS1100 (2017-)
+  * Kurstittel: **Innføring i beregningsmodeller for biovitenskap**
+  * Emnesider: <https://www.uio.no/studier/emner/matnat/ibv/BIOS1100/>
+  * 2017
+    * [Semestersidene](https://www.uio.no/studier/emner/matnat/ibv/BIOS1100/h17/ressurser/hovedside.md)
+    * Fil: `Sluttrapport BIOS1100 Høsten 2017.pdf`
+
+  * 2018
+    * [Canvas sidene](https://uio.instructure.com/courses/5848)
+    * Fil: `Sluttrapport BIOS1100 Høsten 2018.pdf`
+
+  * 2019
+    * [Canvas sidene](https://uio.instructure.com/courses/20058)
+    * Fil: `Sluttrapport BIOS1100 Høsten 2019.pdf`
+
+  * 2020
+    * [Canvas sidene](https://uio.instructure.com/courses/26583)
+    * Fil: `Sluttrapport BIOS1100 Høsten 2020.pdf`
+
+  * Pensumbok "Introduction to Analysis and Modeling in Biology with Python", [siste versjon (august 2020)](https://uio.instructure.com/courses/26583/pages/introduction-to-analysis-and-modeling-in-biology-with-python?module_item_id=266340)
+  * Jeg har skrevet noen blogposter om BIOS1100: <http://lexnederbragt.com/bios1100>
+
+
+## Kollegial holdning og praksis
+
+### Prosjekt Digitale Læringsmiljø 2030 {#sec-vl-dlm2030}
+* [Prosjekts webside](https://www.uio.no/for-ansatte/arbeidsstotte/prosjekter/nestegenerasjons-digitalt-laringsmiljo/index.html)
+* fil `Sluttrapport prosjekt Digitalt læringsmiljø 2030.pdf`
+
+### Arbeidsgruppen for gjennomgang av ferdighetstrening i biovitenskapsprogrammet {#sec-vl-ag-ibv}
+* fil `Anbefalinger fra arbeidsgruppe for ferdighetstrening.pdf`
+
+### UnderVerk ved Insititutt for Biovientskap {#sec-vl-underverk}
+* [IBV side om UnderVerk](https://www.uio.no/for-ansatte/enhetssider/mn/ibv/underverk)
+  krever login med UiO brukernavn og passord
+* [KURT side om UnderVerk](https://www.mn.uio.no/kurt/undervisningsutvikling/underverk))
+* teamet består av Tone Gregers, Hans-Petter Hersleth, Pernille Bronen Eidesen og meg selv
+* Tone gregers fikk i 2019 støtte fra MatNat fakultetets studiekvalitetsmidler 
+  for å starte UnderVerk
+* Noen av temaene for UnderVerk samlingene har vært
+  - Hvordan å skrive LæringsUtbytte Beskrivelser ('LUB'er)
+  - Læringsmål og baklengsdesign
+  - Praktisk implementasjon av pedagogisk teori i undervisningsplanlegging
+  - Studentaktive læringsformer
+  - Bruk av digitale verktøy
+  - Digital undervisning under pandemien
+  - Vurderingsformer
+  - Fusk
+  - Universell Utforming
+
+Under korona pandemien vår 2020 organiserte Underverk et ukentlig treff
+i Zoom for erfaringsutveksling.
+
+Mitt bidrag har vært å hjelpe med planlegging og gjennomføring, samt
+bidra konkret til noen av workshopen:
+
+- Teorien om Kognitiv Last (oktober 2019)
+- Bruk av Zoom for digital undervisning (mars 2020)
+- Digital hjemmeeksamen i BIOS1100 (november 2020)
+- Universell Utforming
+
+* [Læringsutbyttebeskrivelse for BIOS-IN5410](https://www.uio.no/studier/emner/matnat/ibv/BIOS-IN5410/#learning_outcomes)
+
+
+
+<!-- TODO: legge ved PDF av mine slides for UnderVerk -->
+
+### Carpentry@UiO {#sec-vl-carpentry}
+
+* carpentries.org
+* [uio.no/carpentry](http://uio.no/carpentry)
+
+* TTT material
+
+### Lederroller {#sec-vl-leder}
+
+
+## Vedlegg for Utdanningsfaglig CV
+
+### Universitetspedagogisk kompetanse
+
+* *Felles innføringsdel* for Universitetspedagogisk Basiskompetanse i 2019
+  * Kursbevis: Fil: `Kursbevis_universitetspedagogisk_basiskompetanse.pdf`
+  * Utviklingsnotat: Fil: `Utviklingsnotat_Fellesdelen_2019.pdf`
+
+* moduler tatt i tillegg til Fellesdelen:
+  * Forskningsveiledning (2014)
+    * Utviklingsarbeid: Fil: `Utviklingsarbeid_Forskningsveiledning_2014.pdf`
+  * Forelesning og undervisning - det dramaturgiske aspekt (2015)
+  * Pedagogisk mappe (2020)
+  * Læring og undervisning med universell utforming (2022)
+    * Innlevering: Fil: `Assignment_UU_2022.pdf`
+
+* *Felles innføringsdel* i 2014 som 20% 1. amanuensis II
+  * Utviklingsarbeid: Fil: `Utviklingsarbeid_Fellesdelen_2014.pdf`
+
+
+----
+Ikke plassert (ennå)
+
+* Artikkel på mn.uio.no om hvordan det er å studere biovitenskap: https://www.uio.no/studier/program/biovitenskap/studiemiljo/hvordan-er-det-a-studere-biovitenskap.html.
+

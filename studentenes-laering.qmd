@@ -10,25 +10,21 @@
 * lær-å-lære økte Programseminar Biovitenskap H2021 (?) og H2023
 * Motivasjon gjennom valg av relevante biologiske problemstillinger
 
+<!-- HUSK å introdusere Carpentries første gang det nevnes! -->
 
 ### Beskriv
 
 <!-- Beskriv og reflekter over hvordan du forstår studentenes læringsprosesser innenfor ditt fagområde. -->
 
-
 Jeg har i min undervisning fokusert på undervise programmering til studenter
 i fagfelt der dette ikke er en naturlig del av opplæringen.
 Et tydelig eksempel på dette er kurset BIOS1100 - Innføring i beregningsmodeller for biovitenskap
-et kurs jeg har bygget opp fra grunnen siden 2017.
-Andre områder er kurs i regi av The Carpentries - [The Carpentries] (https://carpentries.org),
-en global frivillighetsorganisasjon som
-"lærer forskere dataferdighetene de trenger for å få mer gjort på kortere tid og mer effektivt"
-for det meste rettet mot forskere på doktorgrads- og postdoc-nivå.
+et nytt emne jeg har utviklet siden 2017.
 
 Å lære å programmere anses generelt som vanskelig
 @jenkins2002difficulty @robins2003Learning @guzdial2015LearnerCentered.
 Da er det viktig å velge undervisningsformer som støtter opp under studentenes læring.
-For eksempel tilnærminger som er mer basert på veiledet instruksjon ("Guided instruction") @fisher2013Better.
+For eksempel tilnærminger som er basert på veiledet instruksjon ("Guided instruction") @fisher2013Better.
 
 Å flytte fokus fra 'det jeg gjør som underviser' til 'det studentene gjør' 
 @kugel1993professors @biggs2012What
@@ -45,49 +41,90 @@ selv om noen ganger deltakelsen kan være et krav for å kunne bestå et kurs.
 Ideelt sett kan formativ vurdering gjøres raskt og på en enkel måte
 for studenter og lærere å delta og se resultatene.
 
-
-3) aktiv læring
+Et tredje viktig aspekt er aktiv læring:
+progreammering, som mange andre fag, kan ikke læres av å se på slides.
+Studentene må aktivt jobbe med stoffet, og i dialog med hverandre.
 
 
 ### Begrunn
 
 <!-- Begrunn hvorfor du vektlegger disse læringsprosessene og diskuter sammenhengene mellom din utdanningspraksis og implikasjoner for studentenes læring, gjerne forankret i pedagogisk og fagdidaktisk litteratur. -->
 
-1) Managing cognitive load in teaching programming: Participatory live coding
-https://lexnederbragt.github.io/teaching-portfolio/03_mappe.html#what-does-this-mean-for-bios1100
-
-Introduser kognitiv last @sweller2019Cognitive.
-Å redusere kognitiv belastning for studenter blir da et viktig mål.
-
+Kognitiv belastningsteori er opptatt med hvordan belastning av arbeidsminne
+kan optimeres for å fremme læring @sweller2019Cognitive
+og er relevant for programmeringsundervisning @caspersen2007Instructional.
+Overbelastning av arbeidsminnet hemmer effektiv overføring av ny kunnskap til langtidsminnet,
+som er nødvendig for læring.
+Denne teorien har vært påvirket min utdanningspraksis mår det gjelder valg av undervisningsmetoder og digitale verktøy.
 
 2) formativ vurdering 
 
 
 3) aktiv læring
 
+4) meningsfult samsvar og baklengs design
+
+5) viktigheten av pedagogikk kunnskap for undervisere
 
 ### Eksempler
 
-<!-- Gi eksempler på undervisningsdesign, strategier eller metoder du har utviklet og forklar hvordan du engasjerer studentene i forskning og aktive lærings- og vurderingsformer. -->
+<!-- Gi eksempler på undervisningsdesign, strategier eller metoder du har utviklet
+og forklar hvordan du engasjerer studentene i forskning og aktive lærings- og vurderingsformer. -->
 
-1) samkoding i BIOS1100; Valg av Jupyter Notebook? → kognitiv last
-Managing cognitive load in teaching programming: Participatory live coding
-https://lexnederbragt.github.io/teaching-portfolio/03_mappe.html#what-does-this-mean-for-bios1100
+Samkoding, eller 'Participatory Live Coding' er
+en teknikk der en underviser skriver kode og programmer sammen med studentene @nederbragt2020Ten.
+Teknikken, som er mye brukt av The Carpentries, er ment å
+senke terskelen for å komme i gang med programmeringen.
+Det er et eksempel på veiledet instruksjon @fisher2013Better.
+I BIOS1100 brukes samkoding for å undervise elementære kunnskap i Python
+gjennom hele kurset i samkodingsgruppene ledet av gruppelærere,
+som får opplæring i teknikken
+og en bruker samodingsoppskrift som jeg har utviklet.
+Det lille som er av forksning på live-koding i undervisningen viser at
+teknikken er like bra som, om ikke bedre enn å bruke statiske kodeeksempler @raj2018Role @raj2020Livecoding
+og er derfor en anbefalt tilnærming for undervisning i programmering  @brown2018Ten @wright2020why
 
+Peer Instruction er en evidensbasert metode der elevene aktivt diskuterer materialet
+basert på spørsmål levert av læreren @mazur1997Peer.
+Ved å be studentene om å reflektere over kursmateriell i sine egne ord,
+er en student som nettop forsto materialet i stand til å forklare det på en måte
+som samsvarer med bedre en student som nesten forstår materialet,
+enn måten en lærer vil forklare det på.
+Metoden har vist positive resultater på studentens læring i programmering @crouch2001Peer.
+Jeg bruker metoden aktivt i min undervisning, oftest i kombinasjon formativ vurdering
+gjennom flervalgsspørsmål som besvares av alle studenter via Mentimeter.
+Når den første runden av av stemmingen viser uenighet, og dermed misforståelser
+blant studentene lar jeg dem studere svaralternativer seg i mellom.
+Den neste avstemmningen viser da oftest at flere har forstått det.
 
-2) MCQ i BIOS1100
+Kurset MNPED9000 – Teaching in STEM, hjelper PhD studenter med pliktarbeid,
+å utvikle sin evne til fasilitere studentens læring
+gjennom å utforske prinsipper for undervisning og læring i høyere utdanning.
+Et viktig aspekt av dette kurset er at undervisningsmetodene som undervises i
+brukes aktivt under kurset: innholdet og aktivitetene kobles aktivt opp mot 
+læringsubtyttebeskrivelser for å vise baklengsdesign av undervisningen
+og meningsfylt samsvar i praksis;
+øktene bruker aktive læringsaktiviteter som tenk-par-del, gruppediskusjoner,
+studenter som gir tilbakemelding på hverandres arbeid
 
-3) aktiv læring i MNPED9000
-practice what you preach (aktiv læring gjennomsyrer kurset), pluss temaene jeg underviser i det
+<!-- Nevne temaene jeg underviser i det ?-->
+
+4) eksamen i BIOS1100
+I BIOS1100 har meningsfult samsvar og baklengs design blitt implementer mer og mer.
+Et godt eksempel er 
+
+5) Gruppelæreropplæring, LA seminar og MNPED9000
 
 ### Dokumenter
 
 <!-- Dokumenter hvordan du oppmuntrer studentene til refleksjon og kritisk tenkning. -->
 
-Siste deloppgave i BIOS100, spesielt det de får vurdert
-Essay i MNPED9000?
+* Siste deloppgave i BIOS100, spesielt det de får vurdert
+* Diskusjonsoppgaver i MNPED9000
+* Essay i MNPED9000
 
 ### Videre planer
 
 <!-- Beskriv og reflekter over konkrete planer for hvordan du vil jobbe med studentenes læring. -->
 
+* MNPED for ansatte

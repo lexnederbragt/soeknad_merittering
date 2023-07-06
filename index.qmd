@@ -1,5 +1,9 @@
 # Introduksjon {.unnumbered}
 
-This is a Quarto book.
+Denne søknaden er organisert i følge [SoTL-kriteriene](https://www.issotl.com).
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+::: {.content-visible when-format="html"}
+
+Denne søknaden er skrevet som en Quarto bok.
+For å lære mer om Quarto, besøk <https://quarto.org/docs/books>.
+:::

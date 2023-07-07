@@ -2,13 +2,13 @@
 
 <!-- Fra 2021: “Nederbragt viser til et tydelig fokus på studenters læring. Gjennom en åpen tilnærming til innretting av undervisningsopplegget og en åpenhet for studentevalueringer og tilbakemeldinger, viser Nederbragt en vilje til å justere undervisningsopplegget etter studentenes egne ønsker. Gjennom metoder som «Peer instruction» og «Formative Learning, samt bruk av lærerassistenter, viser Nederbragt at studentenes læring står i sentrum. Det at Nederbragt aktivt tar i bruk digitale hjelpemidler i forbindelse med dette arbeidet og at studentene selv får være med å forme kursene, ser komiteen som en styrke.”  -->
 
-
+<!-- 
 * Bruk av samkoding som undervisningsform for å redusere kognitiv last når studenter lærer programmering
 * Bruk av formativ vurdering kombinert med Peer Instruction for å sjekke forståelse og rette opp misforståelser
 * Fokus på samstemt undervisning i utforming av obligatoriske øvelser og eksamensoppgaver, samt hvordan eksamen gjennomføres
 * Bruk av tilbakemeldinger på obligatoriske innleveringer for å kunne hjelpe studenter med å forbedre seg faglig
 * lær-å-lære økte Programseminar Biovitenskap H2021 (?) og H2023
-* Motivasjon gjennom valg av relevante biologiske problemstillinger
+* Motivasjon gjennom valg av relevante biologiske problemstillinger -->
 
 <!-- HUSK å introdusere Carpentries første gang det nevnes! -->
 

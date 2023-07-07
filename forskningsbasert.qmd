@@ -2,16 +2,11 @@
 <!-- Fra 2021: “I sin søknad viser Nederbragt til forskningslitteratur som grunnlag for hvordan mye av undervisningen er lagt opp. Det legges særlig vekt på aktiv studentdeltakelse og formative vurderinger fra studentene selv. Nederbragt viser til at det er foretatt avveininger til valget av metoder brukt i undervisningen. Kombinert med aktiv innhenting av evalueringer av undervisningen, både ved midtveis og slutt, samt ved hvert enkelt seminar, viser Nederbragt at det foreligger en forskende tilnærming til undervisningen. Det hele knyttes til ett emne som han aktivt har bidratt til å utvikle i ulike faser og ved bruk av forskjellige pedagogiske modeller.” -->
 
 
-### Beskriv
+<!-- ### Beskriv -->
 
 <!-- Beskriv og reflekter over hvordan du har tatt i bruk forskning i din utdanningspraksis, både med hensyn til faglig innhold og pedagogisk metode. -->
 
-
-* Lektorstudentene
-* Emneevalueringer
-
-
-
+<!--
 Jeg ser på 'En forskende tilnærming' som to ting:
 
 #### Bruk av resultater fra forskning om læring i undervisningen
@@ -23,48 +18,59 @@ Kort sammenfattet har jeg fokusert på tre områder:
 Teorien om Kognitiv Last (Cognitive Load Theory)
 Formativ vurdering og Peer instruction
 Samstemt undervisning (Constructive Alignment)
+-->
 
-
-
-#### Forskning på egen undervisning
-
-##### Systematisk bruk av evalueringer
+### Systematisk bruk av evalueringer
 
 I min undervisning bruker jeg underveisevaluering og sluttevaluering 
 på en systematisk måte for å forbedre min egen utdanningspraksis.
 
-
-Erfaringsdokument: et delt dokument (en Google Doc) hvor jeg ba gruppelærere om å notere sine erfaringer umiddelbart etter undervisningen. De andre gruppelærere kan da lese dette såkalte erfaringsdokumentet og bruke det for å hjelpe dem med å forberede seg på undervisningen. Jeg bruker dokumentet for å umiddelbart rette opp feil i undervisningsmaterialet, eller foreslå løsninger når ting ikke fungerer som jeg hadde tenkt dem. Dette har fungert veldig bra, og mye nyttig tilbakemelding, eller inspirerende forslag, har blitt skrevet ned av gruppelærere gjennom årene. Det viser også gruppelærere at deres tilbakemeldinger blir tatt på alvor, og at deres innspill til kurset er veldig velkommen. Det gir dem eierskap i undervisningen, noe de også gir meg som tilbakemelding under kursevalueringene mot slutten av semesteret.
-Når jeg forbereder meg til neste års undervisning i kurset, bruker jeg dette dokumentet, og et privat ‘erfaringsdokument’ som jeg skriver selv under semesteret, som et viktig hjelpemiddel for å forbedre undervisningsmaterialet ytterligere og justere undervisningsøkter der det er nødvendig. Disse dokumentene viste seg å være viktig for å forbedre kurset.
-
-På de ukentlige gruppelærermøtene gjennom semesteret starter vi alltid men en kort oppsummering av uken som var for å se om det var noe problemer som må rettes opp i umiddelbart eller for neste gang kurset organiseres.
-
-En kort, online ‘exit quiz’ som studentene fyller ut på slutten av gruppetimen med to spørsmål: “Hva var bra med dagens gruppetime?” og “Hva er fortsatt uklart for deg?”. Dette var verdifull for å forstå eventuelle problemer studentene hadde, slik at de kunne adresseres umiddelbart. Jeg skal fortsette med denne formen for formativ vurdering i kurset framover.
-
-Egenvurdering i obligatoriske innleveringer og som siste frivillig spørsmål under eksamen: 
-Hvordan var det å jobbe med denne oppgaven?
-Hva mestrer du, hva er fortsatt utfordrende?
-
-Også emneevalueringer fra INF_BIO kurset: bytte av undervisere (se https://lexnederbragt.github.io/teaching-portfolio/02_mappe.html#inf-bio5121-9121)
-
-BIOS1100 har også studentrepresentanter, og de har vi felles med BIOS1110. Dette har som fordel at vi sammen med studentene kan avstemme arbeidsbelastning mellom kursene, og bidra til at opplevelser av kursene er noenlunde likt. Det gjennomføres en midtveisevaluering og en sluttevaluering der alle studenter bes å fylle ut et nettskjema. Resultatene av disse spørreundersøkelser diskuteres med studentrepresentantene på felles møter midt i kurset, og etter siste undervisningsuke. Evalueringer har ført til en rekke endringer, som er beskrevet der utviklingen i BIOS1100 beskrives (avsnittet BIOS1100 (2017-)).
+*Underveis* bruker jeg altid et delt erfaringsdokument der av undervisere/gruppelræere
+sammen beskriver erfaringer umiddelbart etter undervisningen.
+Dette lar meg rette opp feil i materialet som skal gis igjen samme uke,
+eller er grunnlaget for forbederinger til neste gang.
+Dette gir også gruppelærer eierskap i undervisningsutvikling,
+noe de sette pris på.
+Disse dokumentene viste seg å være viktig for å forbedre kurset.
+På slutten av gruppetimene ber jeg studentene å besvare
+en online ‘exit quiz’: "Hva var bra med dagens gruppetime?" og "Hva er fortsatt uklart for deg?"
+Dette er verdifull for å forstå eventuelle problemer studentene ----------
+Slik at de kan adresseres umiddelbart.
+Samme spørsmål stilles som siste frivilig oppgave under eksamen.
 
 
+Det gjennomføres en midtveisevaluering og en sluttevaluering
+der alle studenter bes å fylle ut et nettskjema.
+Resultatene av disse spørreundersøkelser diskuteres med studentrepresentantene,
+som vi har felles med de andre 1. semester kursene.
+Evalueringer har ført til en rekke endringer,
+som er beskrevet der utviklingen i BIOS1100 beskrives (avsnittet BIOS1100 (2017-)).
+<!-- FIXME -->
 
-##### Forskningsprosjekt "Programmering og modellering i biologi"
+Se emneevalueringer i [ped.mappe @sec-vl-emneeval].
 
-Det er per dags dato lite forskningsbasert kunnskap om hvordan biologistudenter stiller seg til programmering i biologi og enda mindre hvilke læringsstrategier de bruker for å løse biologiske problemstillinger med programmering. Vi er derfor i en unik posisjon ved Institutt for Biovitenskap til å fremskaffe slik kunnskap ved å ‘forske på’ studenter i BIOS1100.
+### Forskningsprosjekt "Programmering og modellering i biologi"<!-- FIXME -->
 
-Som et første steg i å samle kunnskap på dette området har kollega Tone Gregers ved IBV tatt initiativ til å tilby lektorstudenter som tar en undervisningsrettet master å skrive sin oppgave om studenter som tar BIOS1100. Så langt har fire masterstudenter hatt et slikt prosjekt, og jeg var medveileder for alle disse. Veiledningsteamet har vært tverrfaglig, med utdanningsforskere fra fysisk institutt (Maria Vetleseter Bøe og Ellen Henriksen) en underviser fra skolelaboratoriet ved Institutt for Biologi (Tone Gregers) og meg som emneansvarlig i BIOS1100.
+Det er per dags dato lite forskningsbasert kunnskap om hvordan biologistudenter 
+stiller seg til programmering i biologi og hvilke læringsstrategier de bruker
+Vi er derfor i en unik posisjon til å fremskaffe slik kunnskap
+ved å ‘forske på’ studenter i BIOS1100.
 
-Formålet med disse prosjektene har vært å undersøke studenters holdninger til, og motivasjon for programmering og modellering i biologi, samt å finne ut hvordan studentene velger å løse ulike biologiske problemstillinger ved hjelp av programmering.
+Jeg har vært med i et tverrfaglig veilederteam for fire lektorstudenter som tar en undervisningsrettet master
+om studenter som tar BIOS1100.
+Formålet med disse prosjektene har vært å undersøke studenters holdninger til, motivasjon for,
+og problemløsningsstrategiger i programmering og modellering i biologi.
 
-Funnene i masterprosjekter har jeg brukt aktivt for å forbedre kurset, både faglig og hvordan emnet undervises. I tillegg har dette arbeidet blitt presentert på MNT konferansen i 2019 og 2021. MNT konferansen er en nasjonal konferanse om erfaringsdeling av den forskningsbaserte og vitenskapelige tilnærmingen til undervisning og læring etter SoTL (Scholarship of Teaching and Learning) prinsippene. Det har i tillegg blitt publisert en vitenskapelig artikkel om hvordan lektorstudenter som tar en undervisningsrettet master ved instituttet bidrar til undervisningskvaliteten [19], og en om resultatene av to av deres prosjekter [20].
+Funnene i masterprosjekter har jeg brukt aktivt for å forbedre kurset,
+både faglig og hvordan emnet undervises.
+Eksempler er øke relevans med valg av temaer som for eksempel Covid-19 data,
+og økt fokus på problemløsningsstrategier.
+I tillegg har dette arbeidet blitt presentert på MNT konferansen og publisert
+[NJSTEME: @gregers2019Lektorstudenter @eliassen2021Motivasjon].
 
-Nedenfor gjøres kort rede for prosjektene, funnene, og hvordan disse har blitt integrert i videreutvikling av BIOS1100.
+### Videre planer
 
-
-
+::: {.content-hidden}
 
 ### Begrunn
 
@@ -72,15 +78,12 @@ Nedenfor gjøres kort rede for prosjektene, funnene, og hvordan disse har blitt 
 
 * Realfagsforskning versus utdanningsvitenskapelig forskning?
 
-
-
 ### Eksempler
 
 <!-- Gi eksempler på hvordan du forsker på egen utdanningspraksis og hvordan du har inkludert evalueringer og tilbakemeldinger fra studentene i utviklingen av din utdanningspraksis. -->
 
 * Lektorstudentene
 * Emneevalueringer
-
 
 ### Dokumenter
 
@@ -91,3 +94,5 @@ Se emneevalueringer i [ped.mappe @sec-vl-emneeval].
 ### Videre planer
 
 <!-- Beskriv og reflekter over konkrete planer for å videreutvikle din forskende tilnærming for å fremme utdanningskvalitet. -->
+
+:::

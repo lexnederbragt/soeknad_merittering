@@ -15,11 +15,6 @@ Rapporten kom med en rekke funn og anbefalinger ([ped.mappe @sec-vl-dlm2030]).
 En viktig anbefaling er å ha pedagogikk sentralt når man jobber med det digitale læringsmiljøet.
 
 I 2016 etablerte jeg sammen med en kollega og i samarbeid med Realfagsbiblioteket Carpentry@UiO som en lokal avdeling av The Carpentries.
-The Carpentries er en internasjonal
-organisasjon av frivillige som organiserer workshops om verktøy
-for forskere som bruker beregninger og programmering i sin forskning
-('research computing').
-Jeg ble først sertifisert instruktør, senere også instruktør trener for organisasjonen.
 Carpentry@UiO har organisert mer enn ett hundre workshops med deltakere fra alle fakulteter, universitetsbibliotek og IT-avdelingen
 og UiO har flere titals personer utdannet som instruktør for organisasjonen([ped.mappe @sec-vl-carpentry]).
 

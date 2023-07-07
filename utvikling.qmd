@@ -1,71 +1,116 @@
 ## En klar utvikling over tid {.unnumbered}
 
-<!-- Fra 2021: “Nederbragt beskriver utvikling over tid, og viser til at enkel interesse for undervisning i seminargrupper har vokst seg til et stort engasjement for undervisningens muligheter som helhet. Nederbragt har stadig fått mer undervisningsansvar ved sitt institutt, og har jevnlig deltatt på kurs. Nederbragt viser en evne til å plukke opp problemer tidsnok, samt ta til seg tilbakemeldinger fra studenter og fagfeller, slik at nødvendige løsninger kan settes i verk – eksemplifisert gjennom endringen til samkoding og delt gruppeundervisning i BIOS1100. Det er verdt å merke at Nederbragt også utviser en særlig god forståelse om hvordan kunnskap om undervisning som fagfelt og undervisningsobjektene kan tas inn i undervisningen, eksemplifisert gjennom samarbeidet med Tone Gregers ved MatNat.” -->
+<!-- NYTT FORSØK basert på drodling.md -->
 
-### Beskriv
-
-<!-- Beskriv, analyser og reflekter over hvordan du systematisk har utviklet din utdanningspraksis over tid, inkludert endring av emner eller studieprogrammer, samt utprøving og utvikling av innovative undervisnings- og vurderingsformer. -->
-
-Personlig egenskap at jeg ønsker å lære andre det jeg har lært selv.
-
-Constructive alignment in BIOS1100
-JupyterHub under eksamen
-JupyterHub prosjekt (vellykket søknad)
-
-Instructor trainer Carpentries → ped.opplæring gruppelærere → LA program og MNPED9000
-Viktigheten av pedagogisk kompetanse for ferske undervisere?
-
-----
-
-En viktig egenskap jeg har oppdaget hos meg selv er jeg drives 
-av å videreformidle ny nttig kunnskap jeg selv akkurat har lært meg.
-
-Min første erfaring som underviser var som gruppelærer for et kurs i zoologi.
+Min første erfaring som underviser var som gruppelærer for et kurs i zoologi da jeg var PhD student.
 Jeg følte at jeg lærte en god del mer av å undervise faget, da når jeg tok faget selv.
 
-Som PhD student fikk jeg mulighet til å bli med som underviser
-på det europeiske Erasmus kurset “Marine Cell Biology”,
-som fant sted på et marin biologisk laboratorium i Frankrike.
-Denne erfaringen fortalte meg at jeg faktisk likte å undervise,
-å stå foran en gruppe studenter og formidle min kunnskap til dem.
+Mine første forelesninger i kurset BIO2120 Evolusjonsbiologi, 
+som jeg ble bedt å ta over et år, var standard 2x45 minutter.
+Det var sikkert bra med hadde ingen studentaktivisering.
 
-Som postdoktor ved Biologisk Institutt (nå Institutt for Biovitenskap) ved UiO
-ble jeg bedt å bidra med noen forelesninger i kurset BIO2120 Evolusjonsbiologi.
-Jeg var da fortsatt opptatt av den klassiske undervisningsmetoden
-med 45 minutter lange forelesninger og ingen studentaktiviserende øvelser.
+Da jeg måtte lære meg å bruke kommandolinje-baserte verktøy og supercomputere,
+og programmering som en del av min forskerkarriere
+begynte jeg med en gang å utvikle og holde korte kurs og workshops for kolleger
+i bruk disse verktøyene programmering.
 
-Som forsker byttet jeg imidlertid fagfelt i retning bioinformatikk 
-Dette førte til at jeg måtte lære meg å bruke kommandolinje-baserte verktøy og supercomputere,
-og programmering.
+Deretter ble jeg kjent med The Carpentries, en internasjonal
+organisasjon av frivillige som organiserer workshops om verktøy
+for forskere som bruker beregninger og programmering i sin forskning
+('research computing').
+Etter å ha tatt en av deres workshops gikk jeg gjennom deres instruktørtrening.
+Senere ble jeg selv instruktørtrener for organisasjonen.
+Dette var mitt første møte med pedagogikk, og
+studentaktive læringsformer som hands-on læring,
+og samkodingsteknikken, en form for guided instruction som jeg siden brukte i alle mine workshops.
+Mitt mål for min undervisning ble at deltakere og studenter
+skulle kunne fortsette med det de lærte med en gang etter undervisningen.
 
-Jeg merket fort at jeg trivdes med å videreformidle min nye kunnskap til mine kollegaer.
-Jeg ga korte kurs for kolleger i bruk av de verktøyene jeg brukte mest, og i programmering.
-Sammen med en kollegaforsker fra Storbrittania utviklet vi en to-dagers workshop
-om teknikker for å sette sammen genomer, såkalt ‘genom assembly’,
-som hadde en praktisk tilnærming:
-deltakere fikk mye hands-on erfaring med ekte data og bruk av verktøyene.
-Dette var starten av en ny periode der jeg ble mer og mer overbevist om at denne hands-on læringen fungerer veldig bra, og er en god mulighet til å koble undervisningen veldig tett på pågående forskning.
+I 2012 fikk jeg min første erfaring som kursansvarlig (emneansvarlig)
+med INF-BIO5121/9121 - High Throughput Sequencing technologies and bioinformatics analysis. 
+Dette førte til en bedre forståelse for forberedelse, gjennomføring, 
+eksamen og evaluering. og studentenes perspektiv på undervisning.
+En utfording vi fikk var at noen av undervisere fikk veldig dårlig
+tilbakemelding fra studentene i studentevalueringer.
+Dette førte til at jeg valgte å bytte ut disse,
+og lærte til viktigheten av å bruke studenteavlueringer systematisk.
+Rollen min var også å ledet et team av undervisere,
+men vi kom ikke lengre enn å dele kunnskap og erfaring,
+som bare er et element når et team skal lære og utvikle seg effektivt sammen [de andre to er 
+å engasjere seg i konstruktive konflikter og konstruere ting sammen @koeslag-kreunen2018Leadership].
 
-I 2012 fikk ejg mulighet til å lage et poenggivende kurs på master og PhD nivå basert
-på en sammeslåing av flere kurs, inkludert min.
-I 2013 ble jeg tilbudt en 20% 1. amanuensis II stilling ved Institutt for Informatikk for blant annet å være kursansvarlig for dette kurset. Dette ble INF-BIO5121/9121 - High Throughput Sequencing technologies and bioinformatics analysis. Kurset har blitt en suksess og tiltrakk seg mange studenter, flest biologer, men også noen informatikere. 
+<!-- si litt om eksamen? Andre innovative und formen? HPC serveren? -->
 
-Dette var min første erfaring som kursansvarlig (emneansvarlig), som var noe nytt for meg.
-Erfaringene som emneansvarlig var positiv, og førte til en bedre forståelse for hele kursets løp, fra forberedelse, gjennomføring, eksamen og evaluering. Jeg fikk også bedre innsikt i studentenes perspektiv på å ta universitetskurs.
-
-I 2017 ble det introdusert nye bachelorprogrammer i alle studieprogrammer
-ved det matematisk- naturvitenskapelige fakultet ved Universitetet i Oslo.
-Alle programmene inkluderte fra da av et beregningsaspekt fra første semester. Dette var et viktig steg i det prisbelønte prosjektet ‘Computing in Science Education’ (CSE) ved fakultetet. Målet var å integrere beregninger som et naturlig verktøy i utdanningen, for å forberede studentene på en karriere der dette er en mye etterspurt kompetanse. På Institutt for Biovitenskap ble dette implementert ved  Videre skulle andre kurs, både obligatoriske og fordypningskursene, implementere beregningsperspektivet som en del av undervisningen.
-
-I 2016 fikk jeg tilbud å ta emneansvar for BIOS1100 - Innføring i beregningsmodeller for biovitenskap, et nytt kurs som er obligatorisk for alle biovitenskapelige studenter i deres første semester.
-Kurset skulle gi nye biologistudenter beregningskompetanse
+I 2017 fikk jeg fikk tilbud å ta emneansvar for
+BIOS1100 - Innføring i beregningsmodeller for biovitenskap,
+et nytt obligatorisk førstesemsterkurs i studieprogrammet Biovitenskap,
+som skulle gi biologistudenter beregningskompetanse
 som en del av fakultetes satsning på ‘Computing in Science Education’ (CSE). 
-Dette var en fantastisk mulighet til å utvikle et unikt kurs
-som skulle forberede studentene til å være framtidens biologer.
-Det viste seg imidlertid at dette ansvaret var mye større enn jeg hadde forutsett, men også har vært veldig givende. BIOS1100, og jeg som underviser, har gått gjennom en utrolig utvikling de første fire gangene det ble undervist. 
+BIOS1100, og jeg som underviser, har gått gjennom en utrolig utvikling,
+der jeg har måtte løse en rekke utfordringer.
+
+Den første gangen kurset ble undervist 
+stolte jeg for mye på selvstendig læring av programmeringen [‘minimal guidance’ @clark2012Putting].
+Dette førte til at mange studenter var i ferd med å falle av fordi de ikke klarte
+å lære seg programmeringen.
+Jeg valgte da å tilby ekstra undervisning med hjelp av samkoding,
+en form for Direkte Instruksjon (‘direct instruction’)
+som er å foretrekke i begynnerundervisningen @clark2012Putting.
+Jeg implementerte deretter denne teknikken som en fast del av undervisningen.
+
+En annen utfording var at boken som ble (og blir) skrevet for kurset
+introduserte forskjellige måter å gjøre omtrent samme ting i Python på
+ble undervist kort opp på hverandre (forskjellige liste strukturere)
+eller i en ugunstig rekkefølge (forskjellige type løkker)
+Å undervise lignende ting så kort oppå hverandre 
+og en mer kompleks variant før den enklere,
+overbelastet studentene kognitivt @sweller2019Cognitive.
+Løsningen var å skrive om kursboken, som hjalp mye med å redusere forvirringen etterpå.
+
+En typisk utfordring når undervise programmering er at studentene
+må installere en del programvarer på sin datamaskin, noe som kan være problematisk.
+Det finnes også mange foskjellige verktøy for å skrive kode.
+Vi valgte å ta i bruk av Jupyter notebooks, som kan inneholde
+tekst, kode som kan kjøres, og bilder.
+Dette blir hgort tilgjengelig gjennom UiO sin JupyterHub,
+en skytjeneste som studentene kan logge seg inn på uten behov
+for installasjon på egen maksin,
+som ble satt opp bl.a. for BIOS1100, og nå brukes av mange kurs ved UiO.
 
 
+<!--
+Utfordring: hvordan å aktivisere studenter. Løsning: penn-og-papir øvelser, MCQ/Peer Instruction, Active Learning Classroom
+Utfordring: kan ikke kode på eksamen. Løsning: eksamens-JupyterHub (constructive alignment)
+Utfordring: studenter har ikke effektive problemløsningsstrategier. Løsning: CCSE sommerstudentprosjekt 2023?
+Utfordring: gruppelærere har ikke pedagogisk kompetanse. Løsning: tilby enkel pedagogikk opplæring, så LA programmet
+-->
 
+
+I denne prosessen har jeg, som Peter Kugel så fint beskriver @kugel1993professors,
+flyttet fokus fra 'det jeg gjør som underviser' til 'det studentene gjør' 
+[se også @biggs2012What].
+
+
+Framover ønsker jeg å forebdre den pedagogiske bruken av digitalt verktøy i kurset,
+spesielt Canvas. 
+Det pågående prosjekt "Integrasjon av Jupyter og Canvas for digital vurdering"
+som jeg har fått innvilget skal bidra til det,
+og vi skal teste ut digitalt opplegg i Canvas som studentene skal gjennomføre
+før undervisningen.
+
+<!-- 
+Par programmering
+Bærekraft: flere modeller som har med det å gjøre
+Innovasjon: kombinere felt arbeid med beregningsmodeller
+Digitalisering: bedre pedagogisk bruk av Canvas
+Fra obliger til Innleveringsoppgaver
+Fra 4 timer til 2 timer gruppetimer
+-->
+
+::: {.content-hidden}
+
+
+-------------
 
 ### Begrunn
 
@@ -91,3 +136,4 @@ Det viste seg imidlertid at dette ansvaret var mye større enn jeg hadde forutse
 
 <!-- Beskriv og reflekter over konkrete planer for videreutvikling av din egen utdanningspraksis, gjerne knyttet til UiOs Strategi 2030 når det gjelder bærekraft, innovasjon eller digitalisering. -->
 
+:::

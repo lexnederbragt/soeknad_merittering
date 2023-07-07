@@ -9,13 +9,36 @@ format:
 
 ---
 
-# Utdanningsfaglig CV {.unnumbered}
+# Utdanningsfaglig CV Alexander (Lex) Nederbragt {.unnumbered}
 
 <!-- 
 Utdanningsfaglig CV (maks fire A4 sider) skal inneholde en kortfattet oversikt over personalia, utdanning, universitetspedagogisk basiskompetanse og relevant pedagogisk erfaring. Det må av utdanningsfaglig CV tydelig framgå når du fikk fast ansettelse ved UiO.
  -->
 
-#### Universitetspedagogisk kompetanse
+## Personalia
+
+**Fødselsdato**: 28. juni 1972, Nederland
+**Addresse**: Hiltonåsen 34, 1341 Slependen, Norway  
+**Mobil**: +47 48028722  
+**Epost**: <lex.nederbragt@ibv.uio.no>  
+
+## Utdanning
+
+* 1997-2001 PhD Biologi, Utrecht Graduate School of Developmental Biology, Universitetet i Utrecht, Nederland
+* 1990-1996 BSc & MSc Biologi, Universitetet i Utrecht, Nederland
+
+## Arbeidserfaring
+
+* 2018- Førstelektor, Inst. for Biovitenskap og Inst. for Informatikk, Universitetet i Oslo
+* 2018- Nestleder hovedansvar for koordinering av utdanningsaktiviteter, Senter for Bioinformatikk, Inst. for Informatikk,
+  Universitetet i Oslo
+* 2013-2018 Førsteamanuensis II (20%), Inst. for Informatikk, Universitetet i Oslo
+* 2005-2018 Postdoktor, forsker, Senior ingeniør, Inst. for Biovitenskap, Universitetet i Oslo
+* 2003-2005 Senior Scientist, Lingvitae AS, Oslo
+* 2002-2003 Postdoktor, University of Hawaii, USA
+
+
+## Universitetspedagogisk kompetanse
 
 <!-- Synkroniser med ped_mappe.md -->
 <!-- https://app.uio.no/fup/historikk -->
@@ -40,7 +63,7 @@ Utdanningsfaglig CV (maks fire A4 sider) skal inneholde en kortfattet oversikt o
   * Emnesidene: URL: "https://www.uio.no/studier/emner/matnat/ifi/INF-BIO5120/index-eng.html"
   * Semestersidene for høsten 2016: URL: "http://inf-biox121.readthedocs.org/en/2016"
 
-## Annen universitetsundervisning ##
+## Annen universitetsundervisning
 
 * "MBV-INF4410/9410": "https://www.uio.no/studier/emner/matnat/ibv/MBV-INF4410/index.html" Bioinformatics for Molecular Biology 2013-2016
   * Forelesning "The bioinformatics of sequencing and assembling genomes"
@@ -52,4 +75,10 @@ Utdanningsfaglig CV (maks fire A4 sider) skal inneholde en kortfattet oversikt o
   * Forelesning "Evolution and Development"
   * Forelesning "Evolution of Genes and Genomes"
   * Oppgaver for gruppearbeid
+
+
+* MNPED9000
+* BIOS3010 bioinfo
+* MBV3070?
+* BIOS-IN5410
 

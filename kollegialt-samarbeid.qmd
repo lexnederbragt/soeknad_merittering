@@ -1,31 +1,69 @@
 ## Kollegial holdning og praksis {.unnumbered}
 
-<!--[5.juli 571 ord -->
+<!--[1. aug 655 ord -->
 
 <!-- Fra 2021: “Nederbragt beskriver sin undervisningsinteresse som et resultat av samarbeid og sampraksis med fagfeller. Videre beskrives det i den pedagogiske mappen at kursene han tilbyr enda er i startfasen, både som undervisningstilbud og som fagfelt. På denne bakgrunn har Nederbragt deltatt i samarbeid med andre forskere i den hensikt å skaffe til veie mer innsikt om hvordan undervisningen slår ut på studentene. Disse funnene er blitt distribuert og delt til fagfeller på institusjonen. Nederbragt viser også til et engasjement knyttet til å samarbeide med og bistå gruppeundervisere og forskningsassistenter i deres arbeid. Det er imidlertid få henvisninger til samarbeid av betydelig omfang med kolleger utenfor fagmiljøet knyttet til det ene emnet. Deling er knyttet til undervisningsfellesskapet han inngår i.” -->
 
-### Beskriv
+### Samarbeid med kollegaer
 
 <!-- Beskriv og reflekter over hvordan du har samarbeidet med kollegaer (inkludert administrasjon, studenter og eksterne samarbeidspartnere) i utvikling, forbedring og gjennomføring av din og andres utdanningspraksis. -->
 
-Vår 2023 ledet jeg prosjektet Digitalt Læringsmiljø 2030 der ansatte fra den sentrale studieadministrasjonen,
+<!-- beskriv -->
+Vår 2023 ledet jeg prosjektet Digitalt Læringsmiljø 2030
+der ansatte fra den sentrale studieadministrasjonen,
 LINK, og IT avdelingen var i prosjektgruppen.
-Vi samlet innspill fra studenter, undervisere, studieadministratieve, og forskjellige fagavdelinger.
+Vi samlet innspill fra studenter, undervisere, studieadministratieve,
+og forskjellige fagavdelinger.
 Rapporten kom med en rekke funn og anbefalinger ([ped.mappe @sec-vl-dlm2030]).
 En viktig anbefaling er å ha pedagogikk sentralt når man jobber med det digitale læringsmiljøet.
+<!-- begrunn -->
+<!-- eksempler -->
 
-I 2016 etablerte jeg sammen med en kollega og i samarbeid med Realfagsbiblioteket Carpentry@UiO som en lokal avdeling av The Carpentries.
-Carpentry@UiO har organisert mer enn ett hundre workshops med deltakere fra alle fakulteter, universitetsbibliotek og IT-avdelingen
-og UiO har flere titals personer utdannet som instruktør for organisasjonen([ped.mappe @sec-vl-carpentry]).
+I 2016 etablerte jeg sammen med en kollega og i samarbeid med Realfagsbiblioteket
+Carpentry@UiO som en lokal avdeling av The Carpentries.
+Carpentry@UiO har organisert mer enn ett hundre workshops
+med deltakere fra alle fakulteter, universitetsbibliotek og IT-avdelingen
+og UiO har flere titals personer utdannet som instruktør for organisasjonen 
+([ped.mappe @sec-vl-carpentry]).
+<!-- begrunn --> Denne måten å organisere en slags etterutdanning på dugnadsbasis
+fungerer veldig bra, 
+mest fordi det knytter mennesker sammen på tvers som har samme behov,
+og samme interesse i undervisning av disse metodene
+på en pedagogisk gjennomtenkt måte.
+Å bli instruktør (trener) for The Carpentries endret mitt syn på undervisningen totalt.
+Dette gjorde meg bevisst på viktigheten av motivasjon for læring,
+det å begrense kognitiv last, formativ vurdering osv.
+Erfaringen bidro til å tenke annerledes om undervisning,
+og for å forankre min tilnærming i forskning og kunnskap på feltet.
+<!-- eksempler --> Carpentry@UiO har bidratt til at mer enn ett tusen ansatte på UiO 
+har fått opplæring i verktøy som er umiddelbart relevant for deres arbeid.
+Deres forankring i pedagogikk har inspirert mange.
+Undervisningsmetoder som samkoding (Participatory Live Coding, [@nederbragt2020Ten])
+har inspirert meg og andre til å implementer den i kurs.
 
-I 2021-2022 var jeg en del av "Arbeidsgruppen for gjennomgang av ferdighetstrening i biovitenskapsprogrammet"
+
+<!-- beskriv -->
+I 2021-2022 var jeg en del av 
+"Arbeidsgruppen for gjennomgang av ferdighetstrening i biovitenskapsprogrammet"
 ved Institutt for Biovitenskap. 
 Arbeidsgruppen skulle gå gjennom bachelorprogrammet Biovitenskap,
-med fokus på studentenes ferdighetstrening og samsvar mellom kurstilbudet og læringsutbyttebeskrivelsen for programmet.
-Arbeidsgruppen leverte en rapport ([ped.mappe @sec-vl-ag-ibv]) der det bl.a. be anbefalt opprettelsen av ‘studieløp’
+med fokus på studentenes ferdighetstrening og samsvar mellom kurstilbudet 
+og læringsutbyttebeskrivelsen for programmet.
+<!-- begrunn --> Det var veldig nyttig å snakke med flere kollegaer i arbeidsgruppen,
+og med mange undervisere på workshoppene vi holdt,
+reflektere over studieprogrammet, 
+og sammen komme med forslag til forbedring.
+<!-- beskriv --> Arbeidsgruppen leverte en rapport ([ped.mappe @sec-vl-ag-ibv]) 
+der det bl.a. be anbefalt opprettelsen av ‘studieløp’
 for å synliggjøre muligheter for spesialisering og yrkesrelevans for programmet.
-En annen anbefaling var å legge inn en feltkomponent i første semester, og da i kurset BIOS1100.
+En annen anbefaling var å legge inn en feltkomponent i første semester, 
+og da i kurset BIOS1100.
+<!-- eksempler --> Dette førte til at vi allerede i 2022 startet et prosjekt
+for å pilotere denne feltkomponenten.
+Høsten 2023 skal de første studentene ut i felt for å måle noen biologiske
+egenskaper som de senere kan modellere i datalabben.
 
+<!-- beskriv -->
 Siden 2022 leder jeg UndervisningsVerksted ved IBV, også kalt Underverk.
 UnderVerk er "en workshopserie der alle som er involvert i undervisning ved
 Institutt for Biovitenskap skal få mulighet til å arbeide med alle aspekter av
@@ -35,8 +73,12 @@ til ås tarte dette erfarinsdelingsinitiativ.
 UnderVerk vi har organisert flere workshops, bl.a. om
 Læringsmål og baklengsdesign, studentaktive læringsformer, digitale verktøy
 ([ped.mappe @sec-vl-underverk]).
-
-<!-- TO DO: legge ved rapportene Tone skrev? -->
+<!-- begrunn --> UnderVerk er en veldig fin måte å gjennomføre erfaringsutveksling på,
+og viser hvor mye gode undervisningsteknikker som brukes på instituttet,
+og hvor lett det er å få dem fram og dele de med hverandre.
+<!-- eksempler --> UnderVerk sesjonene har økt kunnskap blant undervisere på IBV.
+Som et konkret eksempel ble læringsutbyttebeskrivelser for kurset BIOS-IN5410 tilpasset
+til å ha aktive verb [@biggs2011Teaching] etter en av sesjonene om hvordan å lage disse.
 
 
 <!-- 
@@ -50,14 +92,14 @@ Læringsmål og baklengsdesign, studentaktive læringsformer, digitale verktøy
 -->
 
 
-### Begrunn
+<!-- ### Begrunn -->
 
 <!-- Begrunn hvorfor du har valgt nettopp disse samarbeidsformene for å styrke utdanningskvalitet. -->
 
-* DLM2030: bruke kompetanse jeg har bygget opp over mange år for å vise UiO veien framover
-* Hvorfor erfaringsdeling (hvorfor UnderVerk)
+<!-- * DLM2030: bruke kompetanse jeg har bygget opp over mange år for å vise UiO veien framover
+* Hvorfor erfaringsdeling (hvorfor UnderVerk) -->
 
-### Eksempler
+<!-- ### Eksempler -->
 
 <!-- Gi eksempler på hvordan samhandling med kollegaer har bidratt til å endre
 din og andres utdanningspraksis, gjerne forankret i relevant litteratur. -->
@@ -67,37 +109,22 @@ din og andres utdanningspraksis, gjerne forankret i relevant litteratur. -->
 * samtaler med Geir Kjetil Sandve?
 -->
 
-Å bli instruktør (trener) for The Carpentries endret mitt syn på undervisningen totalt.
-Dette gjorde meg bevisst på viktigheten av motivasjon for læring,
-det å begrense kognitiv last, formativ vurdering osv.
-Erfaringen bidro til å tenke annerledes om undervisning,
-og for å forankre min tilnærming i forskning og kunnskap på feltet.
 
-Carpentry@UiO har bidratt til at mer enn ett tusen ansatte på UiO 
-har fått opplæring i verktøy som er umiddelbart relevant for deres arbeid.
-Deres forankring i pedagogikk, har inspirert mange.
-Undervisningsmetoder som samkoding (Participatory Live Coding, [@nederbragt2020Ten])
-har inspirert meg og andre til å implementer den i kurs
-
-UnderVerk sesjonene har økt kunnskap blant undervisere på IBV.
-Som et konkret eksempel ble læringsutbyttebeskrivelser for kurset BIOS-IN5410 tilpasset
-til å ha aktive verb [@biggs2011Teaching] etter en av sesjonene om hvordan å lage disse.
-
-### Dokumenter
+### Lederroller
 
 <!-- Dokumenter eventuelle lederroller du har, eller har hatt, for å fremme utdanningskvalitet. -->
 
 Jeg har, eller har hatt, følgende lederroller for å fremme utdanningskvalitet
 ([ped.mappe @sec-vl-leder])
 
-* Prosjekt Digitalt Læringsmiljø 2030 (2023)
+* Leder, Prosjekt Digitalt Læringsmiljø 2030 (2023)
 * Styreleder, Carpentry@UiO (2019-)
 * Nestleder med ansvar for utdanning i Bioinformatikk,
   Senter for Bioinformatikk (2018-)
 * Medlem av ledergruppen Centre for Computing in Science Education
   (CCSE, et SFU ved UiO) (2017-)
 * Medlem Fagråd for IT i Utdanning (2022-)
-* Leder for ​​Styret forskerskole Digitalt Liv Norge (2016-2020)
+* Leder for ​​Styret Forskerskole Digitalt Liv Norge (2016-2020)
 * Medlem, så leder, Executive Council (styret) for The Carpentries (2018-2021)
 
 ### Videre planer
@@ -109,5 +136,3 @@ i programmet å anbefalte å nedsette en egen arbeidsgruppe,
 ledet av meg,
 for å gjennomgå utviklingen av beregningskompetanse i bachelorprogrammet.
 Jeg ønsker å starte opp dette arbeidet høsten 2023 eller våren 2024.
-
-

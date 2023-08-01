@@ -66,48 +66,6 @@
   * Forelesning "Cell cycle changes during development"
 
 
-**Software Carpentry, Data Carpentry, The Carpentries, Carpentry@UiO**
-
-* [Software Carpentry](http://software-carpentry.org/)
-* [Data Carpentry](http://www.datacarpentry.org/)
-* fra og med 2018 ble disse sammen til [The Carpentries](https://carpentries.org)
-* jeg er en sertifisert [instruktør](https://carpentries.org/instructors/) og [instruktør trener](https://carpentries.org/trainers/)
-  * Fil: `SoftwareCarpentry_Instructor_Certificate.pdf`
-  * Fil: `DataCarpentry_Instructor_Certificate.pdf`
-  * Fil: `Carpentries_Instructor_Trainer_Certificate.pdf`
-
-* Jeg har bidratt til undervisningsmaterial til The Carpentries
-  * The Carpentries Instructor Training [@erinalisonbecker2019Carpentries]
-  * Software Carpentry: The Unix Shell [@aldazabalmensa2017Software]
-  * Software Carpentry: Programming with Python [@achterberg2017Software]
-  * Software Carpentry: Version Control with Git [@ahmadia2017Softwarea]
-  * Software Carpentry: Automation and Make [@allen2017Software]
-  * Data Carpentry Wrangling Genomics Lesson [@wilson2017Data]
-
-* Jeg er også medlem av The Carpentries [Executive Council](https://carpentries.org/governance/), som kan sees på som organisajsonens styret (2018-2021)
-* Carpentry@UiO
-  * Sammen med Karin Lagesen og Realfagsbiblioteket etablerte vi i 2014
-
-  Carpentry@UiO
-  * UiO er siden 2017 [medlemsorganisasjon](https://carpentries.org/members/) av The Carpentries
-  * Webside til [Carpentry@UiO](https://uio-carpentry.github.io), bl.a. med oversikt over [tidligere workshops](https://uio-carpentry.github.io/workshops/#past-workshops)
-  * Websidene fra Universitetsbiblioteket:
-    * [carpentry.uio.no](https://www.uio.no/carpentry)
-    * [oversikt over workshops](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/)
-
-  * Jeg leder [styret for Carpentry@UiO](https://uio-carpentry.github.io/about/members/)
-
-* Software Carpentry workshops jeg har bidratt til
-  * Universitetet i Oslo: 2012, 2013, 2015 - 2019
-  * Netherlands eScience Centre: 2017
-  * Universitet i Bergen: 2014
-  * Science for Life Laboratory, Stockholm, Sverige: 2014
-  * Online (ved UiO): 2020, 2021
-
-* Instruktør trening workshops jeg har undervist for
-  * Universitetet i Oslo: 2016, 2018
-  * Online for the Carpentries: 2016-2019
-
 
 #### En forskende tilnærming
 

@@ -39,6 +39,47 @@ Alle vedlegg er lagt ut i [en delt mappen på OneDrive](https://uio-my.sharepoin
 * [Prosjekts webside](https://www.uio.no/for-ansatte/arbeidsstotte/prosjekter/nestegenerasjons-digitalt-laringsmiljo/index.html)
 * fil `Sluttrapport prosjekt Digitalt læringsmiljø 2030.pdf`
 
+### Software Carpentry, Data Carpentry, The Carpentries, Carpentry@UiO  {#sec-vl-carpentry}
+
+* I 2018 ble [The Carpentries](https://carpentries.org) dannet av en sammenslåing av 
+  * [Software Carpentry](http://software-carpentry.org/)
+  * [Data Carpentry](http://www.datacarpentry.org/)
+* Jeg er en sertifisert [instruktør](https://carpentries.org/instructors/) og [instruktør trener](https://carpentries.org/trainers/)
+  * Fil: `SoftwareCarpentry_Instructor_Certificate.pdf`
+  * Fil: `DataCarpentry_Instructor_Certificate.pdf`
+  * Fil: `Carpentries_Instructor_Trainer_Certificate.pdf`
+
+* Jeg har bidratt til undervisningsmaterial til The Carpentries
+  * [The Carpentries Instructor Training](https://carpentries.github.io/instructor-training/index.html) [@erinalisonbecker2019Carpentries]
+  * Software Carpentry: [The Unix Shell](http://swcarpentry.github.io/shell-novice) [@aldazabalmensa2017Software]
+  * Software Carpentry: [Programming with Python](http://swcarpentry.github.io/python-novice-inflammation) [@achterberg2017Software]
+  * Software Carpentry: [Version Control with Git](http://swcarpentry.github.io/git-novice) [@koziar2023Software]
+  * Software Carpentry: [Automation and Make](http://swcarpentry.github.io/make-novice) [@allen2017Software]
+  * Data Carpentry: [Data Wrangling and Processing for Genomics](https://datacarpentry.org/wrangling-genomics/) [@wilson2017Data]
+
+* Jeg var også medlem av The Carpentries [Executive Council](https://carpentries.org/governance/),
+  som kan sees på som organisajsonens styret (2018-2021)
+* Carpentry@UiO
+  * Sammen med Karin Lagesen og Realfagsbiblioteket etablerte vi i 2014 Carpentry@UiO
+  * UiO er siden 2017 [medlemsorganisasjon](https://carpentries.org/members/) av The Carpentries
+  * Webside til [Carpentry@UiO](https://uio-carpentry.github.io),
+    bl.a. med oversikt over [tidligere workshops](https://uio-carpentry.github.io/workshops/#past-workshops)
+  * Websidene fra Universitetsbiblioteket:
+    * [carpentry.uio.no](https://www.uio.no/carpentry)
+    * [oversikt over workshops](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/)
+* Jeg leder [styret for Carpentry@UiO](https://uio-carpentry.github.io/about/members/)
+
+* Software Carpentry workshops jeg har bidratt til
+  * Universitetet i Oslo: 2012, 2013, 2015 - 2023
+  * Netherlands eScience Centre: 2017
+  * Universitet i Bergen: 2014
+  * Science for Life Laboratory, Stockholm, Sverige: 2014
+  * Online (ved UiO): 2020, 2021
+
+* Instruktør trening workshops jeg har undervist for
+  * Universitetet i Oslo: 2016, 2018
+  * Online for the Carpentries: 2016-2019
+
 ### Arbeidsgruppen for gjennomgang av ferdighetstrening i biovitenskapsprogrammet {#sec-vl-ag-ibv}
 * fil `Anbefalinger fra arbeidsgruppe for ferdighetstrening.pdf`
 
@@ -74,15 +115,9 @@ bidra konkret til noen av workshopen:
 * [Læringsutbyttebeskrivelse for BIOS-IN5410](https://www.uio.no/studier/emner/matnat/ibv/BIOS-IN5410/#learning_outcomes)
 
 
-
+<!-- TO DO: legge ved rapportene Tone skrev? -->
 <!-- TODO: legge ved PDF av mine slides for UnderVerk -->
 
-### Carpentry@UiO {#sec-vl-carpentry}
-
-* carpentries.org
-* [uio.no/carpentry](http://uio.no/carpentry)
-
-* TTT material
 
 ### Lederroller {#sec-vl-leder}
 

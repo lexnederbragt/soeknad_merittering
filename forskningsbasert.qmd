@@ -6,93 +6,76 @@
 
 <!-- Beskriv og reflekter over hvordan du har tatt i bruk forskning i din utdanningspraksis, både med hensyn til faglig innhold og pedagogisk metode. -->
 
-<!--
-Jeg ser på 'En forskende tilnærming' som to ting:
+### Bruk av resultater fra forskning om læring i undervisningen
 
-#### Bruk av resultater fra forskning om læring i undervisningen
+Jeg er sterkt overbevist om at undervisere bør bruke resultater
+fra vitenskapelig forskning på læring og utdanning
+når man planlegger og utvikler sin undervisning.
 
-Jeg er sterkt overbevist om at undervisere bør bruke resultater fra vitenskapelig forskning på læring og utdanning når man planlegger og utvikler sin undervisning. Hvordan jeg bruker forskningen på disse områdene i min undervisning er beskrevet utfyllende i kapittelet om min undervisningsfilosofi.
+Kort sammenfattet har jeg fokusert på tre områder som er beskrevet andre steder i denne redegjørelsen:
 
-Kort sammenfattet har jeg fokusert på tre områder:
-
-Teorien om Kognitiv Last (Cognitive Load Theory)
-Formativ vurdering og Peer instruction
-Samstemt undervisning (Constructive Alignment)
--->
+* Teorien om Kognitiv Last (Cognitive Load Theory)
+* Formativ vurdering og Peer instruction
+* Samstemt undervisning (Constructive Alignment)
 
 ### Systematisk bruk av evalueringer
 
 I min undervisning bruker jeg underveisevaluering og sluttevaluering 
 på en systematisk måte for å forbedre min egen utdanningspraksis.
 
-*Underveis* bruker jeg altid et delt erfaringsdokument der av undervisere/gruppelræere
+*Underveis* bruker jeg alltid et delt erfaringsdokument der undervisere/gruppelærere
 sammen beskriver erfaringer umiddelbart etter undervisningen.
 Dette lar meg rette opp feil i materialet som skal gis igjen samme uke,
-eller er grunnlaget for forbederinger til neste gang.
-Dette gir også gruppelærer eierskap i undervisningsutvikling,
-noe de sette pris på.
+og er grunnlaget for forbedringer til neste gang.
+Dette gir også gruppelærere eierskap i undervisningsutvikling,
+noe de setter pris på.
 Disse dokumentene viste seg å være viktig for å forbedre kurset.
 På slutten av gruppetimene ber jeg studentene å besvare
-en online ‘exit quiz’: "Hva var bra med dagens gruppetime?" og "Hva er fortsatt uklart for deg?"
-Dette er verdifull for å forstå eventuelle problemer studentene ----------
-Slik at de kan adresseres umiddelbart.
-Samme spørsmål stilles som siste frivilig oppgave under eksamen.
+en online ‘exit quiz’: "Hva var bra med dagens gruppetime?"
+og "Hva er fortsatt uklart for deg?"
+Dette er verdifull for å forstå eventuelle problemer studentene sitter med
+slik at de kan adresseres umiddelbart.
+Samme spørsmål stilles som siste, frivillig oppgave under eksamen.
 
-
-Det gjennomføres en midtveisevaluering og en sluttevaluering
+Det gjennomføres en midtveisevaluering og en sluttevaluering ([ped.mappe @sec-vl-emneeval])
 der alle studenter bes å fylle ut et nettskjema.
 Resultatene av disse spørreundersøkelser diskuteres med studentrepresentantene,
 som vi har felles med de andre 1. semester kursene.
-Evalueringer har ført til en rekke endringer,
-som er beskrevet der utviklingen i BIOS1100 beskrives (avsnittet BIOS1100 (2017-)).
-<!-- FIXME -->
+Evalueringer har ført til en rekke endringer og forbedringer i kurset.
+Noen eksempler er:
 
-Se emneevalueringer i [ped.mappe @sec-vl-emneeval].
+* innføring av samkoding som teknikk for å undervise elementære programmeringskonsepter
+* rekkefølge programmeringskonsepter undervises i 
+* formatet og innholdet til forelesninger
 
-### Forskningsprosjekt "Programmering og modellering i biologi"<!-- FIXME -->
+
+### Forskningsprosjekt "Programmering og modellering i biologi"
 
 Det er per dags dato lite forskningsbasert kunnskap om hvordan biologistudenter 
-stiller seg til programmering i biologi og hvilke læringsstrategier de bruker
+stiller seg til programmering i biologi og hvilke læringsstrategier de bruker.
 Vi er derfor i en unik posisjon til å fremskaffe slik kunnskap
 ved å ‘forske på’ studenter i BIOS1100.
 
-Jeg har vært med i et tverrfaglig veilederteam for fire lektorstudenter som tar en undervisningsrettet master
-om studenter som tar BIOS1100.
-Formålet med disse prosjektene har vært å undersøke studenters holdninger til, motivasjon for,
-og problemløsningsstrategiger i programmering og modellering i biologi.
+Jeg har vært med i et tverrfaglig veilederteam for fire lektorstudenter
+som tar en undervisningsrettet master om studenter som tar BIOS1100.
+Formålet med disse prosjektene har vært å undersøke studenters holdninger til,
+motivasjon for, og problemløsningsstrategier i 
+programmering og modellering i biologi.
 
 Funnene i masterprosjekter har jeg brukt aktivt for å forbedre kurset,
 både faglig og hvordan emnet undervises.
-Eksempler er øke relevans med valg av temaer som for eksempel Covid-19 data,
+Eksempler er økt relevans i valg av temaer som for eksempel modellering av Covid-19,
 og økt fokus på problemløsningsstrategier.
-I tillegg har dette arbeidet blitt presentert på MNT konferansen og publisert
+
+Dette arbeidet har også blitt presentert på MNT konferansen og publisert
 [NJSTEME: @gregers2019Lektorstudenter @eliassen2021Motivasjon].
 
 ### Videre planer
 
-::: {.content-hidden}
+Jeg er veldig interessert i å utforske mulighetene som maskinlæring
+og kunstig intelligens kan gi når det gjelder å analysere studentenes besvarelser.
+For eksempel, kan vi bruke disse verktøyene til å finne ut
+felles misforståelser studentene sitter med?
 
-### Begrunn
 
-<!-- Begrunn hvorfor du har valgt denne forskningsbaserte tilnærmingen til utdanning. -->
 
-* Realfagsforskning versus utdanningsvitenskapelig forskning?
-
-### Eksempler
-
-<!-- Gi eksempler på hvordan du forsker på egen utdanningspraksis og hvordan du har inkludert evalueringer og tilbakemeldinger fra studentene i utviklingen av din utdanningspraksis. -->
-
-* Lektorstudentene
-* Emneevalueringer
-
-### Dokumenter
-
-<!-- Dokumenter eventuelle priser eller annen anerkjennelse du har mottatt for dine bidrag til utdanningskvalitet. -->
-
-Se emneevalueringer i [ped.mappe @sec-vl-emneeval].
-
-### Videre planer
-
-<!-- Beskriv og reflekter over konkrete planer for å videreutvikle din forskende tilnærming for å fremme utdanningskvalitet. -->
-
-:::

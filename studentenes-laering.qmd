@@ -12,28 +12,53 @@
 
 <!-- HUSK å introdusere Carpentries første gang det nevnes! -->
 
-### Beskriv
-
 <!-- Beskriv og reflekter over hvordan du forstår studentenes læringsprosesser innenfor ditt fagområde. -->
 
-Jeg har i min undervisning fokusert på undervise programmering til studenter
-i fagfelt der dette ikke er en naturlig del av opplæringen.
-Et tydelig eksempel på dette er kurset BIOS1100 - Innføring i beregningsmodeller for biovitenskap
-et nytt emne jeg har utviklet siden 2017.
+Jeg har i min undervisning fokusert på å undervise programmering til studenter
+i fagfelt der dette tydeligere ikke har vært en naturlig del av opplæringen.
+Et tydelig eksempel på dette er kurset
+BIOS1100 - Innføring i beregningsmodeller for biovitenskap,
+et nytt emne jeg har utviklet siden 2017 ([ped.mappe @sec-vl-bios1100]).
 
 Å lære å programmere anses generelt som vanskelig
 @jenkins2002difficulty @robins2003Learning @guzdial2015LearnerCentered.
 Da er det viktig å velge undervisningsformer som støtter opp under studentenes læring.
-For eksempel tilnærminger som er basert på veiledet instruksjon ("Guided instruction") @fisher2013Better.
+For eksempel tilnærminger som er basert på veiledet instruksjon ("Guided instruction") @fisher2013Better,
+og som begrenser studentenes kognitive belastning @sweller2019Cognitive.
 
-Å flytte fokus fra 'det jeg gjør som underviser' til 'det studentene gjør' 
-@kugel1993professors @biggs2012What
-medfører viktige innsikt som at det ville være en feil å anta at
-studentene har lært det du nettopp presenterte for dem.
-Et viktig hjelpemiddel som jeg har tatt i bruk for 
-å undersøke denne læringen er formativ vurdering.
-Formativ vurdering er opptatt av å informere både læreren og eleven
-om hvor mye elevene forstår om et tema, og oppdage eventuelle misforståelser @boston2019Concept.
+Veiledet instruksjon er en undervisningsmetode
+hvor instruktøren gir eksplisitt veiledning og støtte til studentene
+gjennom hele læringsprosessen, heller enn å be studentene å finne ut konsepter selv @kirschner2006Why.
+
+Kognitiv belastningsteori er opptatt med hvordan belastning av arbeidsminne
+kan optimeres for å fremme læring @sweller2019Cognitive
+og er relevant for programmeringsundervisning @caspersen2007Instructional.
+Overbelastning av arbeidsminnet hemmer effektiv overføring av ny kunnskap til langtidsminnet,
+som er nødvendig for læring.
+Denne teorien har vært påvirket min utdanningspraksis
+når det gjelder valg av undervisningsmetoder og digitale verktøy.
+
+I praksis betyr dette for eksempel at jeg bruker noe som heter samkoding,
+eller 'Participatory Live Coding':
+en aktiv læringsteknikk der en underviser skriver kode og programmerer
+sammen med studentene [se også min publikasjon om dette @nederbragt2020Ten].
+([ped.mappe @sec-vl-samkoding]).
+
+Teknikken, som er mye brukt av The Carpentries, er ment å
+senke terskelen for å komme i gang med programmeringen.
+I BIOS1100 brukes samkoding for å undervise elementære kunnskap i Python
+gjennom hele kurset i samkodingsgruppene ledet av gruppelærere,
+som får opplæring i teknikken
+og bruker en samodingsoppskrift som jeg har utviklet.
+Det lille som er av forskning på live-koding i undervisningen viser at
+teknikken er like bra som, om ikke bedre enn å bruke statiske kodeeksempler @raj2018Role @raj2020Livecoding
+og er derfor en anbefalt tilnærming for undervisning i programmering  @brown2018Ten @wright2020why.
+
+Et annet viktig hjelpemiddel som jeg har tatt i bruk for 
+å undersøke studentenes læring er formativ vurdering
+kombinert med Peer Instruction.
+Formativ vurdering er opptatt av å informere både underviseren og studenten
+om hvor mye studentene forstår om et tema, og oppdage eventuelle misforståelser @boston2019Concept.
 Dette gjør det mulig å adressere misforståelser omgående,
 noe som hjelper elevene til å komme videre gjennom materialet.
 I motsetning til summativ vurdering (f. eks. eksamen) er formativ vurdering ikke karaktersatt,
@@ -41,90 +66,67 @@ selv om noen ganger deltakelsen kan være et krav for å kunne bestå et kurs.
 Ideelt sett kan formativ vurdering gjøres raskt og på en enkel måte
 for studenter og lærere å delta og se resultatene.
 
-Et tredje viktig aspekt er aktiv læring:
-progreammering, som mange andre fag, kan ikke læres av å se på slides.
-Studentene må aktivt jobbe med stoffet, og i dialog med hverandre.
-
-
-### Begrunn
-
-<!-- Begrunn hvorfor du vektlegger disse læringsprosessene og diskuter sammenhengene mellom din utdanningspraksis og implikasjoner for studentenes læring, gjerne forankret i pedagogisk og fagdidaktisk litteratur. -->
-
-Kognitiv belastningsteori er opptatt med hvordan belastning av arbeidsminne
-kan optimeres for å fremme læring @sweller2019Cognitive
-og er relevant for programmeringsundervisning @caspersen2007Instructional.
-Overbelastning av arbeidsminnet hemmer effektiv overføring av ny kunnskap til langtidsminnet,
-som er nødvendig for læring.
-Denne teorien har vært påvirket min utdanningspraksis mår det gjelder valg av undervisningsmetoder og digitale verktøy.
-
-2) formativ vurdering 
-
-
-3) aktiv læring
-
-4) meningsfult samsvar og baklengs design
-
-5) viktigheten av pedagogikk kunnskap for undervisere
-
-### Eksempler
-
-<!-- Gi eksempler på undervisningsdesign, strategier eller metoder du har utviklet
-og forklar hvordan du engasjerer studentene i forskning og aktive lærings- og vurderingsformer. -->
-
-Samkoding, eller 'Participatory Live Coding' er
-en teknikk der en underviser skriver kode og programmer sammen med studentene @nederbragt2020Ten.
-Teknikken, som er mye brukt av The Carpentries, er ment å
-senke terskelen for å komme i gang med programmeringen.
-Det er et eksempel på veiledet instruksjon @fisher2013Better.
-I BIOS1100 brukes samkoding for å undervise elementære kunnskap i Python
-gjennom hele kurset i samkodingsgruppene ledet av gruppelærere,
-som får opplæring i teknikken
-og en bruker samodingsoppskrift som jeg har utviklet.
-Det lille som er av forksning på live-koding i undervisningen viser at
-teknikken er like bra som, om ikke bedre enn å bruke statiske kodeeksempler @raj2018Role @raj2020Livecoding
-og er derfor en anbefalt tilnærming for undervisning i programmering  @brown2018Ten @wright2020why
-
-Peer Instruction er en evidensbasert metode der elevene aktivt diskuterer materialet
-basert på spørsmål levert av læreren @mazur1997Peer.
+Peer Instruction er en evidensbasert aktiv læringsmetode der studentene aktivt diskuterer materialet
+basert på spørsmål levert av underviseren @mazur1997Peer.
 Ved å be studentene om å reflektere over kursmateriell i sine egne ord,
-er en student som nettop forsto materialet i stand til å forklare det på en måte
-som samsvarer med bedre en student som nesten forstår materialet,
-enn måten en lærer vil forklare det på.
+er en student som nettopp forsto materialet i stand til å forklare det på en måte
+som fungerer bedre for en student som nesten forstår materialet.
 Metoden har vist positive resultater på studentens læring i programmering @crouch2001Peer.
-Jeg bruker metoden aktivt i min undervisning, oftest i kombinasjon formativ vurdering
-gjennom flervalgsspørsmål som besvares av alle studenter via Mentimeter.
-Når den første runden av av stemmingen viser uenighet, og dermed misforståelser
-blant studentene lar jeg dem studere svaralternativer seg i mellom.
-Den neste avstemmningen viser da oftest at flere har forstått det.
 
-Kurset MNPED9000 – Teaching in STEM, hjelper PhD studenter med pliktarbeid,
-å utvikle sin evne til fasilitere studentens læring
+I min undervisning bruker jeg formativ vurdering i kombinasjon med Peer Instruction,
+gjennom flervalgsspørsmål som besvares av alle studenter via Mentimeter
+([ped.mappe @sec-vl-formvurd]).
+Når den første runden av stemmingen viser uenighet, og dermed misforståelser
+blant studentene, lar jeg dem studere svaralternativer seg i mellom.
+Den neste avstemningen viser da oftest at flere har forstått det.
+
+I BIOS1100 har meningsfylt samsvar og baklengs design @biggs2012What blitt implementert mer og mer.
+Et godt eksempel er eksamensformen som har endret seg fra å være
+oppgaver i Inspera der studentene måtte skrive kode som svar uten å kunne teste den,
+til en egen teknisk løsning som skaper en lik omgivelse under eksamen,
+med kjøring av kode de skriver,
+som studentene hadde under resten av kurset.
+
+Et viktig tiltak for å øke studentenes læring er å øke pedagogisk kunnskap
+til alle som er involvert i undervisningen.
+Til dette har jeg lært opp mine gruppelærere i noen enkle pedagogiske begreper
+og teknikker.
+Senere ble jeg en del av teamet som tilbyr Lærings Assistent Seminar til
+ferske gruppelærere på MSc nivå
+([ped.mappe @sec-vl-la]).
+
+Jeg er også blitt en del av undervisningssystemet for kurset
+MNPED9000 – Teaching in STEM, som skal hjelpe PhD studenter med pliktarbeid
+til å utvikle sin evne til fasilitere studentens læring
 gjennom å utforske prinsipper for undervisning og læring i høyere utdanning.
-Et viktig aspekt av dette kurset er at undervisningsmetodene som undervises i
+([ped.mappe @sec-vl-mnped0000]).
+
+Et viktig aspekt av disse opplæringstilbudene er at undervisningsmetodene som undervises i
 brukes aktivt under kurset: innholdet og aktivitetene kobles aktivt opp mot 
-læringsubtyttebeskrivelser for å vise baklengsdesign av undervisningen
+læringsutbyttebeskrivelser for å vise baklengs design av undervisningen
 og meningsfylt samsvar i praksis;
 øktene bruker aktive læringsaktiviteter som tenk-par-del, gruppediskusjoner,
 studenter som gir tilbakemelding på hverandres arbeid
 
-<!-- Nevne temaene jeg underviser i det ?-->
+<!-- ### Dokumenter -->
 
-4) eksamen i BIOS1100
-I BIOS1100 har meningsfult samsvar og baklengs design blitt implementer mer og mer.
-Et godt eksempel er 
-
-5) Gruppelæreropplæring, LA seminar og MNPED9000
-
-### Dokumenter
-
-<!-- Dokumenter hvordan du oppmuntrer studentene til refleksjon og kritisk tenkning. -->
+<!-- Dokumenter hvordan du oppmuntrer studentene til refleksjon og kritisk tenkning
 
 * Siste deloppgave i BIOS100, spesielt det de får vurdert
 * Diskusjonsoppgaver i MNPED9000
 * Essay i MNPED9000
+-->
 
 ### Videre planer
 
 <!-- Beskriv og reflekter over konkrete planer for hvordan du vil jobbe med studentenes læring. -->
 
-* MNPED for ansatte
+Jeg mener at Kunstig Intelligens verktøy som ChatGPT bør kunne brukes på en måte
+som fremmer læring.
+Dette skal vi begynne å undersøke i BIOS1100: hvordan kan studentene gå i dialog 
+med en chatbot for å hjelpe dem å lære stoffet?
+Jeg ser for meg at dette blir en del av et utvidet, sammenhengende økosystem av 
+læringsressurser for studentene @luckin2008learner
+som de kan velge det de trenger av for sin læring.
+
+

@@ -33,6 +33,7 @@ Utdanningsfaglig CV (maks fire A4 sider) skal inneholde en kortfattet oversikt o
 * 2018- Nestleder hovedansvar for koordinering av utdanningsaktiviteter, Senter for Bioinformatikk, Inst. for Informatikk,
   Universitetet i Oslo
 * 2013-2018 Førsteamanuensis II (20%), Inst. for Informatikk, Universitetet i Oslo
+* 2015-2018 Fast stilling som Senior ingeniør, Inst. for Biovitenskap, Universitetet i Oslo
 * 2005-2018 Postdoktor, forsker, Senior ingeniør, Inst. for Biovitenskap, Universitetet i Oslo
 * 2003-2005 Senior Scientist, Lingvitae AS, Oslo
 * 2002-2003 Postdoktor, University of Hawaii, USA
@@ -54,31 +55,65 @@ Utdanningsfaglig CV (maks fire A4 sider) skal inneholde en kortfattet oversikt o
 
 ## Emneansvar
 
-* BIOS1100 (2017-)
-  * Kurstittel: _Innføring i beregningsmodeller for biovitenskap_
-  * Emnesidene: URL: "https://www.uio.no/studier/emner/matnat/ibv/BIOS1100/"
+* BIOS1100 2017-
+  * Kurstittel: **Innføring i beregningsmodeller for biovitenskap**
+  * Emnesidene: <https://www.uio.no/studier/emner/matnat/ibv/BIOS1100>
   
-* INF-BIO5121/9121 (2012-2016)
-  * Kurstittel: _High Throughput Sequencing technologies and bioinformatics analysis_
-  * Emnesidene: URL: "https://www.uio.no/studier/emner/matnat/ifi/INF-BIO5120/index-eng.html"
-  * Semestersidene for høsten 2016: URL: "http://inf-biox121.readthedocs.org/en/2016"
+* INF-BIO5121/9121 2012-2016
+  * Kurstittel: **High Throughput Sequencing technologies and bioinformatics analysis**
+  * Emnesidene: <https://www.uio.no/studier/emner/matnat/ifi/INF-BIO5120/index-eng.html>
+  * Kurssidene for høsten 2016: <http://inf-biox121.readthedocs.org/en/2016>
 
 ## Annen universitetsundervisning
 
-* "MBV-INF4410/9410": "https://www.uio.no/studier/emner/matnat/ibv/MBV-INF4410/index.html" Bioinformatics for Molecular Biology 2013-2016
+* [MNPED9000](https://www.uio.no/studier/emner/matnat/mn/MNPED9000/index.html) **Teaching in STEM** 2022-
+  * Tema: Formative assessment
+  * Tema: Cognitive load and learning environment
+
+* [MBV3070/BIOS3010](https://www.uio.no/studier/emner/matnat/ibv/BIOS3010/index.html) **Bioinformatikk** 2019-
+  * Tema: Python programmering
+  * Tema: Genome assembly and annotation
+
+* [BIOS-IN5410](https://www.uio.no/studier/emner/matnat/ibv/BIOS-IN5410/) **Bioinformatics for Molecular Biology** 2021-
+  * Tema: Reproducible Bioinformatic Analyses
+
+* [MBV-INF4410/9410](https://www.uio.no/studier/emner/matnat/ibv/MBV-INF4410/index.html) **Bioinformatics for Molecular Biology** 2013-2016
   * Forelesning "The bioinformatics of sequencing and assembling genomes"
   * Forelesning "What does it mean to do bioinformatics?"
-* "BIO9905MERG1": "https://www.uio.no/studier/emner/matnat/ibv/BIO9905MERG1/" - Bioinformatics for Metagenomic Analyses and Environmental Sequencing (2011)
+
+* [BIO9905MERG1](https://www.uio.no/studier/emner/matnat/ibv/BIO9905MERG1/) - **Bioinformatics for Metagenomic Analyses and Environmental Sequencing** (2011)
   * Forelesning "Next Generation Sequencing techniques and data relevant for metagenomics analyses"
   * Forelesning "Assembly of metagenomes"
-* "BIO2120": "https://www.uio.no/studier/emner/matnat/ibv/nedlagte-emner/BIO2120/" Evolusjonsbiologi 2006-2007
+
+* [BIO2120](https://www.uio.no/studier/emner/matnat/ibv/nedlagte-emner/BIO2120/) **Evolusjonsbiologi** 2006-2007
   * Forelesning "Evolution and Development"
   * Forelesning "Evolution of Genes and Genomes"
   * Oppgaver for gruppearbeid
 
+* Erasmus ICP course Marine Cell Biology (Observatoire Oceanologique, Banyuls-sur-mer, France) 2000
+  * Forelesning "Fundamental aspects of development"
+  * Forelesning "Cell cycle changes during development"
 
-* MNPED9000
-* BIOS3010 bioinfo
-* MBV3070?
-* BIOS-IN5410
+**Workshops**
 
+* Next-Gen Sequence Analysis Workshop 'week 3' (intermediate and advanced skills) (invitert), Michigan State University 2015
+  * [Websidene](http://angus.readthedocs.org/en/2015/week3.html)
+
+* University of California Davis Assembly Masterclass (invitert) 2013
+  * [Websidene](http://davis-assembly-masterclass-2013.readthedocs.org/en/latest)
+
+* Norwegian Sequencing Centre course: High Through-put Sequencing: technology basics, applications and bioinformatic analysis 2011
+  * [Websidene](https://www.sequencing.uio.no/events/2011/nsc_course_2011.html)
+  * Jeg gjennomførte en Workshop om [Genome Assembly](https://github.com/lexnederbragt/denovo-assembly-tutorial)
+
+* *De novo* genome assembly (invitert), Univ. of Gothenburg, 2011
+
+
+<!-- TODO: annen relevant (pedagogisk) erfaring 
+* DLM2030
+* andre lederstillinger
+* prosjekt Jupyter/Canvas
+
+...
+
+-->

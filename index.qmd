@@ -1,9 +1,23 @@
-# Introduksjon {.unnumbered}
+# Redegjørelse søknad Merittert Utdanner UiO 2023 {.unnumbered}
 
-Denne søknaden er organisert i følge [SoTL-kriteriene](https://www.issotl.com).
+Denne redegjørelsen er organisert i følge [SoTL-kriteriene](https://www.issotl.com).
 
 ::: {.content-visible when-format="html"}
 
 Denne søknaden er skrevet som en Quarto bok.
 For å lære mer om Quarto, besøk <https://quarto.org/docs/books>.
+:::
+
+::: {.content-visible when-format="docx"}
+
+Todo liste for word versjonen
+
+- [ ] fjern tittel dato, forfatter
+- [ ] split up into redegjørelse.docx og pedagogisk_mappe.docx
+- [ ] legg til antall ord på toppen, inkludert 'Utenom referanser'
+
+```
+cp _book/Redegjørelse-søknad-Merittert-Utdanner-UiO-2023.docx Redegjørelse_Lex_Nederbragt.docx
+cp _book/Redegjørelse-søknad-Merittert-Utdanner-UiO-2023.docx Pedagogisk_mappe_Lex_Nederbragt.docx
+```
 :::

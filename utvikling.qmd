@@ -3,10 +3,11 @@
 <!-- NYTT FORSØK basert på drodling.md -->
 
 Min første erfaring som underviser var som gruppelærer for et kurs i zoologi da jeg var PhD student.
-Jeg følte at jeg lærte en god del mer av å undervise faget, da når jeg tok faget selv.
+Jeg følte at jeg lærte en god del mer av å undervise faget, enn når jeg tok faget selv.
 
 Mine første forelesninger i kurset BIO2120 Evolusjonsbiologi, 
-som jeg ble bedt å ta over et år, var standard 2x45 minutter.
+([ped.mappe @sec-vl-bio2120])
+som jeg ble bedt om å ta over et år, var standard 2x45 minutter.
 Det var sikkert bra med hadde ingen studentaktivisering.
 
 Da jeg måtte lære meg å bruke kommandolinje-baserte verktøy og supercomputere,
@@ -22,35 +23,36 @@ Etter å ha tatt en av deres workshops gikk jeg gjennom deres instruktørtrening
 Senere ble jeg selv instruktørtrener for organisasjonen.
 Dette var mitt første møte med pedagogikk, og
 studentaktive læringsformer som hands-on læring,
-og samkodingsteknikken, en form for guided instruction som jeg siden brukte i alle mine workshops.
+og samkodingsteknikken, en form for ‘guided instruction’ som jeg siden brukte i alle mine workshops.
 Mitt mål for min undervisning ble at deltakere og studenter
 skulle kunne fortsette med det de lærte med en gang etter undervisningen.
 
 I 2012 fikk jeg min første erfaring som kursansvarlig (emneansvarlig)
-med INF-BIO5121/9121 - High Throughput Sequencing technologies and bioinformatics analysis. 
+med INF-BIO5121/9121 ([ped.mappe @sec-vl-infbio]).
 Dette førte til en bedre forståelse for forberedelse, gjennomføring, 
-eksamen og evaluering. og studentenes perspektiv på undervisning.
-En utfording vi fikk var at noen av undervisere fikk veldig dårlig
+eksamen og evaluering, og studentenes perspektiv på undervisning.
+En utfordring vi fikk var at noen av undervisere fikk veldig dårlig
 tilbakemelding fra studentene i studentevalueringer.
 Dette førte til at jeg valgte å bytte ut disse,
-og lærte til viktigheten av å bruke studenteavlueringer systematisk.
-Rollen min var også å ledet et team av undervisere,
+og lærte om viktigheten av å bruke studentevalueringer systematisk.
+Rollen min var også å lede et team av undervisere,
 men vi kom ikke lengre enn å dele kunnskap og erfaring,
-som bare er et element når et team skal lære og utvikle seg effektivt sammen [de andre to er 
-å engasjere seg i konstruktive konflikter og konstruere ting sammen @koeslag-kreunen2018Leadership].
+som bare er et element når et team skal lære og utvikle seg effektivt sammen (de andre to er 
+å engasjere seg i konstruktive konflikter og konstruere ting sammen @koeslag-kreunen2018Leadership).
 
 <!-- si litt om eksamen? Andre innovative und formen? HPC serveren? -->
 
 I 2017 fikk jeg fikk tilbud å ta emneansvar for
 BIOS1100 - Innføring i beregningsmodeller for biovitenskap,
-et nytt obligatorisk førstesemsterkurs i studieprogrammet Biovitenskap,
+et nytt obligatorisk førstesemesterkurs i studieprogrammet Biovitenskap,
 som skulle gi biologistudenter beregningskompetanse
-som en del av fakultetes satsning på ‘Computing in Science Education’ (CSE). 
+som en del av fakultetets satsning på ‘Computing in Science Education’ (CSE)
+([ped.mappe @sec-vl-bios1100]). 
 BIOS1100, og jeg som underviser, har gått gjennom en utrolig utvikling,
 der jeg har måtte løse en rekke utfordringer.
 
 Den første gangen kurset ble undervist 
-stolte jeg for mye på selvstendig læring av programmeringen [‘minimal guidance’ @clark2012Putting].
+stolte jeg for mye på selvstendig læring av programmeringen (‘minimal guidance’ @clark2012Putting).
 Dette førte til at mange studenter var i ferd med å falle av fordi de ikke klarte
 å lære seg programmeringen.
 Jeg valgte da å tilby ekstra undervisning med hjelp av samkoding,
@@ -58,25 +60,23 @@ en form for Direkte Instruksjon (‘direct instruction’)
 som er å foretrekke i begynnerundervisningen @clark2012Putting.
 Jeg implementerte deretter denne teknikken som en fast del av undervisningen.
 
-En annen utfording var at boken som ble (og blir) skrevet for kurset
+En annen utfordring var at boken som ble (og blir) skrevet for kurset
 introduserte forskjellige måter å gjøre omtrent samme ting i Python på
 ble undervist kort opp på hverandre (forskjellige liste strukturere)
 eller i en ugunstig rekkefølge (forskjellige type løkker)
-Å undervise lignende ting så kort oppå hverandre 
-og en mer kompleks variant før den enklere,
-overbelastet studentene kognitivt @sweller2019Cognitive.
+Dette viste seg å overbelaste studentene kognitivt @sweller2019Cognitive.
 Løsningen var å skrive om kursboken, som hjalp mye med å redusere forvirringen etterpå.
 
 En typisk utfordring når undervise programmering er at studentene
 må installere en del programvarer på sin datamaskin, noe som kan være problematisk.
-Det finnes også mange foskjellige verktøy for å skrive kode.
+Det finnes også mange forskjellige verktøy for å skrive kode.
 Vi valgte å ta i bruk av Jupyter notebooks, som kan inneholde
 tekst, kode som kan kjøres, og bilder.
-Dette blir hgort tilgjengelig gjennom UiO sin JupyterHub,
+Dette blir gjort tilgjengelig gjennom UiO sin JupyterHub,
 en skytjeneste som studentene kan logge seg inn på uten behov
-for installasjon på egen maksin,
-som ble satt opp bl.a. for BIOS1100, og nå brukes av mange kurs ved UiO.
-
+for installasjon på egen maskin,
+som ble satt opp bl.a. for BIOS1100, og nå brukes av mange kurs ved UiO
+([ped.mappe @sec-vl-jupyter]). 
 
 <!--
 Utfordring: hvordan å aktivisere studenter. Løsning: penn-og-papir øvelser, MCQ/Peer Instruction, Active Learning Classroom
@@ -90,18 +90,19 @@ I denne prosessen har jeg, som Peter Kugel så fint beskriver @kugel1993professo
 flyttet fokus fra 'det jeg gjør som underviser' til 'det studentene gjør' 
 [se også @biggs2012What].
 
+### Videre planer
 
-Framover ønsker jeg å forebdre den pedagogiske bruken av digitalt verktøy i kurset,
+Framover ønsker jeg å forbedre den pedagogiske bruken av digitale verktøy i kurset,
 spesielt Canvas. 
 Det pågående prosjekt "Integrasjon av Jupyter og Canvas for digital vurdering"
-som jeg har fått innvilget skal bidra til det,
+som jeg har fått bevilget midler for, skal bidra til det,
 og vi skal teste ut digitalt opplegg i Canvas som studentene skal gjennomføre
 før undervisningen.
 
 <!-- 
 Par programmering
 Bærekraft: flere modeller som har med det å gjøre
-Innovasjon: kombinere felt arbeid med beregningsmodeller
+Innovasjon: kombinere feltarbeid med beregningsmodeller
 Digitalisering: bedre pedagogisk bruk av Canvas
 Fra obliger til Innleveringsoppgaver
 Fra 4 timer til 2 timer gruppetimer
@@ -137,3 +138,5 @@ Fra 4 timer til 2 timer gruppetimer
 <!-- Beskriv og reflekter over konkrete planer for videreutvikling av din egen utdanningspraksis, gjerne knyttet til UiOs Strategi 2030 når det gjelder bærekraft, innovasjon eller digitalisering. -->
 
 :::
+
+

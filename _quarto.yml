@@ -2,7 +2,7 @@ project:
   type: book
 
 book:
-  title: "Søknad Merittert Utdanner UiO 2023"
+  title: "Redegjørelse søknad Merittert Utdanner UiO 2023"
   author: "Lex Nederbragt"
   date: today
   date-format: long
@@ -26,10 +26,11 @@ format:
   html:
     theme: cosmo
     citations-hover: true
+  docx:
+    toc: false
+    reference-doc: word_template_redegjoerelse.docx
   pdf:
     documentclass: scrreprt
-    toc: false
-  docx: 
     toc: false
 
 

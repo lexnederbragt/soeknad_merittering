@@ -1,3 +1,7 @@
+<!-- TODO
+* legg til 2017 og 2019 (?) versjonen av kursboken for å vise endring av rekkefølge
+ -->
+
 # Pedagogisk mappe
 
 Alle vedlegg er lagt ut i [en delt mappen på OneDrive](https://uio-my.sharepoint.com/:f:/g/personal/alexajo_uio_no/Et-qt9iClIBNgVCwpQXA7PsBmCR2NjSeF4sbUDopnCiC-A?e=VFR0KC).
@@ -23,10 +27,11 @@ Alle vedlegg er lagt ut i [en delt mappen på OneDrive](https://uio-my.sharepoin
 
 ### Samkoding {#sec-vl-samkoding}
 
-* To filmer jeg har laget for å vise hvordan å (ikke) gjøre samkoding:
+* Jeg har laget to korte filmer for å vise hvordan å (ikke) gjøre samkoding.
+  Disse filmene blir brukt i [opplæring av instruktører for the Carpentries](https://carpentries.github.io/instructor-training/17-live.html#compare-and-contrast):
   * [dårlig eksempel](https://youtu.be/bXxBeNkKmJE)
   * [bra eksempel](https://youtu.be/SkPmwe_WjeY)
-  Disse filmene blir brukt i [opplæring av instruktører for the Carpentries](https://carpentries.github.io/instructor-training/17-live.html#compare-and-contrast) 
+
 * Jeg har skrevet en fagfellevurdert artikkel om teknikken @nederbragt2020Ten.
 
 ### Formativ vurdering med Peer Instruction {#sec-vl-formvurd}
@@ -165,10 +170,10 @@ problemløsning og gruppearbeid som del av undervisningen i et emne.
 ### UnderVerk ved Institutt for Biovitenskap {#sec-vl-underverk}
 
 * [IBV side om UnderVerk](https://www.uio.no/for-ansatte/enhetssider/mn/ibv/underverk)
-  krever login med UiO brukernavn og passord
+  krever innlogging med UiO brukernavn og passord
 * [KURT side om UnderVerk](https://www.mn.uio.no/kurt/undervisningsutvikling/underverk))
-* teamet består av Tone Gregers, Hans-Petter Hersleth, Pernille Bronen Eidesen og meg selv
-* Tone gregers fikk i 2019 støtte fra MatNat fakultetets studiekvalitetsmidler 
+* teamet består av Tone Gregers, Hans-Petter Hersleth, Pernille Bronken Eidesen og meg selv
+* Tone Gregers fikk i 2019 støtte fra MatNat fakultetets studiekvalitetsmidler 
   for å starte UnderVerk
 * Noen av temaene for UnderVerk samlingene har vært
   - Hvordan å skrive LæringsUtbytte Beskrivelser ('LUB'er)
@@ -213,10 +218,9 @@ bidra konkret til noen av workshopen:
 
 * Foredrag
   * **BIOS1100: Innføring i beregningsmodeller biovitenskap – erfaringer og evaluering**, Real utdanning – fagdag for utdanning ved MN fakultetet, 2018
-  * **Programmering og modellering i biovitenskapsutdanning**, Undervisningsseminar om beregningsorientert realfagsundervisning for NT-fakultet, Universitet i Tromsø/Norges Akrtiske Universitet, 2018 (invitert)
+  * **Programmering og modellering i biovitenskapsutdanning**, Undervisningsseminar om beregningsorientert realfagsundervisning for NT-fakultet, Universitet i Tromsø/Norges Arktiske Universitet, 2018 (invitert)
 
 * Mediaoppmerksomhet mm
-  * jeg jar skrevet noen innlegg på min personlige blog om BIOS1100: <http://lexnederbragt.com/bios1100>
   * besøk av daværende kunnskapsministeren til UiO, inkludert undervisningen i BIOS1100
     * artikkel i [Uniforum](https://www.uniforum.uio.no/nyheter/2017/10/henrik-asheim-blei-begreistra-for-forsking-og-unde.html)
     * artikkel på "IBV sine websider": <https://www.mn.uio.no/ibv/om/aktuelt/aktuelle-saker/2017/kunnskapsministeren-imponert-over-bios1100-og-igem.html>

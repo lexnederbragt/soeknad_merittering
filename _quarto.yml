@@ -9,12 +9,7 @@ book:
   language: nb
   chapters:
     - index.qmd
-    - part: redegjoerelse.qmd
-      chapters:
-      - studentenes-laering.qmd
-      - utvikling.qmd
-      - forskningsbasert.qmd
-      - kollegialt-samarbeid.qmd
+    - redegjoerelse.qmd
     - referanser.qmd
     - ped_mappe.qmd
 

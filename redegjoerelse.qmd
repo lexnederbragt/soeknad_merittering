@@ -172,7 +172,7 @@ når det gjelder valg av undervisningsmetoder og digitale verktøy.
 
 
 Fra forskningen lærte jeg at å lære å programmere anses generelt som vanskelig
-@jenkins2002difficulty @robins2003Learning @guzdial2015LearnerCentered.
+@jenkins2002difficulty @robins2003Learning @bennedsen2007Failure @guzdial2015LearnerCentered.
 Min utfordring var da å undervise programmering for studenter 
 som (ofte) ikke har valgt biologi for å lære akkurat det,
 i tillegg til at de skulle lære det i en biologisk kontekst.
@@ -370,12 +370,25 @@ som har tatt en undervisningsrettet master der målet har vært
 motivasjon for, og problemløsningsstrategier i 
 programmering og modellering i biologi.
 
+Jeg har fra begynnelsen av tatt utgangspunkt i at problemstillinger vi jobber med
+skal være relevant for biovitenskapstudenter.
+Det var gledelig å finne ut at dette er støttet av tidligere forsking:
+bruk av faglig relevante og autentiske eksempler bidrar til opplved 
+nytteverdi, som gir ytre motivasjon @ryan2000Intrinsic,
+og økt mestringsforventning @eccles2002Motivational.
+Dette viser også relevans for resten av studieprogrammet, 
+som kan bidra til økt interesse @hidi2006FourPhase.
+
+Jeg mener nå også at samkoding som undervisningsform bidrar til mestringsfølelse,
+noe som er viktig for engasjement @bandura1977Selfefficacy
+
+
 Funnene i masterprosjekter har jeg brukt aktivt for å forbedre kurset,
 både faglig og hvordan emnet undervises.
 Eksempler er økt relevans i valg av temaer som for eksempel modellering av Covid-19,
 og økt fokus på problemløsningsstrategier.
 
-<!-- Tone: Igjen, hvorfor tor du relevans er særlig viktig for å lære programmering I biologi?
+<!-- Tone: Igjen, hvorfor tor du relevans er særlig viktig for å lære programmering i biologi?
 Har du noen indikasjoner på at det støtter studentenes læring?
 Enten støttet i litteratur eller egene erfaringer -->
 

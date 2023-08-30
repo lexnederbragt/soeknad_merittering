@@ -24,9 +24,9 @@ format:
   docx:
     toc: false
     reference-doc: word_template_redegjoerelse.docx
-  pdf:
-    documentclass: scrreprt
-    toc: false
+#  pdf:
+#    documentclass: scrreprt
+#    toc: false
 
 
 

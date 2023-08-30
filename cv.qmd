@@ -108,6 +108,7 @@ Utdanningsfaglig CV (maks fire A4 sider) skal inneholde en kortfattet oversikt o
 
 * *De novo* genome assembly (invitert), Univ. of Gothenburg, 2011
 
+Vedlegg: se @sec-vl-cv.
 
 <!-- TODO: annen relevant (pedagogisk) erfaring 
 * DLM2030

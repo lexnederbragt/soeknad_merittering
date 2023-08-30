@@ -19,7 +19,7 @@ Alle vedlegg er lagt ut i [en delt mappen på OneDrive](https://uio-my.sharepoin
   av fire PhD studenter som en del av sin pliktarbeid,
   under ledelese av meg.
   Jeg jobber for tiden med å ferdigstille boken slik at den kan publisere.
-  Den siste versjon (august 2022) er vedlagt som fil `intro_analysis_modeling_biology_python_220810.pdf`
+  Den siste versjon (august 2022) er vedlagt som fil: `intro_analysis_modeling_biology_python_220810.pdf`
 * For å lette informasjonsoverføring til dem har jeg laget en omfattende nettside med
   [dokumentasjon til gruppelærere](https://pages.github.uio.no/alexajo/bios1100-assistants/start.html)
   (krever login med UiO brukernavn og passord)
@@ -37,6 +37,17 @@ Alle vedlegg er lagt ut i [en delt mappen på OneDrive](https://uio-my.sharepoin
 ### Formativ vurdering med Peer Instruction {#sec-vl-formvurd}
 
 * Siden med [alle flervalgsspørsmål utviklet for BIOS1100](https://www.uio.no/studier/emner/matnat/ibv/BIOS1100/h22/alle-flervalgssporsmal-i-bios1100-h22.html)
+
+
+### Foredrag om BIOS1100 {#sec-vl-deling}
+
+* se CCSE rapport
+
+<!-- Tone: Kollegial holdning og praksis handler også om å dele kunnskap med andre
+i form av foredrag – har du hold toe på UnderVerk? Real U? MNT konferansen? -->
+
+
+
 
 ### Læringsassistenter og LA-seminaret {#sec-vl-la}
 
@@ -74,6 +85,13 @@ problemløsning og gruppearbeid som del av undervisningen i et emne.
     for Senter for Fremragende Utdanning ved UiO iEarth
     * Websiden: <https://www.iearth.no/resource/iearth-digital-learning-forums-from-2021> (skroll ned til 03.06.2021)
     * Opptak av foredraget: <https://vimeo.com/558878621>
+* Prosjekt "Integrasjon av Jupyter og Canvas for digital vurdering"
+  * [Utlysning av prosjektmidler for digital vurdering](https://www.uio.no/link/arrangementer/2019/digitalvurdering/prosjektmidlerdigitalvurdering.pdf)
+  * Søknad: fil: `Jupyter-Canvas-LINK_2019_signert.pdf`
+  * [Prosjektsiden](https://www.usit.uio.no/om/organisasjon/itf/aktiviteter/prosjekter/jupyter-canvas) (krever login med UiO brukernavn og passord)
+
+
+
 
 ## En forskende tilnærming
 
@@ -84,7 +102,7 @@ problemløsning og gruppearbeid som del av undervisningen i et emne.
   * MNT konferansen mars 2019: **Gregers, T.F., and Nederbragt, Lex** (2019). Lektorstudenter utvikler unik kompetanse og bidrar til økt kvalitet på begynneremner gjennom en undervisningsrettet master. *Nordic Journal of STEM education* 3, 23–27, <https://doi.org/10.5324/njsteme.v3i1.2992>. Tilgjengelig som fil: `Gregers and Nederbragt, Lex - 2019 - Lektorstudenter utvikler unik kompetanse og bidrar.pdf`
   * MNT konferansen mars 2021: **J.E.Eliassen, M.V.Bøe, L.Nederbragt, M.M.Berg, og T.F.Gregers** (2021). Motivasjon for beregningsorientert biologi og sammenhengen med matematikk R2 fra videregående opplæring. *Nordic Journal of STEM education*, *in press*. Tilgjengelig som fil: `Eliassen_etal_2021_Motivasjon for beregningsorientert biologi.pdf`
 
-* Forskning på egen undervisning
+### Forskning på egen undervisning  {#sec-vl-forskning}
   * Masterstudent June Edvarda Eliassen (2020)
     * Tittel: Biologistudenters motivasjon for beregningsorientert biologi etter innføring av krav om full fordypning i realfaglig matematikk
     * Lenke til oppgaven: <http://urn.nb.no/URN:NBN:no-82918>
@@ -108,16 +126,18 @@ problemløsning og gruppearbeid som del av undervisningen i et emne.
 ### Emneevalueringer {#sec-vl-emneeval}
 
 * BIOS1100 (2017-)
-  * Fil: `Sluttrapport BIOS1100 Høsten 2017.pdf`
-  * Fil: `Sluttrapport BIOS1100 Høsten 2018.pdf`
-  * Fil: `Sluttrapport BIOS1100 Høsten 2019.pdf`
-  * Fil: `Sluttrapport BIOS1100 Høsten 2020.pdf`
+  * Fil: `Sluttrapport BIOS1100 Hoesten 2017.pdf`
+  * Fil: `Sluttrapport BIOS1100 Hoesten 2018.pdf`
+  * Fil: `Sluttrapport BIOS1100 Hoesten 2019.pdf`
+  * Fil: `Sluttrapport BIOS1100 Hoesten 2020.pdf`
+  * Fil: `Sluttrapport BIOS1100 Hoesten 2021.pdf`
+  * Fil: `Sluttrapport BIOS1100 Hoesten 2022.pdf`
 
 ## Kollegial holdning og praksis
 
 ### Prosjekt Digitale Læringsmiljø 2030 {#sec-vl-dlm2030}
 * [Prosjekts webside](https://www.uio.no/for-ansatte/arbeidsstotte/prosjekter/nestegenerasjons-digitalt-laringsmiljo/index.html)
-* fil `Sluttrapport prosjekt Digitalt læringsmiljø 2030.pdf`
+* Fil: `Sluttrapport prosjekt Digitalt læringsmiljø 2030.pdf`
 
 ### Software Carpentry, Data Carpentry, The Carpentries, Carpentry@UiO  {#sec-vl-carpentry}
 
@@ -165,7 +185,7 @@ problemløsning og gruppearbeid som del av undervisningen i et emne.
 
 
 ### Arbeidsgruppen for gjennomgang av ferdighetstrening i biovitenskapsprogrammet {#sec-vl-ag-ibv}
-* fil `Anbefalinger fra arbeidsgruppe for ferdighetstrening.pdf`
+* Fil: `Anbefalinger fra arbeidsgruppe for ferdighetstrening.pdf`
 
 ### UnderVerk ved Institutt for Biovitenskap {#sec-vl-underverk}
 
@@ -227,15 +247,9 @@ bidra konkret til noen av workshopen:
   * ['Programmerings- revolusjonen'](https://issuu.com/nokut/docs/sfu_magasinet_02.18_72dpi_enkeltsid); artikkel i SFU-magasinet 2018/2, side 25
   * Det ble publisert en artikkel på MatNat sine sider om [hvordan det er å studere biovitenskap](https://www.uio.no/studier/program/biovitenskap/studiemiljo/hvordan-er-det-a-studere-biovitenskap.html) som spesifikt nevner programmeringsundervisning som en styrke
 
-## Det digitale
-
-* Prosjekt "Integrasjon av Jupyter og Canvas for digital vurdering"
-  * [Prosjektsiden](https://www.usit.uio.no/om/organisasjon/itf/aktiviteter/prosjekter/jupyter-canvas) (krever login med UiO brukernavn og passord)
-  * finansiert av LINK - Senter for Læring og Utdanning ved UiO
-    * [Utlysning av prosjektmidler for digital vurdering](https://www.uio.no/link/arrangementer/2019/digitalvurdering/prosjektmidlerdigitalvurdering.pdf)
 
 
-## Vedlegg for Utdanningsfaglig CV
+## Vedlegg for Utdanningsfaglig CV {#sec-vl-cv}
 
 ### Universitetspedagogisk kompetanse
 

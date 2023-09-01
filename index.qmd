@@ -12,6 +12,9 @@ Todo liste for word versjonen
 cp _book/Redegjørelse-søknad-Merittert-Utdanner-UiO-2023.docx Redegjørelse_Lex_Nederbragt.docx
 cp _book/Redegjørelse-søknad-Merittert-Utdanner-UiO-2023.docx Pedagogisk_mappe_Lex_Nederbragt.docx
 ```
+
+
+HUSK ikke skriv ut som PDF, men 'Lagre som...' --> 'PDF'
 :::
 
 ::: {.content-visible when-format="html"}

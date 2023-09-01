@@ -1,12 +1,8 @@
+# Pedagogisk mappe
+
 <!-- TODO
 * legg til 2017 og 2019 (?) versjonen av kursboken for å vise endring av rekkefølge
  -->
-
-# Pedagogisk mappe
-
-Alle vedlegg er lagt ut i [en delt mappen på OneDrive](https://uio-my.sharepoint.com/:f:/g/personal/alexajo_uio_no/Et-qt9iClIBNgVCwpQXA7PsBmCR2NjSeF4sbUDopnCiC-A?e=VFR0KC).
-
-
 
 ## BIO2120 {#sec-vl-bio2120}
 
@@ -52,7 +48,20 @@ Alle vedlegg er lagt ut i [en delt mappen på OneDrive](https://uio-my.sharepoin
     * [carpentry.uio.no](https://www.uio.no/carpentry)
     * [oversikt over workshops](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/)
   * Jeg leder [styret for Carpentry@UiO](https://uio-carpentry.github.io/about/members/)
-  * På konferansen 'CarpentryCon online 2022' presenterte jeg en oversikt over Carpentry@UiO.
+  
+* Foredrag om Carpentry@UiO mm
+  * På et miniseminar "Open Data Skills" ved UiO i 2016 holdt jeg foredraget
+    "The Carpentry effort at the University of Oslo"
+  * På NARMA (Norsk nettverk for Forskningsadministrasjon) sin Vårkonferanse 2017
+    holdt jeg et foredag om
+    "Software Carpentry og Data Carpentry: opplæring i bruk og deling av forskningsdata – for forskere, av forskere, ved UiO"
+  * På 2017 Nordic eInfrastructure Collaboration conference holdt jeg foredraget
+    "Teaching Researchers Basic Skills for Computational Research: the Software Carpentry Model"
+  * På konferansen CarpentryConnect i Manchester i 2019 presenterte jeg en keynote lecture 
+    med tittel "Learning from the Carpentries". 
+    Se [opptaket](https://www.youtube.com/watch?v=-VMItG68LcM).
+  * På online konferansen 'CarpentryCon online 2022' presenterte jeg
+    "Carpentry@UiO: Workshops for basic skills in programming and datamanagement at The University of Oslo (UiO)".
     Se [opptaket](https://www.youtube.com/watch?v=INU4GdFPL9s&t=10m00s) (fra tidspunktet 10:00)
 
 
@@ -65,6 +74,7 @@ Alle vedlegg er lagt ut i [en delt mappen på OneDrive](https://uio-my.sharepoin
 
 * Instruktør trening workshops jeg har undervist for
   * Universitetet i Oslo: 2016, 2018
+  * University of California, Davis, 2017
   * Online for the Carpentries: 2016-2019
 
 
@@ -73,6 +83,9 @@ Alle vedlegg er lagt ut i [en delt mappen på OneDrive](https://uio-my.sharepoin
 * Kurstittel: **High Throughput Sequencing technologies and bioinformatics analysis**
 * Emnesider: <https://www.uio.no/studier/emner/matnat/ifi/INF-BIO5120/index-eng.html>
 * Kurssidene med alt kursmaterialet for 2016: <http://inf-biox121.readthedocs.org/en/2016>
+* På FEBS-IUBMB Workshop on education in molecular life science i 2015 hadde jeg en poster
+  med tittel "Active learning strategies for bioinformatics teaching"
+    * Fil: `150918_poster_workshop-molecular-life-sciences_Nederbragt.pdf`
 
 ## BIOS1100 {#sec-vl-bios1100}
 
@@ -90,16 +103,41 @@ Alle vedlegg er lagt ut i [en delt mappen på OneDrive](https://uio-my.sharepoin
   [dokumentasjon til gruppelærere](https://pages.github.uio.no/alexajo/bios1100-assistants/start.html)
   (krever login med UiO brukernavn og passord)
 * Jeg har skrevet noen blogposter om BIOS1100: <http://lexnederbragt.com/bios1100>
+* Sammen med undervisere involvert i arbeidet med integrering 
+  av beregningsperspektivet i bachelor utdanningen ('CSE@IBV')
+  skrev vi rapporten "Computing in Science Education (CSE) på IBV: status og veien videre".
+  * Fil: `Status CSE på IBV februar 2020 og veien videre.pdf`
 
+## Foredrag om BIOS1100 {#sec-vl-deling}
+<!-- Tone: Kollegial holdning og praksis handler også om å dele kunnskap med andre
+i form av foredrag – har du hold toe på UnderVerk? Real U? MNT konferansen? -->
+
+* Jeg har presentert arbeidet med BIOS1100 i Studieutvalget ved MN-fakultetet (STUT), ved flere anledninger.
+* På CCSE sitt juleseminar i 2017 presenterte jeg "BIOS1100 - Innføring i beregningsmodeller for biovitenskap"
+* På et et Undervisningsseminar for NT-fak, Univ. i Tromsø i 2018 holdt jeg et innlegg om
+  "Programmering og modellering i biovitenskapsutdanning"
+* Da MN fakultetet ved UiO fik besøk av MN fakultetet ved UiB i 2018 for å diskutere
+  "Utdanningsutvikling med fokus på digitale ferdigheter og generisk kompetanse"
+  presenterte jeg "BIOS1100 Innføring i beregningsmodeller for biovitenskap – erfaringer og videre utvikling"
+* Jeg presenterte i 2020 for en arbeidsgruppe fra Circle-U
+  som skulle samle erfaringer rundt generiske/overførbare ferdigheter i utdanningen
+  "Computing in Bioscience Education"
+* På en instituttsamling ved Farmasøytiskk Institutt i 2022,
+  under Temaet "Beregningsvitenskap og digital kompetanse i utdanning",
+  presenterte jeg "Implementering av beregninger i studieprogrammet Biovitenskap
+  med noen refleksjoner rundt farmasiutdanningen"
+
+
+  
 ## Samkoding {#sec-vl-samkoding}
 
 * Jeg har laget to korte filmer for å vise hvordan å (ikke) gjøre samkoding.
   Disse filmene blir brukt i [opplæring av instruktører for the Carpentries](https://carpentries.github.io/instructor-training/17-live.html#compare-and-contrast):
-  * [dårlig eksempel](https://youtu.be/bXxBeNkKmJE)
-  * [bra eksempel](https://youtu.be/SkPmwe_WjeY)
+  * [Eksempel 1](https://youtu.be/bXxBeNkKmJE)
+  * [Eksempel 2](https://youtu.be/SkPmwe_WjeY)
 
 * Jeg har skrevet en fagfellevurdert artikkel om teknikken @nederbragt2020Ten.
-  * **A. Nederbragt, R. M. Harris, A. P. Hill and G. Wilson** (2020). "Ten quick tips for teaching with participatory live coding", *PLOS Computational Biology*, 16(9),pp. e1008090, [doi: 10.1371/journal.pcbi.1008090](https://dx.doi.org/10.1371/journal.pcbi.1008090)
+  * **A. Nederbragt, R. M. Harris, A. P. Hill and G. Wilson** (2020). "Ten quick tips for teaching with participatory live coding", *PLOS Computational Biology*, 16(9), pp. e1008090, [doi: 10.1371/journal.pcbi.1008090](https://dx.doi.org/10.1371/journal.pcbi.1008090)
 
 
 ## Jupyter notebooks og JupyterHub {#sec-vl-jupyter}
@@ -110,22 +148,22 @@ Alle vedlegg er lagt ut i [en delt mappen på OneDrive](https://uio-my.sharepoin
     <https://jupyterhub.uio.no>
   * [Dokumentasjon for studenter](https://www.uio.no/tjenester/it/forskning/beregning/jupyter/)
   * [Dokumentasjon for undervisere](https://www.uio.no/english/services/it/research/hpc/jupyter-notebook/for-teachers/index.html)
-  * I 2021 holdt jeg et foredrag om "Implementing Jupyter Notebooks in teaching: opportunities and challenges" 
+  * I 2021 holdt jeg et foredrag om "Using Jupyter for teaching programming to bachelor students in Bioscience" 
     for Senter for Fremragende Utdanning ved UiO iEarth
     * Websiden: <https://www.iearth.no/resource/iearth-digital-learning-forums-from-2021> (skroll ned til 03.06.2021)
     * Opptak av foredraget: <https://vimeo.com/558878621>
 * I 2019 fikk vi sammen med kjemisk institutt og USIT 
   innvilget prosjektet "Integrasjon av Jupyter og Canvas for digital vurdering",
-  som skal gjøre det sømløst og kombinere disse to plattformer.
+  som skal gjøre det sømløst og kombinere disse to plattformer
   * [Utlysning av prosjektmidler for digital vurdering](https://www.uio.no/link/arrangementer/2019/digitalvurdering/prosjektmidlerdigitalvurdering.pdf)
   * Søknad: fil: `Jupyter-Canvas-LINK_2019_signert.pdf`
   * [Prosjektsiden](https://www.usit.uio.no/om/organisasjon/itf/aktiviteter/prosjekter/jupyter-canvas) (krever login med UiO brukernavn og passord)
 
-## Formativ vurdering med Peer Instruction {#sec-vl-formvurd}
+<!---
+ ## Formativ vurdering med Peer Instruction {#sec-vl-formvurd}
 
-* Siden med [alle flervalgsspørsmål utviklet for BIOS1100](https://www.uio.no/studier/emner/matnat/ibv/BIOS1100/h22/alle-flervalgssporsmal-i-bios1100-h22.html)
-
-
+* Siden med [alle flervalgsspørsmål utviklet for BIOS1100](https://www.uio.no/studier/emner/matnat/ibv/BIOS1100/h22/alle-flervalgssporsmal-i-bios1100-h22.html) 
+--->
 
 ## Emneevalueringer {#sec-vl-emneeval}
 
@@ -163,15 +201,6 @@ Alle vedlegg er lagt ut i [en delt mappen på OneDrive](https://uio-my.sharepoin
   * Tittel: Studenters arbeid med programmering i biovitenskapelige problemstillinger. En kvalitativ studie av biologistudenters arbeid med Python
   * Lenke til oppgaven: <http://urn.nb.no/URN:NBN:no-73632>
   * Fil: `Masteroppgave_Håland.pdf`
-
-## Foredrag om BIOS1100 {#sec-vl-deling}
-
-<!---FIXME--->
-
---> se CCSE rapport
-
-<!-- Tone: Kollegial holdning og praksis handler også om å dele kunnskap med andre
-i form av foredrag – har du hold toe på UnderVerk? Real U? MNT konferansen? -->
 
 ## UnderVerk ved Institutt for Biovitenskap {#sec-vl-underverk}
 
@@ -226,24 +255,11 @@ problemløsning og gruppearbeid som del av undervisningen i et emne.
 
 ## Prosjekt Digitale Læringsmiljø 2030 {#sec-vl-dlm2030}
 * [Prosjekts webside](https://www.uio.no/for-ansatte/arbeidsstotte/prosjekter/nestegenerasjons-digitalt-laringsmiljo/index.html)
+* [Sluttrapport](https://www.uio.no/for-ansatte/arbeidsstotte/prosjekter/nestegenerasjons-digitalt-laringsmiljo/sluttrapport-prosjekt-digitalt-leringsmiljo-2030.pdf)
 * Fil: `Sluttrapport prosjekt Digitalt læringsmiljø 2030.pdf`
-
-
 
 ## Arbeidsgruppen for gjennomgang av ferdighetstrening i biovitenskapsprogrammet {#sec-vl-ag-ibv}
 * Fil: `Anbefalinger fra arbeidsgruppe for ferdighetstrening.pdf`
-
-
-
-## Lederroller {#sec-vl-leder}
-
-* CSE@IBV
-  * Sammen med undervisere involvert i arbeidet med integrering av beregningsperspektivet i bachelor utdanningen ('CSE@IBV') skrev vi rapporten "Computing in Science Education (CSE) på IBV: status og veien videre".
-  * Fil: `Status CSE på IBV februar 2020 og veien videre.pdf`
-
-* CCSE
-  * Jeg er en del av [ledergruppen](https://www.mn.uio.no/ccse/english/about/organization/leader-group/)
-  * Bidrag til [CCSE sine årsrapporter](https://www.mn.uio.no/ccse/english/about/reports)
 
 ## Annet
 
@@ -262,7 +278,7 @@ problemløsning og gruppearbeid som del av undervisningen i et emne.
 
 ## Vedlegg for Utdanningsfaglig CV {#sec-vl-cv}
 
-## Universitetspedagogisk kompetanse
+### Universitetspedagogisk kompetanse
 
 * *Felles innføringsdel* for Universitetspedagogisk Basiskompetanse i 2019
   * Kursbevis: Fil: `Kursbevis_universitetspedagogisk_basiskompetanse.pdf`
@@ -279,8 +295,8 @@ problemløsning og gruppearbeid som del av undervisningen i et emne.
 * *Felles innføringsdel* i 2014 som 20% 1. amanuensis II
   * Utviklingsarbeid: Fil: `Utviklingsarbeid_Fellesdelen_2014.pdf`
 
+### Lederroller
 
-----
-Ikke plassert (ennå)
-
-* utdrag/faksimile fra erfaringsdokument BIOS1100 og MNPED9000
+* CCSE
+  * Jeg er en del av [ledergruppen](https://www.mn.uio.no/ccse/english/about/organization/leader-group/)
+  * Bidrag til [CCSE sine årsrapporter](https://www.mn.uio.no/ccse/english/about/reports)

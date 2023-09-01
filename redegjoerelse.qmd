@@ -1,6 +1,6 @@
 # Redegjørelse {.unnumbered}
 
-Antall ord (uten referanser): 2500.
+Antall ord (uten referanser): 2489.
 
 <!---
  Det som kjennetegner meg som underviser
@@ -45,7 +45,7 @@ og opplevde at det å undervise i seg selv er å lære.
 
 Mine første forelesninger på UiO var i 2006, i kurset BIO2120 Evolusjonsbiologi, 
 ([ped.mappe @sec-vl-bio2120]).
-Det gikk sikkert bra men på det tidspunktet var jeg mest opptatt av
+Det gikk sikkert bra, men på det tidspunktet var jeg mest opptatt av
 meg selv og hva jeg som underviser gjorde [@kugel1993professors; se også @biggs2012What].
 
 Det var ikke før jeg som postdoktor måtte lære meg
@@ -111,7 +111,7 @@ spurt om å utvikle et nytt emne:
 BIOS1100 - Innføring i beregningsmodeller for biovitenskap,
 et førstesemesterkurs i studieprogrammet Biovitenskap.
 Emnet skulle gi biologistudenter beregningskompetanse
-som en del av satsningen på ‘Computing in Science Education’
+som en del av satningen på ‘Computing in Science Education’
 ([ped.mappe @sec-vl-bios1100]). 
 Dette var en fantastisk måte å bidra til å modernisere biovitenskapsutdanningen.
 Jeg hadde selv som forsker vært gjennom denne moderniseringen,
@@ -119,7 +119,7 @@ og er veldig motivert for å inkludere beregninger/programmering tidlig i utdann
 
 <!---Det å kunne lære nye studenter disse nye forskningsnære arbeidsmetoder passet veldig godt for en person som drives av å dele nyttig kunnskap med andre.--->
 
-For å designe kurset tok jeg utgangspunkt i relevant relevant pedagogisk teori
+For å designe kurset tok jeg utgangspunkt i relevant pedagogisk teori
 og forskning om det å lære programmering.
 Fra forskningen lærte jeg at å lære å programmere anses generelt som vanskelig
 [@jenkins2002difficulty; @robins2003Learning; @bennedsen2007Failure; @guzdial2015LearnerCentered]:
@@ -137,9 +137,9 @@ kan optimeres for å fremme læring @sweller2019Cognitive
 og er relevant for programmeringsundervisning @caspersen2007Instructional.
 <!--- Overbelastning av arbeidsminnet hemmer overføring av ny kunnskap til langtidsminnet,
 som er nødvendig for læring. --->
-Denne teorien har vært elementært for min utdanningspraksis.
+Denne teorien har vært elementær for min utdanningspraksis.
 
-Jeg bestemte meg å ta utgangspunkt i veiledet instruksjon
+Jeg bestemte meg for å ta utgangspunkt i veiledet instruksjon
 ("Guided instruction") @fisher2013Better,
 for å begrense studentenes kognitive belastning.
 Dette er en undervisningsmetode hvor studentene får eksplisitt veiledning
@@ -174,24 +174,23 @@ I en stor gruppe kan det føre til at en student som har et problem
 holder opp undervisningen for hele gruppen. --->
 Jeg overså at jeg dermed stolte for mye på selvstendig læring av programmeringen
 (‘minimal guidance’ @clark2012Putting).
-Dette førte til at, første gang kurset ble undervist,
-mange studenter meldte til studieseksjonen at de
+Dette førte til at mange studenter meldte til studieseksjonen at de
 var i ferd med å falle av fordi de ikke klarte å lære seg programmeringen.
 Dette kom som et sjokk over meg, og jeg ble nokså nedenfor
 at all arbeidet jeg hadde lagt inn i forkant føltes til ingen nytte
 - studentene lærte ikke stoffet!
 
-Jeg bestemte meg å ta grep og byttet ut undervisningen
+Jeg bestemte meg å ta grep og bytte ut undervisningen
 de tre siste ukene med et frivillig tilbud om økter med samkoding.
 Tilbakemeldinger fra studenter var overveldende positivt,
-og en mange fortalte
+og mange fortalte
 at de nå følte at de hadde forstått det vesentlige med programmeringen.
 
 Jeg implementerte deretter samkoding fast i undervisningen.
 Studentene melder tilbake at de opplever mye læringsutbytte av det,
 og en gruppelærer sa at 'grunnmuren i programmering sitter mye bedre'.
 Denne episoden lærte meg viktigheten av å få tilbakemeldinger fra studentene underveis.
-Det er alt for lett å anta at et gjennomtenkt undervisningsopplegg
+Det er altfor lett å anta at et gjennomtenkt undervisningsopplegg
 fungerer i praksis.
 Jeg er fortsatt stolt over at jeg klarte å snu undervisningen for å
 'redde' studentene som var i ferd med å falle av.
@@ -276,7 +275,7 @@ Som sagt tar jeg samme utgangspunkt når jeg designer undervisningsopplegg.
 <!--- , og har testet undervisningsformer som samkoding,
 og formativ vurdering med Peer Instruction. --->
 Jeg har opplevd hvor viktig det er å bruke tilbakemeldinger
-fra studentener og gruppelærere.
+fra studententer og gruppelærere.
 
 Jeg ber studentene på slutten av gruppetimene å besvare
 en online ‘exit quiz’: "Hva var bra med dagens gruppetime?"
@@ -306,7 +305,7 @@ Dette hjelper meg å forbedre kursmaterialet over tid.
 <!-- Tone: Hvordan har disse endringene forbedret studentenes læring?
 Har evalueringene endret seg etter endringene? -->
 
-Ikke minst bruker jeg støttespillerne mine, gruppelærene,
+Ikke minst bruker jeg støttespillerne mine, gruppelærere,
 som er nærmest studentene og er dermed en viktig informasjonskilde.
 Jeg ber dem å beskrive deres erfaringer umiddelbart etter gruppeundervisningen
 i et delt online erfaringsdokument,
@@ -334,7 +333,7 @@ motivasjon for, og problemløsningsstrategier i
 programmering og modellering i biologi ([ped.mappe @sec-vl-forskning]).
 
 Jeg har fra begynnelsen av tatt utgangspunkt i at problemstillinger vi jobber med
-skal være relevant for biovitenskapstudenter.
+skal være relevante for biovitenskapstudenter.
 Det var gledelig å få bekreftet at mitt valg av biologisk relevante problemstillinger
 er støttet av tidligere forskning:
 dette bidrar til opplevd nytteverdi, som gir ytre motivasjon @ryan2000Intrinsic,
@@ -431,7 +430,7 @@ i det digitale.
 Prosjektteamet besto av ansatte fra den sentrale studieadministrasjonen,
 LINK, og IT avdelingen,
 og det var veldig interessant å høre mange forskjellige perspektiver.
-Prosjektet hadde givende innspillsmøter
+Prosjektet hadde lærerike innspillsmøter
 med studenter, undervisere, studieadministrative, og fagavdelinger.
 Undervisning er et samspill av mange aktører. 
 Som underviser ser man ofte ikke de andre sidene av dette,
@@ -444,7 +443,7 @@ redusere kompleksiteten i det digitale læringsmiljøet
 (begrense kognitiv belastning)
 og et helhetsperspektiv der man ser på det digitale
 som en del av et større, levende læringsmiljø.
-Jeg har selv lært mye om hvordan man kan lage 
+Gjennom prosjektet har jeg selv lært mye om hvordan man kan lage 
 et sammenhengende økosystem av undervisningsressurser
 som studentene kan bruke av det de har behov for @luckin2008learner.
 Jeg håper og tror at rapporten kommer til å bidra 
@@ -455,7 +454,7 @@ Jeg ønsker flere forskningsprosjekter som studerer effekten av undervisningen m
 spesielt rundt MNPED9000 kurset.
 Vi er godt i gang med integrering av beregninger i biovitenskapsutdanningen,
 men vi har en vei å gå for en full integrering.
-Jeg vil gå i dialog med kollegaer ved instituttet for
+Jeg vil gå i dialog med kolleger ved instituttet for
 videreutvikle studieprogrammet på dette området.
 Kunstig intelligens kommer til å endre mye,
 og jeg ønsker å fokusere på hvordan det kan bidra til at våre studenter

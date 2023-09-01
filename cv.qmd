@@ -3,6 +3,7 @@ title: "Utdanningsfaglig CV"
 author: "Lex Nederbragt"
 date: today
 date-format: long
+# language: nb # gir feilmelding
 format:
   docx:
     toc: false
@@ -33,10 +34,10 @@ Utdanningsfaglig CV (maks fire A4 sider) skal inneholde en kortfattet oversikt o
 ## Arbeidserfaring
 
 * 2018- Førstelektor, Inst. for Biovitenskap og Inst. for Informatikk, Universitetet i Oslo
-* 2018- Nestleder hovedansvar for koordinering av utdanningsaktiviteter, Senter for Bioinformatikk, Inst. for Informatikk,
+* 2018- Nestleder med hovedansvar for koordinering av utdanningsaktiviteter, Senter for Bioinformatikk, Inst. for Informatikk,
   Universitetet i Oslo
 * 2013-2018 Førsteamanuensis II (20%), Inst. for Informatikk, Universitetet i Oslo
-* 2015-2018 Fast stilling som Senior ingeniør, Inst. for Biovitenskap, Universitetet i Oslo
+* 2015-2018 **Fast stilling** som Senior ingeniør, Inst. for Biovitenskap, Universitetet i Oslo
 * 2005-2018 Postdoktor, forsker, Senior ingeniør, Inst. for Biovitenskap, Universitetet i Oslo
 * 2003-2005 Senior Scientist, Lingvitae AS, Oslo
 * 2002-2003 Postdoktor, University of Hawaii, USA
@@ -47,13 +48,14 @@ Utdanningsfaglig CV (maks fire A4 sider) skal inneholde en kortfattet oversikt o
 <!-- Synkroniser med ped_mappe.md -->
 <!-- https://app.uio.no/fup/historikk -->
 
-* Jeg tok *Felles innføringsdel* for Universitetspedagogisk Basiskompetanse i 2019
-* moduler tatt i tillegg til Fellesdelen:
+* Jeg tok *Felles innføringsdel* i 2014 som 20% 1. amanuensis II
+* Jeg fullførte *Felles innføringsdel* for Universitetspedagogisk Basiskompetanse i 2019
+* Moduler tatt i tillegg til Fellesdelen:
   * Forskningsveiledning (2014)
   * Forelesning og undervisning - det dramaturgiske aspekt (2015)
   * Pedagogisk mappe (2020)
   * Læring og undervisning med universell utforming (2022)
-* Jeg tok *Felles innføringsdel* i 2014 som 20% 1. amanuensis II
+
 
 ## Emneansvar
 
@@ -72,12 +74,13 @@ Utdanningsfaglig CV (maks fire A4 sider) skal inneholde en kortfattet oversikt o
   * Tema: Formative assessment
   * Tema: Cognitive load and learning environment
 
+* [BIOS-IN5410](https://www.uio.no/studier/emner/matnat/ibv/BIOS-IN5410/) **Bioinformatics for Molecular Biology** 2021-
+  * Tema: Reproducible Bioinformatic Analyses
+
 * [MBV3070/BIOS3010](https://www.uio.no/studier/emner/matnat/ibv/BIOS3010/index.html) **Bioinformatikk** 2019-
   * Tema: Python programmering
   * Tema: Genome assembly and annotation
 
-* [BIOS-IN5410](https://www.uio.no/studier/emner/matnat/ibv/BIOS-IN5410/) **Bioinformatics for Molecular Biology** 2021-
-  * Tema: Reproducible Bioinformatic Analyses
 
 * [MBV-INF4410/9410](https://www.uio.no/studier/emner/matnat/ibv/MBV-INF4410/index.html) **Bioinformatics for Molecular Biology** 2013-2016
   * Forelesning "The bioinformatics of sequencing and assembling genomes"
@@ -97,6 +100,9 @@ Utdanningsfaglig CV (maks fire A4 sider) skal inneholde en kortfattet oversikt o
   * Forelesning "Cell cycle changes during development"
 
 **Workshops**
+
+* Forskerskole i Bioinformatikk NORBIS Summer School "Robust and reproducible practices in bioinformatics programming" 2018
+  * [Websidene](https://norbis.w.uib.no/norbis-summer-school-2018/)
 
 * Next-Gen Sequence Analysis Workshop 'week 3' (intermediate and advanced skills) (invitert), Michigan State University 2015
   * [Websidene](http://angus.readthedocs.org/en/2015/week3.html)

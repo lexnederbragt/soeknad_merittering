@@ -114,7 +114,9 @@ Alle vedlegg er lagt ut i [en delt mappen på OneDrive](https://uio-my.sharepoin
     for Senter for Fremragende Utdanning ved UiO iEarth
     * Websiden: <https://www.iearth.no/resource/iearth-digital-learning-forums-from-2021> (skroll ned til 03.06.2021)
     * Opptak av foredraget: <https://vimeo.com/558878621>
-* Prosjekt "Integrasjon av Jupyter og Canvas for digital vurdering"
+* I 2019 fikk vi sammen med kjemisk institutt og USIT 
+  innvilget prosjektet "Integrasjon av Jupyter og Canvas for digital vurdering",
+  som skal gjøre det sømløst og kombinere disse to plattformer.
   * [Utlysning av prosjektmidler for digital vurdering](https://www.uio.no/link/arrangementer/2019/digitalvurdering/prosjektmidlerdigitalvurdering.pdf)
   * Søknad: fil: `Jupyter-Canvas-LINK_2019_signert.pdf`
   * [Prosjektsiden](https://www.usit.uio.no/om/organisasjon/itf/aktiviteter/prosjekter/jupyter-canvas) (krever login med UiO brukernavn og passord)

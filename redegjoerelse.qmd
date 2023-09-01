@@ -1,5 +1,7 @@
 # Redegjørelse {.unnumbered}
 
+Antall ord (uten referanser): XXXX.
+
 <!---
  Det som kjennetegner meg som underviser
 
@@ -33,180 +35,166 @@ Hvordan forstår jeg studentenes læring?
 
 ## En klar utvikling over tid med økende fokus på studentenes læring
 
-Min første erfaring som underviser var som gruppelærer for et kurs i zoologi.
-Jeg følte at jeg lærte en god del mer av å undervise faget, enn når jeg tok faget selv:
-mens studentene så ett tverrsnitt av en kattenyre hver,
-så jeg mange flere når studenter ba meg om hjelp.
+Mitt navn er Lex Nederbragt.
+Jeg er fra Nederland og er 51 år, og har undervist på UiO i 18 år.
+Min aller første erfaring som underviser, da jeg var i 20 årene,
+var som gruppelærer for et kurs i zoologi.
+Mens studentene så ett tverrsnitt av en kattenyre hver,
+så jeg mange når studenter ba meg om hjelp,
+og opplevde at det å undervise i seg selv er å lære. 
 
-Mine første forelesninger i kurset BIO2120 Evolusjonsbiologi, 
-([ped.mappe @sec-vl-bio2120]) var standard 2x45 minutter.
-Det var sikkert bra men hadde ingen studentaktivisering.
-Jeg var nok mest opptatt av 'det jeg gjør som underviser'
-og det å formidle kunnskap på en best mulig måte
-- stadiet 1 og 2 i Kugels faser av utvikling av undervisere
-[@kugel1993professors; se også @biggs2012What].
+Mine første forelesninger på UiO var i 2006, i kurset BIO2120 Evolusjonsbiologi, 
+([ped.mappe @sec-vl-bio2120]).
+Disse var standard 2x45 minutter.
+Det var sikkert bra men på det tidspunktet var jeg mest opptatt av
+meg selv og hva jeg som underviser gjorde [@kugel1993professors; se også @biggs2012What].
 
-Da jeg som postdoktor måtte lære meg å bruke kommandolinje-baserte verktøy,
-programmering og supercomputere,
-begynte jeg med en gang å utvikle og holde korte kurs og workshops for kolleger
-i bruk disse verktøyene programmering.
+Det var ikke før jeg som postdoktor måtte lære meg
+å bruke kommandolinje-baserte verktøy,
+programmering og supercomputere at jeg begynte å se nærmere på
+hvordan man kan undervise på ulike måter
+og interessere for meg for forskning rundt undervisning. 
 Jeg oppdaget at jeg, når jeg lærer noe nyttig, ønsker å dele den nye kunnskapen
 med andre som også kunne dra nytte av det.
+Jeg holdt korte kurs og workshops for kolleger i bruk disse verktøyene.
 
-Deretter ble jeg kjent med The Carpentries, en internasjonal
+I 2012 ble jeg kjent med The Carpentries, en internasjonal
 organisasjon av frivillige som organiserer workshops om verktøy
 for forskere som bruker beregninger og programmering i sin forskning
 ('research computing') ([ped.mappe @sec-vl-carpentry]).
 Etter å ha fått dem til å holde en av deres workshops på UiO
 ble jeg vervet til å bli instruktør for organisasjonen.
 Jeg gikk gjennom deres instruktørtrening,
-som er forankret i pedagogisk forskning om læring:
+som er forankret i pedagogisk forskning:
 mentale modeller, kognitiv belastningsteori, formativ versus summativ vurdering.
 
-Jeg så at det ville være nyttig for flere forskere ved UiO kunne delta på Carpentries' workshops.
-Jeg ønsket dermed å etablere en lokal avdeling av The Carpentries.
+Jeg ønsket å etablere en lokal avdeling av The Carpentries
+slik at flere UiO forskere kunne delta på Carpentries' workshops.
 Sammen med en kollega fikk vi til et samarbeid med Realfagsbiblioteket,
-og i 2016 etablerte vi Carpentry@UiO.
-Carpentry@UiO har organisert mer enn ett hundre workshops
-med deltakere fra alle fakulteter, universitetsbibliotek og IT-avdelingen
-og UiO har flere titals personer utdannet som instruktør for organisasjonen
+og i 2016 etablerte vi Carpentry@UiO,
+som har organisert mer enn ett hundre workshops
+med deltakere fra alle fakulteter, universitetsbibliotek og IT-avdelingen.
+UiO har flere titals personer utdannet som Carpentries-instruktør
 ([ped.mappe @sec-vl-carpentry]).
 Denne måten å organisere en slags etterutdanning på dugnadsbasis på
 fungerer veldig bra,
-mest fordi det knytter mennesker sammen på tvers som har samme behov,
-og samme interesse i undervisning av disse metodene
+mest fordi det knytter mennesker med samme behov sammen på tvers,
+og skaper et praksisfellesskap
+@li2009Evolution rundt undervisning av disse metodene
 på en pedagogisk gjennomtenkt måte.
 Carpentry@UiO har bidratt til at mer enn ett tusen ansatte på UiO
-har fått opplæring i verktøy som er umiddelbart relevant for deres arbeid.
+har fått opplæring i verktøy som er umiddelbart anvendbart for deres arbeid.
 Deres forankring i pedagogikk har inspirert mange.
 
-Det å bli en del av dette praksisfellesskap,
-('community of practice' @li2009Evolution) har betydd mye for meg.
+The Carpentries har betydd mye for meg.
 Jeg fant likesinnede personer med lidenskap for undervisning 
 av moderne forskningstekniker som mange forskere trengte i sitt arbeid.
 Å bli instruktør, og senere instruktørtrener,
 for The Carpentries endret mitt syn på undervisningen totalt.
-Det ble mitt første møte med pedagogikk.
 Dette gjorde meg bevisst på viktigheten av motivasjon for læring,
 det å begrense kognitiv last, formativ vurdering og
-studentaktive læringsformer som hands-on læring.
-Jeg flyttet meg også over til stadiet 3 i Kugels faser @kugel1993professors,
-med fokus på den som jeg underviser til, heller enn på meg selv eller temaet.
-Deltakere skulle kunne bruke det de fikk undervist med en gang etterpå.
-Jeg også oppdaget at utdanning er en egen vitenskap,
+studentaktive læringsformer.
+Jeg skiftet fokus fra meg selv til dem som jeg underviser til,
+og over til studentenes læring @kugel1993professors.
+Jeg oppdaget at utdanning er en egen vitenskap,
 og ble overbevist om at vi bør ta resultatene av den vitenskapen på alvor
 når vi utvikler kurs.
 Akkurat som tidligere forskning informerer oss når vi utvikler vår egen forskning,
 bør pedagogisk forskning informere oss når vi utvikler vår egen undervisning.
 Dette har guidet mine tanker rundt undervisningsdesign fra den tiden av.
 
-I 2012 fikk jeg min første erfaring som kursansvarlig (emneansvarlig)
-med INF-BIO5121/9121 ([ped.mappe @sec-vl-infbio]).
-Dette lærte meg mye om hvordan undervisning foregår på et universitet, 
-faser i et emne (forberedelse, gjennomføring, eksamen, klage),
+I 2012 fikk jeg min første erfaring som emneansvarlig
+for INF-BIO5121/9121 ([ped.mappe @sec-vl-infbio]).
+Dette lærte meg alt om hvordan undervisning foregår på et universitet,
 og viktigheten av emneevaluering.
 
 <!-- si litt om eksamen? Andre innovative und. formen? HPC serveren? -->
 
-Min erfaring med å undervise programmering til forskere
-som ikke har hatt det som en del av sin utdanning
-bidro til at jeg i 2017 ble spurt å utvikle et nytt emne som emneansvarlig:
+I 2017 ble jeg med bakgrunnen i min erfaring i å undervise beregninger til forskere
+spurt om å utvikle et nytt emne:
 BIOS1100 - Innføring i beregningsmodeller for biovitenskap,
-et obligatorisk førstesemesterkurs i studieprogrammet Biovitenskap.
+et førstesemesterkurs i studieprogrammet Biovitenskap.
 Emnet skulle gi biologistudenter beregningskompetanse
-som en del av fakultetets satsning på ‘Computing in Science Education’ (CSE)
+som en del av fakultetets satsning på ‘Computing in Science Education’
 ([ped.mappe @sec-vl-bios1100]). 
 Dette var en fantastisk måte å bidra til å modernisere biovitenskapsutdanningen.
 Jeg hadde selv som forsker vært gjennom denne moderniseringen,
-og var enig i viktigheten av å inkludere beregninger/programmering
-tidlig i utdanningen
-Det å kunne lære nye studenter disse nye forskningsnære arbeidsmetoder
-passet veldig godt for en person som drives av å dele nyttig kunnskap med andre.
+og veldig motivert for å inkludere beregninger/programmering tidlig i utdanningen.
 
-For å designe dette kurset ønsket jeg å ta utgangspunkt i
-relevant pedagogisk teori og litteratur.
-Jeg valgte å se på forskning om det å lære programmering,
-og endte fort opp med å fokusere på
-teorien om kognitiv belastning @sweller2019Cognitive.
-
-Kognitiv belastningsteori er opptatt med hvordan belastning av arbeidsminne
-kan optimeres for å fremme læring @sweller2019Cognitive
-og er relevant for programmeringsundervisning @caspersen2007Instructional.
-Overbelastning av arbeidsminnet hemmer effektiv overføring av ny kunnskap til langtidsminnet,
-som er nødvendig for læring.
-Denne teorien har vært påvirket min utdanningspraksis
-når det gjelder valg av undervisningsmetoder og digitale verktøy.
-
+For å designe kurset tok jeg utgangspunkt i relevant relevant pedagogisk teori
+og litteratur og forskning om det å lære programmering.
 Fra forskningen lærte jeg at å lære å programmere anses generelt som vanskelig
 [@jenkins2002difficulty; @robins2003Learning; @bennedsen2007Failure; @guzdial2015LearnerCentered]:
 det er mye å ha i hodet samtidig, syntaks, problemløsningsstrategier, 
 og den faglige konteksten.
-Det oppstår fort bugs som kan være vanskelig å finne og løse.
 Min utfordring var nå å undervise programmering for studenter 
-som (ofte) ikke har valgt biologi, som tradisjonelt er sett på som det 'myke realfaget'
-for å lære akkurat det.
+som (ofte) ikke har valgt det 'myke realfaget' biologi for å lære akkurat det.
 I tillegg skulle de lære det i et begrepstungt fag, med mange prosesser å forholde seg til.
 Når disse to tingene skulle læres samtidig
 er det fare for at den kognitive belastningen blir for høy.
 
+Dette førte meg til teorien om kognitiv belastning,
+som er opptatt med hvordan belastning av arbeidsminne
+kan optimeres for å fremme læring @sweller2019Cognitive
+og er relevant for programmeringsundervisning @caspersen2007Instructional.
+Overbelastning av arbeidsminnet hemmer overføring av ny kunnskap til langtidsminnet,
+som er nødvendig for læring.
+Denne teorien har vært elementræt for min utdanningspraksis.
+
 Jeg bestemte meg å ta utgangspunkt i veiledet instruksjon
 ("Guided instruction") @fisher2013Better,
-som bidrag til å begrense studentenes kognitive belastning.
-Veiledet instruksjon er en undervisningsmetode
-hvor instruktøren gir eksplisitt veiledning og støtte til studentene
-gjennom hele læringsprosessen,
-heller enn å be studentene å finne ut konsepter selv @kirschner2006Why.
+for å begrense studentenes kognitive belastning.
+Dette er en undervisningsmetode hvor studentene får eksplisitt veiledning
+og støtte gjennom hele læringsprosessen,
+heller enn å be dem å finne ut konsepter selv @kirschner2006Why.
 I tillegg ønsket jeg å bruke studentaktiviserende undervisningsformer,
-som jeg ble mer og mer overbevist om er viktig for læring @freeman2014Active.
-Jeg ville være i fase 4 av Kugels faser @kugel1993professors.
+som jeg ble mer og mer overbevist om er viktig for læring
+[@kugel1993professors; @freeman2014Active].
 
 Det første jeg gjorde for å begrense kognitiv belastning
 er bruk av samkoding, eller 'Participatory Live Coding':
-en aktiv læringsteknikk der en underviser skriver kode og programmerer
-sammen med studentene [se også min publikasjon om dette @nederbragt2020Ten].
-([ped.mappe @sec-vl-samkoding]).
-Dette er en form for veiledet instruksjon
-som guider studentene gjennom å lære elementære programmeringsteknikker.
+en aktiv læringsteknikk, og form for veiledet instruksjon,
+der en underviser programmerer sammen med studentene
+[se også min publikasjon @nederbragt2020Ten] ([ped.mappe @sec-vl-samkoding])
+for å lære dem elementære programmeringsteknikker.
 
-Teknikken, som jeg har lært av The Carpentries
-der det er et sentralt element i deres workshops,
-er ment å senke terskelen for å komme i gang med programmeringen.
-I BIOS1100 brukes samkoding for å undervise elementære kunnskap i Python
-gjennom hele kurset i samkodingsgruppene ledet av gruppelærere,
-som får opplæring i teknikken
+Teknikken er et sentralt element Carpentries' workshops,
+og er ment å senke terskelen for å komme i gang med programmeringen.
+I BIOS1100 brukes samkoding nå gjennom hele kurset i
+samkodingsgruppene ledet av gruppelærere, som får opplæring i teknikken
 og bruker en samkodingsoppskrift som jeg har utviklet.
 Det lille som er av forskning på live-koding i undervisningen viser at
-teknikken er like bra som, om ikke bedre enn å bruke statiske kodeeksempler @raj2018Role @raj2020Livecoding
-og er derfor en anbefalt tilnærming for undervisning i programmering [@brown2018Ten; @wright2020why].
+teknikken er like bra som, om ikke bedre enn å bruke statiske kodeeksempler [@raj2018Role; @raj2020Livecoding]
+og er derfor anbefalt for undervisning i programmering [@brown2018Ten; @wright2020why].
 
 Selv om jeg visste at samkoding kunne være nyttig i BIOS1100
-trodde jeg først ikke at det var mulig å skalere opp samkoding til 200 studenter.
+trodde jeg i 2017 ikke at det var mulig å skalere opp samkoding til 200 studenter.
+<!--- slette? 50 ord --->
 Et av målene med samkodingen er at alle studenter følger med,
 og at de skal kunne få hjelp når de sitter fast slik at de ikke faller av underveis.
 I en stor gruppe kan det føre til at en student som har et problem
 holder opp undervisningen for hele gruppen.
-
 Jeg overså at jeg dermed stolte for mye på selvstendig læring av programmeringen
 (‘minimal guidance’ @clark2012Putting).
+
 Dette førte til at, første gang kurset ble undervist,
 mange studenter meldte til studieseksjonen at de
 var i ferd med å falle av fordi de ikke klarte å lære seg programmeringen.
-De følte at de ikke kunne mestre dette sentrale elementet i kurset.
 Dette kom som et sjokk over meg, og jeg ble nokså nedenfor
-at all arbeidet jeg hadde lagt inn i kurset føltes til ingen nytte
+at all arbeidet jeg hadde lagt inn i forkant føltes til ingen nytte
 - studentene lærte ikke stoffet!
 
-Jeg bestemte meg da å ta grep og bytte ut den planlagte undervisningen
-for de tre siste ukene med et tilbud til studentene som trengte det med økter med samkoding. 
-Tilbakemeldinger fra studenter på dette var overveldende positivt,
-og en god del fortalte meg og studieseksjonen etterpå
+Jeg bestemte meg å ta grep og byttet ut undervisningen
+de tre siste ukene med et frivillig tilbud om økter med samkoding.
+Tilbakemeldinger fra studenter var overveldende positivt,
+og en mange fortalte
 at de nå følte at de hadde forstått det vesentlige med programmeringen.
 
 Jeg implementerte deretter denne teknikken som en fast del av undervisningen.
 Studentene melder tilbake at de opplever mye læringsutbytte av den,
 og det første året sa en gruppelærer at 'grunnmuren i programmering sitter mye bedre'.
 Denne episoden lærte meg viktigheten av å få tilbakemeldinger fra studentene,
-eventuelt via studieseksjonen, underveis i kurset.
+eventuelt via studieseksjonen, underveis.
 Det er alt for lett å anta at et gjennomtenkt undervisningsopplegg
 fungerer i praksis.
 Jeg er fortsatt stolt over at jeg klarte å snu undervisningen for å
@@ -228,72 +216,53 @@ Hvordan skrev dere i så fall om boken? Hva ble viktig å endre? -->
 
 Det andre grepet som tar utgangspunkt i å redusere kognitiv belastning
 er valg av programmeringsomgivelse.
-Jeg valgte Jupyter notebooks fordi dette brukergrensesnittet
-kombinerer tekst og kode, og lar brukeren
-både skrive og kjøre kode på samme sted.
-Notebooks blir også brukt av forskere verden over.
-Det er nokså intuitivt å bruke, og infrastrukturen UiO har satt opp
-gjør det enkelt å gi alle studenter tilgang.
-Dette minsker dermed den kognitive belastningen
-som et mer komplekst brukergrensesnitt ville medført.
-Notebooks blir gjort tilgjengelig gjennom UiO sin JupyterHub,
-en skytjeneste som studentene kan logge seg inn på uten behov
-for installasjon på egen maskin.
-Denne ble satt opp bl.a. for BIOS1100, og brukes nå av mange kurs ved UiO
-([ped.mappe @sec-vl-jupyter]).
+Jeg valgte Jupyter notebooks som kombinerer tekst og kode,
+og lar brukeren både skrive og kjøre kode på samme sted ([ped.mappe @sec-vl-jupyter]).
 Studentene liker bruken av notebooks og bekrefter at det er lett å komme i gang med.
-I 2019 søkte fikk vi sammen med kjemisk institutt og USIT
+I 2019 fikk vi sammen med kjemisk institutt og USIT
 innvilget prosjektet "Integrasjon av Jupyter og Canvas for digital vurdering",
-som skal gjøre det sømløst og kombinere disse to plattformer
-for innleveringsoppgaver ([ped.mappe @sec-vl-jupyter]).
+som skal gjøre det sømløst og kombinere disse to plattformer ([ped.mappe @sec-vl-jupyter]).
 
 En utfordring vi hadde var at det digitale eksamensystemet Inspera ikke 
 tilbyr mulighet for å bruke notebooks som innleveringsform,
-eller teste kode som studentene skrev under eksamen.
-Men, i dialog med kollegaer som underviser
+eller teste kode som studentene skrev under skoleeksamen.
+Men, i dialog med undervisere i
 begynnerprogrammering for Informatikk studenter
 valgte jeg og aksepterer dette.
 Argumentasjonen var at studentene ved å ikke kunne kjøre kode
-ikke skulle bruke mye tid på fikse syntaksfeil, 
-men heller kunne fokusere på å ferdigstille programmet sitt.
+slapp å bruke mye tid på syntaksfeil, 
+og kunne fokusere på å ferdigstille programmet sitt.
 Men tilbakemeldinger fra studentene,
-og en økende bevissthet om baklengs design
+og min økte bevissthet om baklengs design
 og meningsfylt samsvar (constructive alignment, @biggs2012What)
-som jeg fikk i denne perioden, har endret synet mitt.
+endret synet mitt.
 
-Derfor tok jeg initiativ og ba i 2019 
-om en egen eksamensinstans for JupyterHub i Silureveien,
-som kunne brukes av studentene å skrive besvarelser som notebooks,
-og laste disse opp til Inspera.
-Dette ble mulig og har blitt brukt siden, også av et annet kurs.
+I 2019 ba jeg og fikk satt opp en egen eksamensinstans for JupyterHub i Silureveien,
+som kunne brukes av studentene å skrive og levere besvarelser som notebooks.
 Jeg så på dette som et viktig grep for å få økt meningsfylt samsvar
 mellom undervisning og eksamensform.
 Før var det et stort gap siden studentene måtte skrive eksamensbesvarelsene
 på en fullstendig annerledes måte enn som de hadde jobbet under kurset.
-Nå var dette blitt likt.
-Dette har bidratt til å redusere eksamensstresset,
-har gitt studentene mye bedre forutsetninger for eksamen,
-er en måte som i mye større grad lar studentene demonstrere hva de har lært.
+At dette nå var likthar gitt studentene bedre forutsetninger for eksamen,
+og lar studentene i større grad demonstrere hva de har lært.
 Mitt håp er at det også har bidratt til mer læring @biggs2012What.
 
 Det tredje grepet for å redusere kognitiv belastning er
 Peer Instruction ("Likemannsundervisning"),
-er en evidensbasert aktiv læringsmetode der studentene aktivt diskuterer materialet
-basert på spørsmål levert av underviseren @mazur1997Peer.
-Ved å be studentene om å reflektere over kursmateriell med sine egne ord,
-er en student som nettopp forsto materialet i stand til å forklare det på en måte
-som fungerer bedre, og har lavere kognitiv belastning,
-for en student som nesten forstår materialet.
+en evidensbasert aktiv læringsmetode der studentene diskuterer materialet
+basert på spørsmål av underviseren @mazur1997Peer.
+Ved å be studentene om å reflektere i sine egne ord,
+er en student som nettopp forsto materialet bedre (med lavere kognitiv belastning)
+i stand til å forklare det til en student som nesten forstår materialet, 
 Metoden har vist positive resultater på studentens læring i programmering @crouch2001Peer.
 
 I min undervisning bruker jeg Peer Instruction gjennom
-flervalgsspørsmål som først besvares av alle studentene via Mentimeter
-([ped.mappe @sec-vl-formvurd]).
-Når den første runden av stemmingen viser uenighet, og dermed misforståelser
-blant studentene, lar jeg dem studere svaralternativer seg i mellom.
+flervalgsspørsmål som først besvares av alle studentene ([ped.mappe @sec-vl-formvurd]).
+Hvis denne første avstemmingen viser uenighet, og dermed misforståelser
+blant studentene, lar jeg dem diskutere svaralternativene.
 Den neste avstemningen viser da oftest at flere har forstått det.
 
-Disse flervalgsspørsmål er også en from for formativ vurdering,
+Disse flervalgsspørsmål er også en form for formativ vurdering,
 som handler om at både underviseren og studenten får tilbakemelding
 på studentenes forståelse og eventuelle misoppfatninger knyttet til et tema @boston2019Concept.
 Jeg lærte om viktigheten av formativ vurdering gjennom The Carpentries,
@@ -301,58 +270,50 @@ og har brukt det siden for å oppdage og korrigere misforståelser.
 
 ## En forskende tilnærming
 
-Forskning handler mye om å prøve ut ting, og evaluere resultatene i lys av
+Forskning handler mye om å eksperimentere, og evaluere resultatene i lys av
 tidligere forskning og teorier.
-Som sagt tar jeg samme utgangspunkt når jeg designer undervisningsopplegg.
-Som beskrevet over har jeg teste undervisningsformer som
-samkoding, og formativ vurdering med Peer Instruction.
-Den viktigste måte å evaluere slike tiltak på er å be
-deltakere, studenter og gruppelærere, om tilbakemelding.
+Som sagt tar jeg samme utgangspunkt når jeg designer undervisningsopplegg,
+og har testet undervisningsformer som samkoding,
+og formativ vurdering med Peer Instruction.
+Jeg har opplevd hvor viktig det er å bruke tilbakemeldinger
+fra studentener og gruppelærere.
 
-På slutten av gruppetimene ber jeg studentene å besvare
+Jeg ber studentene på slutten av gruppetimene å besvare
 en online ‘exit quiz’: "Hva var bra med dagens gruppetime?"
 og "Hva er fortsatt uklart for deg?"
-På slutten av oppgavene som studenter levere, og eksamen,
+På slutten av innleverinsgoppgavene og eksamen
 er det et frivillig spørsmål om egenvurdering
 (hva mestrer du, og hva er fortsatt utfordrende?).
 Svarene på disse gir verdifull tilbakemelding
 for å forstå eventuelle problemer studentene sitter med.
 Noe av dette kan adresseres umiddelbart i neste gruppetime.
 
-Resultatene av midtveisevaluering og en sluttevaluering ([ped.mappe @sec-vl-emneeval])
-diskuteres med studentrepresentantene,
-som vi har felles med de andre 1. semester kursene.
-Evalueringer førte til at jeg lærte hvilke at flervalgsoppgaver fungerte veldig bra,
+Jeg bruker aktivt resultatene av kursevalueringer ([ped.mappe @sec-vl-emneeval]).
+Dette lærte meg for eksempel at flervalgsoppgaver fungerte veldig bra,
 men ikke penn-og-papir oppgavene vi prøvde ut en periode,
-utvikling av mengdetreningsoppgaver i programmering.
-Vi har fortsatt en jobb å gjøre med å øke relevans av forelesninger.
+og om behovet for flere mengdetreningsoppgaver i programmering.
 
-En annen effektiv og veldig givende (og hyggelig) måte å evaluere undervisning på
-er å observere studentene mens de jobber med faget.
+Jeg er opptatt av å observere studentene mens de jobber med faget.
 Det er vanskelig å sette av nok tid til det,
 men jeg opplever alltid at jeg får mye innsikt i
 hvordan studentene tenker, og deres misforståelser rundt stoffet.
-For eksempel kan de lese en oppgavetekst på en hel annerledes måte
+For eksempel kan de lese en oppgavetekst på en helt annerledes måte
 enn den var ment. 
 Dette hjelper meg å forbedre kursmaterialet over tid.
 
 <!-- Tone: HVordan har disse endringene forbedret studentenes læring?
 Har evalueringene endret seg etter endringene? -->
 
-Gruppelærere er de som er nærmest studentene
-og bør dermed være en viktig kilde til informasjon.
-Jeg ber dem derfor å beskrive deres erfaringer umiddelbart etter gruppeundervisningen
-i et delt online erfaringsdokument (Google Docs),
+Ikke minst bruker jeg støttespillerne mine, gruppelærene,
+som er nærmest studentene og er dermed være en viktig informasjonskilde.
+Jeg ber dem å beskrive deres erfaringer umiddelbart etter gruppeundervisningen
+i et delt online erfaringsdokument,
 som diskuteres i fellesskap på de ukentlige gruppelærermøtene.
 Dette lar meg rette opp feil i materialet som skal gis igjen samme uke,
 og er grunnlaget for forbedringer til neste gang.
 Dette gir også gruppelærere eierskap i undervisningsutvikling,
 noe de setter pris på.
 
-En annen effektiv måte å få vurdert sin undervisning på er 
-å be utenforstående personer 'forske' på sine studenter.
-Spesielt de med pedagogisk-didaktisk kunnskap kan komme
-med nyttige betraktninger forankret i læringsteori.
 
 <!---
  Det er per dags dato lite forskningsbasert kunnskap om hvordan biologistudenter 
@@ -360,10 +321,13 @@ stiller seg til programmering i biologi og hvilke læringsstrategier de bruker.
 Vi er derfor i en unik posisjon til å fremskaffe slik kunnskap
 ved å ‘forske på’ studenter i BIOS1100. 
 --->
-Det var derfor spennende å være med
-i et tverrfaglig veilederteam for fire lektorstudenter
-som har tatt en undervisningsrettet master der målet har vært
-å undersøke BIOS1100-studenters holdninger til,
+Siden jeg ble mer kjent med pedagogisk litteratur
+og fikk erfaring med å teste ut undervisningsmetoder
+har en forskende tilnærming til undervisning vært viktig for meg.
+Jeg har også fått andre til å være med å vurdere.
+Jeg deltok i 2019 og 2020 i et tverrfaglig veilederteam for fire lektorstudenter
+som har tatt en undervisningsrettet master der de
+undersøkte BIOS1100-studenters holdninger til,
 motivasjon for, og problemløsningsstrategier i 
 programmering og modellering i biologi ([ped.mappe @sec-vl-forskning]).
 
@@ -379,17 +343,17 @@ som kan bidra til økt interesse @hidi2006FourPhase.
 Jeg mener nå også at samkoding som undervisningsform bidrar til mestringsfølelse,
 noe som er viktig for engasjement @bandura1977Selfefficacy.
 
-Funnene i masterprosjekter har jeg brukt aktivt for å forbedre kurset,
+Funnene i masterprosjektene har jeg brukt aktivt for å forbedre kurset,
 både faglig og hvordan emnet undervises.
 Eksempler er økt relevans i valg av temaer som for eksempel modellering av Covid-19,
 og økt fokus på problemløsningsstrategier.
+Dette arbeidet har også blitt presentert på MNT konferansen og publisert
+[@gregers2019Lektorstudenter; @eliassen2021Motivasjon].
 
 <!-- Tone: Igjen, hvorfor tor du relevans er særlig viktig for å lære programmering i biologi?
 Har du noen indikasjoner på at det støtter studentenes læring?
 Enten støttet i litteratur eller egene erfaringer -->
 
-Dette arbeidet har også blitt presentert på MNT konferansen og publisert
-[@gregers2019Lektorstudenter; @eliassen2021Motivasjon].
 
 <!--
 Utfordring: hvordan å aktivisere studenter. Løsning: penn-og-papir øvelser, MCQ/Peer Instruction, Active Learning Classroom
@@ -399,50 +363,50 @@ Utfordring: studenter har ikke effektive problemløsningsstrategier. Løsning: C
 
 ## Kollegial holdning og praksis
 
-Kollegialt fellesskap er viktig,
-og jeg har vært så heldig å oppleve det med Carpentry@UiO (beskrevet over).
-Et viktig og givende aspekt av det fellesskapet er erfaringsdeling, 
-noe jeg har prioritert.
-Flere innenfor og utenfor UiO er interessert i kurset BIOS1100
-og bruk av Jupyter notebooks i undervisningen.
-Jeg har holdt flere foredrag om dette ([ped.mappe @sec-vl-deling]). 
+Som tidligere nevnt var felleskapet i The Carpentries
+viktig for min inngang til en mer kvalitativ blikk på undervisning.
+Det kollegiale fellesskapet ga rom for erfaringsdeling
+som jeg har prioritert siden.
+Jeg har holdt flere foredrag om kurset BIOS1100
+og bruk av Jupyter notebooks i undervisningen
+både innenfor og utenfor UiO ([ped.mappe @sec-vl-deling]). 
 
 <!--- CCSE lederteam? --->
 
-Siden 2022 leder jeg UndervisningsVerksted ved IBV, også kalt Underverk.
-UnderVerk er "en workshopserie der alle som er involvert i undervisning ved
+Siden 2022 leder jeg UndervisningsVerksted ved IBV, også kalt Underverk:
+"en workshopserie der alle som er involvert i undervisning ved
 Institutt for Biovitenskap skal få mulighet til å arbeide med alle aspekter av
 undervisning i et kollegialt fellesskap."
-Kollega Tone Gregers ved IBV fikk i 2019 støtte fra MatNat fakultetets studiekvalitetsmidler
-til å starte dette erfarinsdelingsinitiativet.
-UnderVerk vi har organisert flere workshops, bl.a. om
+Kollega Tone Gregers ved IBV fikk i 2019 støtte fra fakultetets studiekvalitetsmidler
+til dette.
+UnderVerk har organisert flere workshops, bl.a. om
 Læringsmål og baklengsdesign, studentaktive læringsformer, digitale verktøy
 ([ped.mappe @sec-vl-underverk]).
 UnderVerk er en veldig fin måte å gjennomføre erfaringsutveksling på,
-og viser hvor mye gode undervisningsteknikker som brukes på instituttet,
-og hvor lett det er å få dem fram og dele disse med hverandre.
-UnderVerk sesjonene har økt kunnskap blant undervisere på IBV.
+og viser bredden i undervisningsteknikker som brukes på instituttet,
+og hvor lett det er å få  undervisere til å dele med hverandre.
+UnderVerk sesjonene har økt kunnskappen blant undervisere på IBV.
 Som et konkret eksempel ble læringsutbyttebeskrivelser for kurset BIOS-IN5410 tilpasset
-til å ha aktive verb [@biggs2011Teaching] etter en av sesjonene om hvordan man kan lage disse.
+til å ha aktive verb [@biggs2011Teaching] etter en workshop om dette.
 
 I store kurs overlates mye av undervisningen til gruppelærere.
-Jeg synes da at det er opplagt at det tas grep for å hjelpe dem 
-å bli gode undervisere, men dette er ikke en utbredt praksis.
+Dessverre er det ikke en utbredt praksis
+å gi dem opplæring i undervisning.
 Jeg valgte derfor tidlig å
 lære opp mine gruppelærere i noen enkle pedagogiske begreper og teknikker.
-Her gjenbrukte jeg materialet fra The Carpentries instruktør trening.
-Til min store glede ble det senere startet opp et Lærings Assistent program
+Her gjenbrukte jeg materialet fra The Carpentries instruktørtrening.
+Til min store glede ble det senere startet opp et Lærings–Assistent-program
 ved fakultetet.
-Jeg ba om, og fikk lov til å videreutvikle det og har vært involvert 
+Jeg ba om, og fikk lov til å være involvert 
 i Lærings-assistent-seminar som tilbys til ferske gruppelærere på MSc nivå
 ([ped.mappe @sec-vl-la]).
-Nye gruppelærere i mine kurs sender jeg til dette programmet.
+Nye gruppelærere i mine kurs anbefales dette seminaret.
 Jeg opplever at det å tilby noen enkel pedagogikk setter i gang en prosess
 hos en gruppelærer som i seg selv, sammen med økt kunnskap,
-fører til at de blir seg mye mer bevisst rollen som underviser,
-og at det gjør dem bedre i jobben sin.
+fører til at den blir seg mye mer bevisst rollen som underviser,
+og at det gjør hen bedre i jobben sin.
 
-Jeg er også blitt en del av undervisningssystemet for kurset
+Jeg er også blitt en del av undervisningsteamet for
 MNPED9000 – Teaching in STEM, som skal hjelpe PhD studenter med pliktarbeid
 til å utvikle sin evne til fasilitere studentens læring
 gjennom å utforske prinsipper for undervisning og læring i høyere utdanning.
@@ -462,33 +426,41 @@ Prosjektet skulle undersøke hvordan UiO bruker det digitale læringsmiljøet
 og muligheter for forbedring fremover.
 Dette takket jeg gledelig ja til ([ped.mappe @sec-vl-dlm2030]).
 Arbeidet ga meg en glimrende mulighet til å lære mye om hvordan undervisning
-er organisert, og oppleves, på UiO
+er organisert, og oppleves, på UiO.
 Jeg kunne bruke mine erfaringer, og påvirke veien videre for UiO
-på denne viktige delen av undervisningen.
+i det digitale.
 Prosjektteamet besto av ansatte fra den sentrale studieadministrasjonen,
-LINK, og IT avdelingen var i prosjektgruppen,
-og det var veldig interessant å høre akkurat deres perspektiver.
-Prosjektet hadde veldig givende innspillsmøter
-med studenter, undervisere, studieadministrative, og forskjellige fagavdelinger.
+LINK, og IT avdelingen,
+og det var veldig interessant å høre mange forskjellige perspektiver.
+Prosjektet hadde givende innspillsmøter
+med studenter, undervisere, studieadministrative, og fagavdelinger.
 Undervisning er et samspill av mange aktører. 
 Som underviser ser man ofte ikke de andre sidene av dette,
-og arbeidet i prosjektet var veldig lærerikt fordi jeg fikk snakket med alle disse personene.
-Jeg merket at mine erfaringer med undervisning kom til nytte da vi laget rapporten.
+og prosjektet var veldig lærerikt fordi jeg fikk snakket med så mange.
+Jeg merket at mine erfaringer med undervisning kom til nytte for rapporten.
 Anbefalinger i rapporten har med en del ting jeg brenner for:
 at det digitale blir brukt på en pedagogisk måte @goodyear2015teaching,
-bruk av relevant læringsteori for å støtte opp under anbefalinger,
+bruk av relevant læringsteori som utgangspunkt,
 redusere kompleksiteten i det digitale læringsmiljøet
-(for å begrense kognitiv belastning)
+(begrense kognitiv belastning)
 og et helhetsperspektiv der man ser på det digitale
-som en del av et større, levende læringsmiljø.)
+som en del av et større, levende læringsmiljø.
 Jeg har selv lært mye om hvordan man kan lage 
 et sammenhengende økosystem av undervisningsressurser
 som studentene kan bruke av det de har behov for @luckin2008learner.
-Med andre ord, bevege meg over til siste stadiet i Kugels faser @kugel1993professors.
-Vi er allerede i gang med å implementere en første versjon av det i BIOS1100,
-med flere videofilmer, 'enkel forklart' tekster og test-deg-selv quizer på Canvas.
-Jeg håper og tror at rapporten kommer til å bidra med å gjøre 
-det å gi og få undervisning til en bedre opplevelse for studenter og ansatte.
+Jeg håper og tror at rapporten kommer til å bidra 
+til bedre undervisning og læring ved UiO.
+
+Min reise som underviser fortsetter.
+Jeg ønsker flere forskningsprosjekter som studerer effektiven av undervisningen min,
+spesielt rundt MNPED9000 kurset.
+Vi er godt i gang med integrering av beregninger i biovitenskapsutdanningen,
+men vi har en vei å gå for en full integrering.
+Jeg vil gå i dialog med kollegaer ved instutttet for
+videreutvikle studieprogrammet på dette området.
+Kunstig intelligens kommer til å endre mye,
+og jeg ønsker å fokusere på hvordan det kan bidra til at våre studenter
+blir selvstendige, nysgjerrige, utforskende, lærende mennesker @kugel1993professors.
 
 
 <!--- 
@@ -522,24 +494,27 @@ egenskaper som de senere kan modellere i datalabben.
 * CSE sommerstudenter og lektorstudenter
 -->
 
-
+<!---
+ 
 ## Lederroller
 
 <!-- Dokumenter eventuelle lederroller du har, eller har hatt, for å fremme utdanningskvalitet. -->
 
+<!---
 Jeg har, eller har hatt, følgende lederroller for å fremme utdanningskvalitet
 ([ped.mappe @sec-vl-leder])
 
 * Leder, Prosjekt Digitalt Læringsmiljø 2030 (2023)
 * Styreleder, Carpentry@UiO (2019-)
 * Nestleder med ansvar for utdanning i Bioinformatikk,
-Senter for Bioinformatikk (2018-)
+  Senter for Bioinformatikk (2018-)
 * Medlem av ledergruppe Centre for Computing in Science Education
-(CCSE, et SFU ved UiO) (2017-)
+  (CCSE, et SFU ved UiO) (2017-)
 * Medlem Fagråd for IT i Utdanning (2022-)
 * Leder for ​​Styret Forskerskole Digitalt Liv Norge (2016-2020)
 * Medlem, så leder, Executive Council (styret) for The Carpentries (2018-2021)
-
+ 
+--->
 
 <!---
  ### Videre planer

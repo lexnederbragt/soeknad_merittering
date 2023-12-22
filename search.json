@@ -1,0 +1,312 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Søknad Merittert Utdanner UiO 2023",
+    "section": "",
+    "text": "Introduksjon\nDette er en web-versjon av søknaden jeg skrev for å bli Merittert Utdanner ved UiO i 2023. Søknaden ble innvilget.\nSøknaden består av:\n\nRedegjørelse, der jeg viser hvordan jeg oppfyller SoTL-kriteriene\nPedagogisk mappe, er en samling med dokumentasjon som støtter opp under redegjørelsen. Filene det referes til er ikke lagt ut her.\nUtdanningsfaglig CV\n\nDenne søknaden er skrevet som en Quarto bok. For å lære mer om Quarto, besøk https://quarto.org/docs/books.",
+    "crumbs": [
+      "Introduksjon"
+    ]
+  },
+  {
+    "objectID": "redegjoerelse.html#en-klar-utvikling-over-tid-med-økende-fokus-på-studentenes-læring",
+    "href": "redegjoerelse.html#en-klar-utvikling-over-tid-med-økende-fokus-på-studentenes-læring",
+    "title": "Redegjørelse",
+    "section": "En klar utvikling over tid med økende fokus på studentenes læring",
+    "text": "En klar utvikling over tid med økende fokus på studentenes læring\nMitt navn er Lex Nederbragt. Jeg er fra Nederland og er 51 år, og har undervist på UiO i 18 år. Min aller første undervisningserfaring var som 20-årig gruppelærer for et kurs i zoologi. Mens studentene så ett tverrsnitt av en kattenyre hver, så jeg mange når jeg hjalp studentene, og opplevde at det å undervise i seg selv er å lære.\nMine første forelesninger på UiO var i 2006, i kurset BIO2120 Evolusjonsbiologi, (ped.mappe 1.1 BIO2120). Det gikk sikkert bra, men på det tidspunktet var jeg mest opptatt av meg selv og hva jeg som underviser gjorde [1,se også 2].\nDet var ikke før jeg som postdoktor måtte lære meg å bruke kommandolinje-baserte verktøy, og programmering at jeg begynte å se nærmere på hvordan man kan undervise og interessere for meg for forskning rundt undervisning. Jeg oppdaget at jeg, når jeg lærer noe nyttig, ønsker å dele den nye kunnskapen med andre. Jeg holdt korte kurs og workshops for kolleger i bruk av disse verktøyene.\nI 2012 ble oppdaget jeg The Carpentries, en internasjonal organisasjon av frivillige som organiserer workshops om verktøy for forskere som bruker beregninger og programmering i sin forskning (ped.mappe 1.3 Software Carpentry, Data Carpentry, The Carpentries, Carpentry@UiO). Etter å ha fått dem til å holde en av deres workshops på UiO ble jeg vervet til å bli instruktør for organisasjonen. Jeg gikk gjennom deres instruktørtrening, som er forankret i pedagogisk forskning: mentale modeller, kognitiv belastningsteori, formativ versus summativ vurdering.\nJeg ønsket å etablere en lokal avdeling av The Carpentries slik at flere UiO-forskere kunne delta på workshops. Sammen med en kollega fikk vi til et samarbeid med Realfagsbiblioteket, og i 2016 etablerte vi Carpentry@UiO, som har organisert mer enn hundre workshops med deltakere fra alle fakulteter, universitetsbibliotek og IT-avdelingen. UiO har flere titalls personer utdannet som Carpentries-instruktør (ped.mappe 1.3 Software Carpentry, Data Carpentry, The Carpentries, Carpentry@UiO). Denne måten å organisere etterutdanning på dugnadsbasis på fungerer veldig bra, det knytter mennesker med samme behov sammen på tvers, og skaper et praksisfellesskap [3] rundt undervisning av disse metodene på en pedagogisk gjennomtenkt måte. Carpentry@UiO har bidratt til at mer enn tusen UiO ansatte har fått opplæring i verktøy som er umiddelbart anvendbare. Deres forankring i pedagogikk har inspirert mange.\nThe Carpentries har betydd mye for meg. Jeg fant likesinnede personer med lidenskap for undervisning av moderne ettertraktede forskningsteknikker. Å bli instruktør, og senere instruktørtrener, endret mitt syn på undervisningen totalt. Dette gjorde meg bevisst på viktigheten av motivasjon for læring, det å begrense kognitiv last, formativ vurdering og studentaktive læringsformer. Jeg skiftet fokus fra meg selv til dem som jeg underviser til, og over til studentenes læring [1]. Jeg oppdaget at utdanning er en egen vitenskap, og ble overbevist om at, akkurat som tidligere forskning informerer oss når vi utvikler vår egen forskning, pedagogisk forskning bør informere oss når vi utvikler vår egen undervisning. Dette har guidet mine tanker rundt undervisningsdesign fra den tiden av.\nI 2012 fikk jeg min første erfaring som emneansvarlig for INF-BIO5121/9121 (ped.mappe 1.4 INF-BIO5120/9120). Dette lærte meg alt om hvordan undervisning foregår på et universitet, og viktigheten av emneevaluering.\n\nI 2017 ble jeg med bakgrunnen i min erfaring i å undervise beregninger til forskere spurt om å utvikle et nytt emne: BIOS1100 - Innføring i beregningsmodeller for biovitenskap, et førstesemesterkurs i studieprogrammet Biovitenskap. Emnet skulle gi biologistudenter beregningskompetanse som en del av satningen på ‘Computing in Science Education’ (ped.mappe 1.5 BIOS1100). Dette var en fantastisk måte å bidra til å modernisere biovitenskapsutdanningen. Jeg hadde selv som forsker vært gjennom denne moderniseringen, og er veldig motivert for å inkludere beregninger/programmering tidlig i utdanningen.\n\nFor å designe kurset tok jeg utgangspunkt i relevant pedagogisk teori og forskning om det å lære programmering. Fra forskningen lærte jeg at å lære å programmere anses generelt som vanskelig [4–7]: det er mye å ha i hodet samtidig, syntaks, problemløsningsstrategier, og den faglige konteksten. Min utfordring var å undervise programmering for studenter som (ofte) ikke har valgt det ‘myke realfaget’ biologi for å lære akkurat det.  Når biologi og programmering skulle læres samtidig er det fare for at den kognitive belastningen blir for høy.\nDette førte meg til teorien om kognitiv belastning, som er opptatt med hvordan belastning av arbeidsminne kan optimeres for å fremme læring [8] og er relevant for programmeringsundervisning [9].  Denne teorien har vært elementær for min utdanningspraksis.\nJeg bestemte meg for å ta utgangspunkt i veiledet instruksjon (“Guided instruction”) [10], for å begrense studentenes kognitive belastning. Dette er en undervisningsmetode hvor studentene får eksplisitt veiledning og støtte gjennom hele læringsprosessen, heller enn å be dem å finne ut konsepter selv [11]. I tillegg ønsket jeg å bruke studentaktiviserende undervisningsformer, som jeg ble mer og mer overbevist om er viktig for læring [1,12].\nDet første jeg gjorde for å begrense kognitiv belastning er bruk av samkoding, eller ‘Participatory Live Coding’: en aktiv læringsteknikk, og form for veiledet instruksjon, der en underviser programmerer sammen med studentene [se også min publikasjon 13] (ped.mappe 1.7 Samkoding) for å undervise programmeringsteknikker.\nTeknikken er et sentralt element i Carpentries’ workshops.  I BIOS1100 brukes samkoding nå gjennom hele kurset i samkodingsgruppene ledet av gruppelærere, som får opplæring i teknikken og bruker en samkodingsoppskrift som jeg har utviklet. Det lille som er av forskning på live-koding i undervisningen viser at teknikken er like bra som, om ikke bedre enn å bruke statiske kodeeksempler [14,15] og er derfor anbefalt for undervisning i programmering [16,17].\nSelv om jeg visste at samkoding kunne være nyttig i BIOS1100 trodde jeg i 2017 ikke at det var mulig å skalere opp samkoding til 200 studenter.  Jeg overså at jeg dermed stolte for mye på selvstendig læring av programmeringen (‘minimal guidance’ [18]). Dette førte til at mange studenter meldte til studieseksjonen at de var i ferd med å falle av fordi de ikke klarte å lære seg programmeringen. Dette kom som et sjokk over meg, og jeg ble nokså nedenfor at all arbeidet jeg hadde lagt inn i forkant føltes til ingen nytte - studentene lærte ikke stoffet!\nJeg bestemte meg å ta grep og bytte ut undervisningen de tre siste ukene med et frivillig tilbud om økter med samkoding. Tilbakemeldinger fra studenter var overveldende positivt, og mange fortalte at de nå følte at de hadde forstått det vesentlige med programmeringen.\nJeg implementerte deretter samkoding fast i undervisningen. Studentene melder tilbake at de opplever mye læringsutbytte av det, og en gruppelærer sa at ‘grunnmuren i programmering sitter mye bedre’. Denne episoden lærte meg viktigheten av å få tilbakemeldinger fra studentene underveis. Det er altfor lett å anta at et gjennomtenkt undervisningsopplegg fungerer i praksis. Jeg er fortsatt stolt over at jeg klarte å snu undervisningen for å ‘redde’ studentene som var i ferd med å falle av. \n\n\n\nJeg tar også utgangspunkt kognitiv belastning i valg av programmeringsomgivelse. Jeg valgte Jupyter notebooks som kombinerer tekst og kode, og lar brukeren både skrive og kjøre kode på samme sted (ped.mappe 1.8 Jupyter notebooks og JupyterHub). Studentene liker bruken av notebooks og bekrefter at det er lett å komme i gang med. \nEn utfordring vi hadde var at eksamenssystemet Inspera ikke tilbyr mulighet for å bruke notebooks som innleveringsform, eller teste kode under skoleeksamen. Men, i dialog med undervisere i begynnerprogrammering for Informatikk studenter valgte jeg å akseptere dette. Argumentasjonen var at studentene ved å ikke kunne kjøre kode slapp å bruke mye tid på syntaksfeil, og kunne fokusere på å ferdigstille programmet sitt. Men tilbakemeldinger fra studentene, og min økte bevissthet om baklengs design og meningsfylt samsvar (constructive alignment, [2]) endret synet mitt.\nI 2019 ba jeg om og fikk innvilget en egen eksamensinstans for JupyterHub i Silurveien, som kunne brukes av studentene å skrive og levere besvarelser som notebooks. Jeg så på dette som et viktig grep for å øke meningsfylt samsvar. Før var det et stort gap siden studentene måtte skrive eksamensbesvarelsene på en fullstendig annerledes måte enn som de hadde jobbet under kurset. At dette nå var likt har gitt studentene bedre forutsetninger for eksamen, og lar studentene i større grad demonstrere hva de har lært. Mitt håp er at det også har bidratt til mer læring [2].",
+    "crumbs": [
+      "Redegjørelse"
+    ]
+  },
+  {
+    "objectID": "redegjoerelse.html#en-forskende-tilnærming",
+    "href": "redegjoerelse.html#en-forskende-tilnærming",
+    "title": "Redegjørelse",
+    "section": "En forskende tilnærming",
+    "text": "En forskende tilnærming\nForskning handler mye om å eksperimentere, og evaluere resultatene i lys av tidligere forskning og teorier. Som sagt tar jeg samme utgangspunkt når jeg designer undervisningsopplegg.  Jeg har opplevd hvor viktig det er å bruke tilbakemeldinger fra studententer og gruppelærere.\nJeg ber studentene på slutten av gruppetimene å besvare en online ‘exit quiz’: “Hva var bra med dagens gruppetime?” og “Hva er fortsatt uklart for deg?”  Svarene på disse gir verdifull tilbakemelding for å forstå eventuelle problemer studentene sitter med. Noe av dette kan adresseres umiddelbart i neste gruppetime.\nJeg bruker aktivt resultatene av kursevalueringer (ped.mappe 1.9 Emneevalueringer). Dette lærte meg for eksempel at flervalgsoppgaver fungerte veldig bra, men ikke penn-og-papir oppgavene vi prøvde ut en periode, og om behovet for flere mengdetreningsoppgaver i programmering.\nJeg er opptatt av å observere studentene mens de jobber med faget. Det er vanskelig å sette av nok tid til det, men jeg opplever alltid at jeg får mye innsikt i hvordan studentene tenker, og deres misforståelser rundt stoffet. For eksempel kan de lese en oppgavetekst på en helt annerledes måte enn den var ment. Dette hjelper meg å forbedre kursmaterialet over tid.\n\nIkke minst bruker jeg støttespillerne mine, gruppelærere, som er nærmest studentene og er dermed en viktig informasjonskilde. Jeg ber dem å beskrive deres erfaringer umiddelbart etter gruppeundervisningen i et delt online erfaringsdokument, som diskuteres i fellesskap på de ukentlige gruppelærermøtene. Dette lar meg rette opp feil i materialet som skal gis igjen samme uke, og er grunnlaget for forbedringer til neste gang. Dette gir også gruppelærere eierskap i undervisningsutvikling, noe de setter pris på.\n\nSiden jeg ble mer kjent med pedagogisk litteratur og fikk erfaring med å teste ut undervisningsmetoder har en forskende tilnærming til undervisning vært viktig for meg. Jeg har også fått andre til å være med å vurdere. Jeg deltok i 2019 og 2020 i et tverrfaglig veilederteam for fire lektorstudenter som har tatt en undervisningsrettet master der de undersøkte BIOS1100-studenters holdninger til, motivasjon for, og problemløsningsstrategier i programmering og modellering i biologi (ped.mappe 1.10 Forskning på egen undervisning).\nJeg har fra begynnelsen av tatt utgangspunkt i at problemstillinger vi jobber med skal være relevante for biovitenskapstudenter. Det var gledelig å få bekreftet at mitt valg av biologisk relevante problemstillinger er støttet av tidligere forskning: dette bidrar til opplevd nytteverdi, som gir ytre motivasjon [19], og økt mestringsforventning [20]. Jeg mener nå også at samkoding som undervisningsform bidrar til mestringsfølelse, noe som er viktig for engasjement [21].\nFunnene i masterprosjektene har jeg brukt aktivt for å forbedre kurset, både faglig og hvordan emnet undervises. Eksempler er økt relevans i valg av temaer som for eksempel modellering av Covid-19, og økt fokus på problemløsningsstrategier. Dette arbeidet har også blitt presentert på MNT konferansen og publisert [22,23].",
+    "crumbs": [
+      "Redegjørelse"
+    ]
+  },
+  {
+    "objectID": "redegjoerelse.html#kollegial-holdning-og-praksis",
+    "href": "redegjoerelse.html#kollegial-holdning-og-praksis",
+    "title": "Redegjørelse",
+    "section": "Kollegial holdning og praksis",
+    "text": "Kollegial holdning og praksis\nSom tidligere nevnt var fellesskapet i The Carpentries viktig for min inngang til et mer kvalitativ blikk på undervisning. Det kollegiale fellesskapet ga rom for erfaringsdeling som jeg har prioritert siden. Jeg har holdt flere foredrag om kurset BIOS1100 og bruk av Jupyter notebooks i undervisningen både innenfor og utenfor UiO (ped.mappe 1.6 Foredrag om BIOS1100).\n\nSiden 2022 leder jeg UndervisningsVerksted ved IBV, også kalt Underverk: “en workshopserie der alle som er involvert i undervisning ved Institutt for Biovitenskap skal få mulighet til å arbeide med alle aspekter av undervisning i et kollegialt fellesskap.” Kollega Tone Gregers ved IBV fikk i 2019 støtte fra fakultetets studiekvalitetsmidler til dette. UnderVerk har organisert flere workshops, bl.a. om Læringsmål og baklengsdesign, studentaktive læringsformer, digitale verktøy (ped.mappe 1.11 UnderVerk ved Institutt for Biovitenskap). UnderVerk er en veldig fin måte å gjennomføre erfaringsutveksling på, og viser bredden i undervisningsteknikker som brukes på instituttet, og hvor lett det er å få undervisere til å dele med hverandre. UnderVerk sesjonene har økt kunnskapen blant undervisere på IBV. Som et konkret eksempel ble læringsutbyttebeskrivelser for kurset BIOS-IN5410 tilpasset til å ha aktive verb [24] etter en workshop om dette.\nI store kurs overlates mye av undervisningen til gruppelærere. Dessverre er det ikke en utbredt praksis å gi dem opplæring i undervisning. Jeg valgte derfor tidlig å lære opp mine gruppelærere i noen enkle pedagogiske begreper og teknikker. Her gjenbrukte jeg materialet fra The Carpentries instruktørtrening. Til min store glede ble det senere startet opp et Lærings–Assistent-program ved fakultetet. Jeg ba om, og fikk lov til å være involvert i Lærings-assistent-seminar som tilbys til ferske gruppelærere på MSc nivå (ped.mappe 1.12 Læringsassistenter og LA-seminaret). Nye gruppelærere i mine kurs anbefales dette seminaret. Jeg opplever at det å tilby noen enkel pedagogikk setter i gang en prosess hos en gruppelærer som i seg selv, sammen med økt kunnskap, fører til at den blir seg mye mer bevisst rollen som underviser, og at det gjør hen bedre i jobben sin.\nJeg er også blitt en del av undervisningsteamet for MNPED9000 – Teaching in STEM, som skal hjelpe PhD studenter med pliktarbeid til å utvikle sin evne til fasilitere studentens læring gjennom å utforske prinsipper for undervisning og læring i høyere utdanning. (ped.mappe 1.13 MNPED9000).\n\nVår 2023 ble jeg bedt om å lede prosjektet Digitalt Læringsmiljø 2030. Prosjektet skulle undersøke hvordan UiO bruker det digitale læringsmiljøet og muligheter for forbedring fremover. Dette takket jeg gledelig ja til (ped.mappe 1.14 Prosjekt Digitale Læringsmiljø 2030). Arbeidet ga meg en glimrende mulighet til å lære mye om hvordan undervisning er organisert, og oppleves, på UiO. Jeg kunne bruke mine erfaringer, og påvirke veien videre for UiO i det digitale. Prosjektteamet besto av ansatte fra den sentrale studieadministrasjonen, LINK, og IT avdelingen, og det var veldig interessant å høre mange forskjellige perspektiver. Prosjektet hadde lærerike innspillsmøter med studenter, undervisere, studieadministrative, og fagavdelinger. Undervisning er et samspill av mange aktører. Som underviser ser man ofte ikke de andre sidene av dette, og prosjektet var veldig lærerikt fordi jeg fikk snakket med så mange. Jeg merket at mine erfaringer med undervisning kom til nytte for rapporten. Anbefalinger i rapporten har med en del ting jeg brenner for: at det digitale blir brukt på en pedagogisk måte [25], bruk av relevant læringsteori som utgangspunkt, redusere kompleksiteten i det digitale læringsmiljøet (begrense kognitiv belastning) og et helhetsperspektiv der man ser på det digitale som en del av et større, levende læringsmiljø. Gjennom prosjektet har jeg selv lært mye om hvordan man kan lage et sammenhengende økosystem av undervisningsressurser som studentene kan bruke av det de har behov for [26]. Jeg håper og tror at rapporten kommer til å bidra til bedre undervisning og læring ved UiO.\nMin reise som underviser fortsetter. Jeg ønsker flere forskningsprosjekter som studerer effekten av undervisningen min, spesielt rundt MNPED9000 kurset. Vi er godt i gang med integrering av beregninger i biovitenskapsutdanningen, men vi har en vei å gå for en full integrering. Jeg vil gå i dialog med kolleger ved instituttet for videreutvikle studieprogrammet på dette området. Kunstig intelligens kommer til å endre mye, og jeg ønsker å fokusere på hvordan det kan bidra til at våre studenter blir selvstendige, nysgjerrige, utforskende, lærende mennesker [1].\n\n\n\n\n\n\n\n\n\n\n\n\n\n1. Kugel P. How professors develop as teachers. Studies in higher education. 1993;18: 315–328. \n\n\n2. Biggs J. What the student does: Teaching for enhanced learning. Higher Education Research & Development. 2012;31: 39–55. doi:10.1080/07294360.2012.642839\n\n\n3. Li LC, Grimshaw JM, Nielsen C, Judd M, Coyte PC, Graham ID. Evolution of Wenger’s concept of community of practice. Implementation Science. 2009;4: 11. doi:10.1186/1748-5908-4-11\n\n\n4. Jenkins T. On the difficulty of learning to program. Proceedings for the 3rd Annual conference of the LTSN Centre for Information and Computer Sciences. Loughborough University; 2002. pp. 53–58. doi:10.1145/3294016.3294024\n\n\n5. Robins A, Rountree J, Rountree N. Learning and Teaching Programming: A Review and Discussion. Computer Science Education. 2003;13: 137–172. doi:10.1076/csed.13.2.137.14200\n\n\n6. Bennedsen J, Caspersen ME. Failure rates in introductory programming. ACM SIGCSE Bulletin. 2007;39: 32–36. doi:10.1145/1272848.1272879\n\n\n7. Guzdial M. Learner-Centered Design of Computing Education: Research on Computing for Everyone. Morgan & Claypool; 2015. \n\n\n8. Sweller J, van Merrienboer JJG, Paas F. Cognitive Architecture and Instructional Design: 20 Years Later. Educational Psychology Review. 2019. doi:10.1007/s10648-019-09465-5\n\n\n9. Caspersen ME, Bennedsen J. Instructional Design of a Programming Course: A Learning Theoretic Approach. Proceedings of the Third International Workshop on Computing Education Research. New York, NY, USA: ACM; 2007. pp. 111–122. doi:10.1145/1288580.1288595\n\n\n10. Fisher D, Frey N. Better Learning Through Structured Teaching: A Framework for the Gradual Release of Responsibility. ASCD; 2013. \n\n\n11. Kirschner PA, Sweller J, Clark RE. Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching. Educational Psychologist. 2006;41: 75–86. doi:10.1207/s15326985ep4102_1\n\n\n12. Freeman S, Eddy SL, McDonough M, Smith MK, Okoroafor N, Jordt H, et al. Active learning increases student performance in science, engineering, and mathematics. Proceedings of the National Academy of Sciences. 2014;111: 8410–8415. doi:10.1073/pnas.1319030111\n\n\n13. Nederbragt A, Harris RM, Hill AP, Wilson G. Ten quick tips for teaching with participatory live coding. PLOS Computational Biology. 2020;16: e1008090. doi:10.1371/journal.pcbi.1008090\n\n\n14. Raj AGS, Patel JM, Halverson R, Halverson ER. Role of Live-coding in Learning Introductory Programming. Proceedings of the 18th Koli Calling International Conference on Computing Education Research. Koli, Finland: Association for Computing Machinery; 2018. pp. 1–8. doi:10.1145/3279720.3279725\n\n\n15. Raj AGS, Gu P, Zhang E, R AXA, Williams J, Halverson R, et al. Live-coding vs Static Code Examples: Which is better with respect to Student Learning and Cognitive Load? Proceedings of the Twenty-Second Australasian Computing Education Conference. Melbourne VIC Australia: ACM; 2020. pp. 152–159. doi:10.1145/3373165.3373182\n\n\n16. Brown NCC, Wilson G. Ten quick tips for teaching programming. PLOS Computational Biology. 2018;14: e1006023. doi:10.1371/journal.pcbi.1006023\n\n\n17. Wright AM, Schwartz RS, Oaks JR, Newman CE, Flanagan SP. The why, when, and how of computing in biology classrooms. F1000Research. 2020;8: 1854. doi:10.12688/f1000research.20873.2\n\n\n18. Clark RE, Kirschner PA, Sweller J. Putting Students on the Path to Learning. American Educator. 2012; 6–11. \n\n\n19. Ryan RM, Deci EL. Intrinsic and Extrinsic Motivations: Classic Definitions and New Directions. Contemporary Educational Psychology. 2000;25: 54–67. doi:10.1006/ceps.1999.1020\n\n\n20. Eccles JS, Wigfield A. Motivational Beliefs, Values, and Goals. Annual Review of Psychology. 2002;53: 109–132. doi:10.1146/annurev.psych.53.100901.135153\n\n\n21. Bandura A. Self-efficacy: Toward a unifying theory of behavioral change. Psychological Review. 1977;84: 191–215. doi:10.1037/0033-295X.84.2.191\n\n\n22. Gregers TF, Nederbragt L. Lektorstudenter utvikler unik kompetanse og bidrar til økt kvalitet på begynneremner gjennom en undervisningsrettet master. Nordic Journal of STEM education. 2019;3: 23–27. doi:10.5324/njsteme.v3i1.2992\n\n\n23. Eliassen JE, Bøe MV, Nederbragt L, Gregers TF. Motivasjon for beregningsorientert biologi og sammenhengen med matematikk R2 fra videregående opplæring. Nordic Journal of STEM Education. 2021;5. doi:10.5324/njsteme.v5i1.3917\n\n\n24. Biggs JB, Tang CS. Teaching for quality learning at university: What the student does. Philadelphia, Pa.; Maidenhead, Berkshire, England; New York: McGraw-Hill/Society for Research into Higher Education ; Open University Press; 2011. \n\n\n25. Goodyear P. Teaching as design. Herdsa review of higher education. 2015;2: 27–50. \n\n\n26. Luckin R. The learner centric ecology of resources: A framework for using technology to scaffold learning. Computers & Education. 2008;50: 449–462. doi:10.1016/j.compedu.2007.09.018",
+    "crumbs": [
+      "Redegjørelse"
+    ]
+  },
+  {
+    "objectID": "referanser.html",
+    "href": "referanser.html",
+    "title": "Referanser",
+    "section": "",
+    "text": "1. Achterberg H, Adams J, Adelman J, Allen J,\nAranda J, Bae S, et al. Software Carpentry:\nProgramming with Python. Zenodo. 2017. doi:10.5281/zenodo.278222\n\n\n2. Aldazabal Mensa I, Alexander H, Allen J,\nAlsheikh-Hussain A, Attali D, Baird D, et al. Software\nCarpentry: The Unix Shell. Zenodo. 2017.\ndoi:10.5281/zenodo.278226\n\n\n3. Allen J, Bachant P, Banaszkiewicz P, Bekolay T,\nBlischak J, Boissonneault M, et al. Software Carpentry:\nAutomation and Make. Zenodo. 2017. doi:10.5281/zenodo.278220\n\n\n4. Bandura A. Self-efficacy: Toward a\nunifying theory of behavioral change. Psychological Review. 1977;84:\n191–215. doi:10.1037/0033-295X.84.2.191\n\n\n5. Bennedsen J, Caspersen ME. Failure rates in\nintroductory programming. ACM SIGCSE Bulletin. 2007;39: 32–36. doi:10.1145/1272848.1272879\n\n\n6. Biggs JB, Tang CS. Teaching for quality\nlearning at university: What the student does. Philadelphia, Pa.;\nMaidenhead, Berkshire, England; New York:\nMcGraw-Hill/Society for Research into Higher Education ; Open\nUniversity Press; 2011. \n\n\n7. Biggs J. What the student does: Teaching for\nenhanced learning. Higher Education Research & Development. 2012;31:\n39–55. doi:10.1080/07294360.2012.642839\n\n\n8. Brown NCC, Wilson G. Ten quick tips for\nteaching programming. PLOS Computational Biology. 2018;14: e1006023.\ndoi:10.1371/journal.pcbi.1006023\n\n\n9. Caspersen ME, Bennedsen J. Instructional\nDesign of a Programming Course: A\nLearning Theoretic Approach. Proceedings of the Third\nInternational Workshop on Computing Education\nResearch. New York, NY, USA: ACM; 2007.\npp. 111–122. doi:10.1145/1288580.1288595\n\n\n10. Clark RE, Kirschner PA, Sweller J. Putting\nStudents on the Path to Learning.\nAmerican Educator. 2012; 6–11. \n\n\n11. Eccles JS, Wigfield A. Motivational\nBeliefs, Values, and Goals.\nAnnual Review of Psychology. 2002;53: 109–132. doi:10.1146/annurev.psych.53.100901.135153\n\n\n12. Eliassen JE, Bøe MV, Nederbragt L, Gregers TF.\nMotivasjon for beregningsorientert biologi og sammenhengen med\nmatematikk R2 fra videregående opplæring. Nordic Journal of\nSTEM Education. 2021;5. doi:10.5324/njsteme.v5i1.3917\n\n\n13. Becker EA, Koch C, Word K, Harris RM, Sane M,\nNederbragt L, et al. The Carpentries Instructor Training\nJune 2019. Zenodo. 2019. doi:10.5281/zenodo.3258398\n\n\n14. Fisher D, Frey N. Better Learning Through\nStructured Teaching: A Framework for the\nGradual Release of Responsibility.\nASCD; 2013. \n\n\n15. Freeman S, Eddy SL, McDonough M, Smith MK,\nOkoroafor N, Jordt H, et al. Active learning increases student\nperformance in science, engineering, and mathematics. Proceedings of the\nNational Academy of Sciences. 2014;111: 8410–8415. doi:10.1073/pnas.1319030111\n\n\n16. Goodyear P. Teaching as design. Herdsa review\nof higher education. 2015;2: 27–50. \n\n\n17. Gregers TF, Nederbragt L. Lektorstudenter\nutvikler unik kompetanse og bidrar til økt kvalitet på begynneremner\ngjennom en undervisningsrettet master. Nordic Journal of STEM\neducation. 2019;3: 23–27. doi:10.5324/njsteme.v3i1.2992\n\n\n18. Guzdial M. Learner-Centered Design\nof Computing Education: Research on\nComputing for Everyone. Morgan &\nClaypool; 2015. \n\n\n19. Jenkins T. On the difficulty of learning to\nprogram. Proceedings for the 3rd Annual conference of the\nLTSN Centre for Information and Computer\nSciences. Loughborough University; 2002. pp. 53–58.\ndoi:10.1145/3294016.3294024\n\n\n20. Kirschner PA, Sweller J, Clark RE. Why\nMinimal Guidance During Instruction Does Not Work: An\nAnalysis of the Failure of\nConstructivist, Discovery,\nProblem-Based, Experiential, and\nInquiry-Based Teaching. Educational Psychologist. 2006;41:\n75–86. doi:10.1207/s15326985ep4102_1\n\n\n21. Koziar KE, Munk M, Greene A, Rasel AA, Bennett\nE, Stevens SL, et al. Software Carpentry: Version\nControl with Git 2023-05. Zenodo; 2023. doi:10.5281/zenodo.7908089\n\n\n22. Kugel P. How professors develop as teachers.\nStudies in higher education. 1993;18: 315–328. \n\n\n23. Li\nLC, Grimshaw JM, Nielsen C, Judd M, Coyte PC, Graham ID. Evolution of\nWenger’s concept of community of practice. Implementation\nScience. 2009;4: 11. doi:10.1186/1748-5908-4-11\n\n\n24. Luckin R. The learner centric ecology of\nresources: A framework for using technology to scaffold\nlearning. Computers & Education. 2008;50: 449–462. doi:10.1016/j.compedu.2007.09.018\n\n\n25. Nederbragt A, Harris RM, Hill AP, Wilson G. Ten\nquick tips for teaching with participatory live coding. PLOS\nComputational Biology. 2020;16: e1008090. doi:10.1371/journal.pcbi.1008090\n\n\n26. Raj\nAGS, Patel JM, Halverson R, Halverson ER. Role of Live-coding in Learning Introductory\nProgramming. Proceedings of the 18th Koli Calling\nInternational Conference on Computing Education\nResearch. Koli, Finland: Association for\nComputing Machinery; 2018. pp. 1–8. doi:10.1145/3279720.3279725\n\n\n27. Raj\nAGS, Gu P, Zhang E, R AXA, Williams J, Halverson R, et al. Live-coding\nvs Static Code Examples: Which is better with\nrespect to Student Learning and Cognitive\nLoad? Proceedings of the Twenty-Second Australasian\nComputing Education Conference. Melbourne VIC\nAustralia: ACM; 2020. pp. 152–159. doi:10.1145/3373165.3373182\n\n\n28. Robins A, Rountree J, Rountree N. Learning and\nTeaching Programming: A Review and\nDiscussion. Computer Science Education. 2003;13: 137–172.\ndoi:10.1076/csed.13.2.137.14200\n\n\n29. Ryan RM, Deci EL. Intrinsic and Extrinsic\nMotivations: Classic Definitions and New\nDirections. Contemporary Educational Psychology. 2000;25: 54–67.\ndoi:10.1006/ceps.1999.1020\n\n\n30. Sweller J, van Merrienboer JJG, Paas F.\nCognitive Architecture and Instructional\nDesign: 20 Years Later. Educational Psychology\nReview. 2019. doi:10.1007/s10648-019-09465-5\n\n\n31. Wilson G, Becker E, McKay S, Michonneau F,\nWilliams JJ, Mayes AC, et al. Data Carpentry Wrangling Genomics\nLesson. Zenodo. 2017. doi:10.5281/zenodo.1064254\n\n\n32. Wright AM, Schwartz RS, Oaks JR, Newman CE,\nFlanagan SP. The why, when, and how of computing in biology classrooms.\nF1000Research. 2020;8: 1854. doi:10.12688/f1000research.20873.2",
+    "crumbs": [
+      "Referanser"
+    ]
+  },
+  {
+    "objectID": "ped_mappe.html#sec-vl-bio2120",
+    "href": "ped_mappe.html#sec-vl-bio2120",
+    "title": "1  Pedagogisk mappe",
+    "section": "1.1 BIO2120",
+    "text": "1.1 BIO2120\n\nKurstittel: Evolusjonsbiologi\nEmnesider: https://www.uio.no/studier/emner/matnat/ibv/nedlagte-emner/BIO2120",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Pedagogisk mappe</span>"
+    ]
+  },
+  {
+    "objectID": "ped_mappe.html#kurs-og-workshops-2009-2011",
+    "href": "ped_mappe.html#kurs-og-workshops-2009-2011",
+    "title": "1  Pedagogisk mappe",
+    "section": "1.2 Kurs og workshops 2009-2011",
+    "text": "1.2 Kurs og workshops 2009-2011\n\nJeg organisert et unix kurs for kolleger i 2009\nJeg organisert kurs i verktøyet awk, plotting i R og PERL programmering for kolleger i 2010\nmed kolleger fra Norsk Sekvenseringsenter organiserte vi et kurs “High Through-put Sequencing: technology basics, applications and bioinformatic analysis” i 2011",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Pedagogisk mappe</span>"
+    ]
+  },
+  {
+    "objectID": "ped_mappe.html#sec-vl-carpentry",
+    "href": "ped_mappe.html#sec-vl-carpentry",
+    "title": "1  Pedagogisk mappe",
+    "section": "1.3 Software Carpentry, Data Carpentry, The Carpentries, Carpentry@UiO",
+    "text": "1.3 Software Carpentry, Data Carpentry, The Carpentries, Carpentry@UiO\n\nI 2018 ble The Carpentries dannet av en sammenslåing av\n\nSoftware Carpentry\nData Carpentry\n\nJeg er en sertifisert instruktør og instruktør trener\n\nFil: SoftwareCarpentry_Instructor_Certificate.pdf\nFil: DataCarpentry_Instructor_Certificate.pdf\nFil: Carpentries_Instructor_Trainer_Certificate.pdf\n\nJeg har bidratt til undervisningsmaterial til The Carpentries\n\nThe Carpentries Instructor Training [1]\nSoftware Carpentry: The Unix Shell [2]\nSoftware Carpentry: Programming with Python [3]\nSoftware Carpentry: Version Control with Git [4]\nSoftware Carpentry: Automation and Make [5]\nData Carpentry: Data Wrangling and Processing for Genomics [6]\n\nJeg var også medlem av The Carpentries Executive Council, som kan sees på som organisajsonens styret (2018-2021)\nCarpentry@UiO\n\nSammen med Karin Lagesen og Realfagsbiblioteket etablerte vi i 2014 Carpentry@UiO\nUiO er siden 2017 medlemsorganisasjon av The Carpentries\nWebside til Carpentry@UiO, bl.a. med oversikt over tidligere workshops\nWebsidene fra Universitetsbiblioteket:\n\ncarpentry.uio.no\noversikt over workshops\n\nJeg leder styret for Carpentry@UiO\n\nForedrag om Carpentry@UiO mm\n\nPå et miniseminar “Open Data Skills” ved UiO i 2016 holdt jeg foredraget “The Carpentry effort at the University of Oslo”\nPå NARMA (Norsk nettverk for Forskningsadministrasjon) sin Vårkonferanse 2017 holdt jeg et foredag om “Software Carpentry og Data Carpentry: opplæring i bruk og deling av forskningsdata – for forskere, av forskere, ved UiO”\nPå 2017 Nordic eInfrastructure Collaboration conference holdt jeg foredraget “Teaching Researchers Basic Skills for Computational Research: the Software Carpentry Model”\nPå konferansen CarpentryConnect i Manchester i 2019 presenterte jeg en keynote lecture med tittel “Learning from the Carpentries”. Se opptaket.\nPå online konferansen ‘CarpentryCon online 2022’ presenterte jeg “Carpentry@UiO: Workshops for basic skills in programming and datamanagement at The University of Oslo (UiO)”. Se opptaket (fra tidspunktet 10:00)\n\nSoftware Carpentry workshops jeg har bidratt til\n\nUniversitetet i Oslo: 2012, 2013, 2015 - 2023\nNetherlands eScience Centre: 2017\nUniversitet i Bergen: 2014\nScience for Life Laboratory, Stockholm, Sverige: 2014\nOnline (ved UiO): 2020, 2021\n\nInstruktør trening workshops jeg har undervist for\n\nUniversitetet i Oslo: 2016, 2018\nUniversity of California, Davis, 2017\nOnline for the Carpentries: 2016-2019",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Pedagogisk mappe</span>"
+    ]
+  },
+  {
+    "objectID": "ped_mappe.html#sec-vl-infbio",
+    "href": "ped_mappe.html#sec-vl-infbio",
+    "title": "1  Pedagogisk mappe",
+    "section": "1.4 INF-BIO5120/9120",
+    "text": "1.4 INF-BIO5120/9120\n\nKurstittel: High Throughput Sequencing technologies and bioinformatics analysis\nEmnesider: https://www.uio.no/studier/emner/matnat/ifi/INF-BIO5120/index-eng.html\nKurssidene med alt kursmaterialet for 2016: http://inf-biox121.readthedocs.org/en/2016\nPå FEBS-IUBMB Workshop on education in molecular life science i 2015 hadde jeg en poster med tittel “Active learning strategies for bioinformatics teaching”\n\nFil: 150918_poster_workshop-molecular-life-sciences_Nederbragt.pdf",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Pedagogisk mappe</span>"
+    ]
+  },
+  {
+    "objectID": "ped_mappe.html#sec-vl-bios1100",
+    "href": "ped_mappe.html#sec-vl-bios1100",
+    "title": "1  Pedagogisk mappe",
+    "section": "1.5 BIOS1100",
+    "text": "1.5 BIOS1100\n\nKurstittel: Innføring i beregningsmodeller for biovitenskap\nEmnesider: https://www.uio.no/studier/emner/matnat/ibv/BIOS1100/\nSemestersidene 2017\nCanvas sidene 2018\nPensumbok “Introduction to Analysis and Modeling in Biology with Python”, ble skrevet, med støtte av CCSE (Center for Computing in Science Education) av fire PhD studenter som en del av sin pliktarbeid, under ledelese av meg. Jeg jobber for tiden med å ferdigstille boken slik at den kan publisere. Den siste versjon (august 2022) er vedlagt som fil: intro_analysis_modeling_biology_python_220810.pdf\nFor å lette informasjonsoverføring til dem har jeg laget en omfattende nettside med dokumentasjon til gruppelærere (krever login med UiO brukernavn og passord)\nJeg har skrevet noen blogposter om BIOS1100: http://lexnederbragt.com/bios1100\nSammen med undervisere involvert i arbeidet med integrering av beregningsperspektivet i bachelor utdanningen (‘CSE@IBV’) skrev vi rapporten “Computing in Science Education (CSE) på IBV: status og veien videre”.\n\nFil: Status CSE på IBV februar 2020 og veien videre.pdf",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Pedagogisk mappe</span>"
+    ]
+  },
+  {
+    "objectID": "ped_mappe.html#sec-vl-deling",
+    "href": "ped_mappe.html#sec-vl-deling",
+    "title": "1  Pedagogisk mappe",
+    "section": "1.6 Foredrag om BIOS1100",
+    "text": "1.6 Foredrag om BIOS1100\n\n\nJeg har presentert arbeidet med BIOS1100 i Studieutvalget ved MN-fakultetet (STUT), ved flere anledninger.\nPå CCSE sitt juleseminar i 2017 presenterte jeg “BIOS1100 - Innføring i beregningsmodeller for biovitenskap”\nPå et et Undervisningsseminar for NT-fak, Univ. i Tromsø i 2018 holdt jeg et innlegg om “Programmering og modellering i biovitenskapsutdanning”\nDa MN fakultetet ved UiO fik besøk av MN fakultetet ved UiB i 2018 for å diskutere “Utdanningsutvikling med fokus på digitale ferdigheter og generisk kompetanse” presenterte jeg “BIOS1100 Innføring i beregningsmodeller for biovitenskap – erfaringer og videre utvikling”\nJeg presenterte i 2020 for en arbeidsgruppe fra Circle-U som skulle samle erfaringer rundt generiske/overførbare ferdigheter i utdanningen “Computing in Bioscience Education”\nPå en instituttsamling ved Farmasøytiskk Institutt i 2022, under Temaet “Beregningsvitenskap og digital kompetanse i utdanning”, presenterte jeg “Implementering av beregninger i studieprogrammet Biovitenskap med noen refleksjoner rundt farmasiutdanningen”",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Pedagogisk mappe</span>"
+    ]
+  },
+  {
+    "objectID": "ped_mappe.html#sec-vl-samkoding",
+    "href": "ped_mappe.html#sec-vl-samkoding",
+    "title": "1  Pedagogisk mappe",
+    "section": "1.7 Samkoding",
+    "text": "1.7 Samkoding\n\nJeg har laget to korte filmer for å vise hvordan å (ikke) gjøre samkoding. Disse filmene blir brukt i opplæring av instruktører for the Carpentries:\n\nEksempel 1\nEksempel 2\n\nJeg har skrevet en fagfellevurdert artikkel om teknikken [7].\n\nA. Nederbragt, R. M. Harris, A. P. Hill and G. Wilson (2020). “Ten quick tips for teaching with participatory live coding”, PLOS Computational Biology, 16(9), pp. e1008090, doi: 10.1371/journal.pcbi.1008090",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Pedagogisk mappe</span>"
+    ]
+  },
+  {
+    "objectID": "ped_mappe.html#sec-vl-jupyter",
+    "href": "ped_mappe.html#sec-vl-jupyter",
+    "title": "1  Pedagogisk mappe",
+    "section": "1.8 Jupyter notebooks og JupyterHub",
+    "text": "1.8 Jupyter notebooks og JupyterHub\n\nJupyterHub: en skytjeneste UiO har satt opp som studentene kan logge seg inn på uten behov for installasjon på egen maskin. Denne ble satt opp i 2017 bl.a. for BIOS1100, og brukes nå av mange kurs ved UiO: https://jupyterhub.uio.no\nDokumentasjon for studenter\nDokumentasjon for undervisere\nI 2021 holdt jeg et foredrag om “Using Jupyter for teaching programming to bachelor students in Bioscience” for Senter for Fremragende Utdanning ved UiO iEarth\n\nWebsiden: https://www.iearth.no/resource/iearth-digital-learning-forums-from-2021 (skroll ned til 03.06.2021)\nOpptak av foredraget: https://vimeo.com/558878621\n\nI 2019 fikk vi sammen med kjemisk institutt og USIT innvilget prosjektet “Integrasjon av Jupyter og Canvas for digital vurdering”, som skal gjøre det sømløst og kombinere disse to plattformer\n\nUtlysning av prosjektmidler for digital vurdering\nSøknad: fil: Jupyter-Canvas-LINK_2019_signert.pdf\nProsjektsiden (krever login med UiO brukernavn og passord)",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Pedagogisk mappe</span>"
+    ]
+  },
+  {
+    "objectID": "ped_mappe.html#sec-vl-emneeval",
+    "href": "ped_mappe.html#sec-vl-emneeval",
+    "title": "1  Pedagogisk mappe",
+    "section": "1.9 Emneevalueringer",
+    "text": "1.9 Emneevalueringer\n\nBIOS1100 (2017-)\n\nFil: Sluttrapport BIOS1100 Hoesten 2017.pdf\nFil: Sluttrapport BIOS1100 Hoesten 2018.pdf\nFil: Sluttrapport BIOS1100 Hoesten 2019.pdf\nFil: Sluttrapport BIOS1100 Hoesten 2020.pdf\nFil: Sluttrapport BIOS1100 Hoesten 2021.pdf\nFil: Sluttrapport BIOS1100 Hoesten 2022.pdf",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Pedagogisk mappe</span>"
+    ]
+  },
+  {
+    "objectID": "ped_mappe.html#sec-vl-forskning",
+    "href": "ped_mappe.html#sec-vl-forskning",
+    "title": "1  Pedagogisk mappe",
+    "section": "1.10 Forskning på egen undervisning",
+    "text": "1.10 Forskning på egen undervisning\n\nKonferansebidrag\n\nMNT konferansen mars 2019: Gregers, T.F., and Nederbragt, Lex (2019). Lektorstudenter utvikler unik kompetanse og bidrar til økt kvalitet på begynneremner gjennom en undervisningsrettet master. Nordic Journal of STEM education 3, 23–27, https://doi.org/10.5324/njsteme.v3i1.2992. Tilgjengelig som fil: Gregers and Nederbragt, Lex - 2019 - Lektorstudenter utvikler unik kompetanse og bidrar.pdf\nMNT konferansen mars 2021: J.E.Eliassen, M.V.Bøe, L.Nederbragt, M.M.Berg, og T.F.Gregers (2021). Motivasjon for beregningsorientert biologi og sammenhengen med matematikk R2 fra videregående opplæring. Nordic Journal of STEM education, in press. Tilgjengelig som fil: Eliassen_etal_2021_Motivasjon for beregningsorientert biologi.pdf\n\nMasterstudent June Edvarda Eliassen (2020)\n\nTittel: Biologistudenters motivasjon for beregningsorientert biologi etter innføring av krav om full fordypning i realfaglig matematikk\nLenke til oppgaven: http://urn.nb.no/URN:NBN:no-82918\nFil: Masteroppgave_Eliassen.pdf\n\nMasterstudent Sofie Rudberg (2020)\n\nTittel: Relevansen av kompetansen fra matematikk R2 i beregningsorientert biologi\nLenke til oppgaven: http://urn.nb.no/URN:NBN:no-82936\nFil: Masteroppgave_Rudberg.pdf\n\nMasterstudent Marthe Mjøen Berg (2019)\n\nTittel: Studentar si interesse og meistringsforventning for programmering og modellering i biologi\nLenke til oppgaven: http://urn.nb.no/URN:NBN:no-73633\nFil: Masteroppgave_Berg.pdf\n\nMasterstudent Lars Erik Håland (2019)\n\nTittel: Studenters arbeid med programmering i biovitenskapelige problemstillinger. En kvalitativ studie av biologistudenters arbeid med Python\nLenke til oppgaven: http://urn.nb.no/URN:NBN:no-73632\nFil: Masteroppgave_Håland.pdf",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Pedagogisk mappe</span>"
+    ]
+  },
+  {
+    "objectID": "ped_mappe.html#sec-vl-underverk",
+    "href": "ped_mappe.html#sec-vl-underverk",
+    "title": "1  Pedagogisk mappe",
+    "section": "1.11 UnderVerk ved Institutt for Biovitenskap",
+    "text": "1.11 UnderVerk ved Institutt for Biovitenskap\n\nIBV side om UnderVerk krever innlogging med UiO brukernavn og passord\nKURT side om UnderVerk)\nteamet består av Tone Gregers, Hans-Petter Hersleth, Pernille Bronken Eidesen og meg selv\nTone Gregers fikk i 2019 støtte fra MatNat fakultetets studiekvalitetsmidler for å starte UnderVerk\nNoen av temaene for UnderVerk samlingene har vært\n\nHvordan å skrive LæringsUtbytte Beskrivelser (’LUB’er)\nLæringsmål og baklengsdesign\nPraktisk implementasjon av pedagogisk teori i undervisningsplanlegging\nStudentaktive læringsformer\nBruk av digitale verktøy\nDigital undervisning under pandemien\nVurderingsformer\nFusk\nUniversell Utforming\n\n\nUnder korona pandemien vår 2020 organiserte Underverk et ukentlig treff i Zoom for erfaringsutveksling.\nMitt bidrag har vært å hjelpe med planlegging og gjennomføring, samt bidra konkret til noen av workshopen:\n\nTeorien om Kognitiv Last (oktober 2019)\nBruk av Zoom for digital undervisning (mars 2020)\nDigital hjemmeeksamen i BIOS1100 (november 2020)\nUniversell Utforming\nLæringsutbyttebeskrivelse for BIOS-IN5410",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Pedagogisk mappe</span>"
+    ]
+  },
+  {
+    "objectID": "ped_mappe.html#sec-vl-la",
+    "href": "ped_mappe.html#sec-vl-la",
+    "title": "1  Pedagogisk mappe",
+    "section": "1.12 Læringsassistenter og LA-seminaret",
+    "text": "1.12 Læringsassistenter og LA-seminaret\nEn læringsassistent er en pedagogisk trent bachelor- eller masterstudent, eller ph.d.-kandidat, som legger til rette for studentdiskusjon, problemløsning og gruppearbeid som del av undervisningen i et emne.\n\nMatNat tilbyr opplæring til gruppelærene slik at de blir læringsassistenter gjennom LA-seminaret\nCCSE har en nyhetssak om LA seminaret",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Pedagogisk mappe</span>"
+    ]
+  },
+  {
+    "objectID": "ped_mappe.html#sec-vl-mnped0000",
+    "href": "ped_mappe.html#sec-vl-mnped0000",
+    "title": "1  Pedagogisk mappe",
+    "section": "1.13 MNPED9000",
+    "text": "1.13 MNPED9000\n\nKurstittel: Teaching in STEM\nEmnesider: https://www.uio.no/studier/emner/matnat/mn/MNPED9000",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Pedagogisk mappe</span>"
+    ]
+  },
+  {
+    "objectID": "ped_mappe.html#sec-vl-dlm2030",
+    "href": "ped_mappe.html#sec-vl-dlm2030",
+    "title": "1  Pedagogisk mappe",
+    "section": "1.14 Prosjekt Digitale Læringsmiljø 2030",
+    "text": "1.14 Prosjekt Digitale Læringsmiljø 2030\n\nProsjekts webside\nSluttrapport\nFil: Sluttrapport prosjekt Digitalt læringsmiljø 2030.pdf",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Pedagogisk mappe</span>"
+    ]
+  },
+  {
+    "objectID": "ped_mappe.html#sec-vl-ag-ibv",
+    "href": "ped_mappe.html#sec-vl-ag-ibv",
+    "title": "1  Pedagogisk mappe",
+    "section": "1.15 Arbeidsgruppen for gjennomgang av ferdighetstrening i biovitenskapsprogrammet",
+    "text": "1.15 Arbeidsgruppen for gjennomgang av ferdighetstrening i biovitenskapsprogrammet\n\nFil: Anbefalinger fra arbeidsgruppe for ferdighetstrening.pdf",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Pedagogisk mappe</span>"
+    ]
+  },
+  {
+    "objectID": "ped_mappe.html#annet",
+    "href": "ped_mappe.html#annet",
+    "title": "1  Pedagogisk mappe",
+    "section": "1.16 Annet",
+    "text": "1.16 Annet\n\nForedrag\n\nBIOS1100: Innføring i beregningsmodeller biovitenskap – erfaringer og evaluering, Real utdanning – fagdag for utdanning ved MN fakultetet, 2018\nProgrammering og modellering i biovitenskapsutdanning, Undervisningsseminar om beregningsorientert realfagsundervisning for NT-fakultet, Universitet i Tromsø/Norges Arktiske Universitet, 2018 (invitert)\n\nMediaoppmerksomhet mm\n\nbesøk av daværende kunnskapsministeren til UiO, inkludert undervisningen i BIOS1100\n\nartikkel i Uniforum\nartikkel på “IBV sine websider”: https://www.mn.uio.no/ibv/om/aktuelt/aktuelle-saker/2017/kunnskapsministeren-imponert-over-bios1100-og-igem.html\n\n‘Programmerings- revolusjonen’; artikkel i SFU-magasinet 2018/2, side 25\nDet ble publisert en artikkel på MatNat sine sider om hvordan det er å studere biovitenskap som spesifikt nevner programmeringsundervisning som en styrke",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Pedagogisk mappe</span>"
+    ]
+  },
+  {
+    "objectID": "ped_mappe.html#sec-vl-cv",
+    "href": "ped_mappe.html#sec-vl-cv",
+    "title": "1  Pedagogisk mappe",
+    "section": "1.17 Vedlegg for Utdanningsfaglig CV",
+    "text": "1.17 Vedlegg for Utdanningsfaglig CV\n\n1.17.1 Universitetspedagogisk kompetanse\n\nFelles innføringsdel for Universitetspedagogisk Basiskompetanse i 2019\n\nKursbevis: Fil: Kursbevis_universitetspedagogisk_basiskompetanse.pdf\nUtviklingsnotat: Fil: Utviklingsnotat_Fellesdelen_2019.pdf\n\nmoduler tatt i tillegg til Fellesdelen:\n\nForskningsveiledning (2014)\n\nUtviklingsarbeid: Fil: Utviklingsarbeid_Forskningsveiledning_2014.pdf\n\nForelesning og undervisning - det dramaturgiske aspekt (2015)\nPedagogisk mappe (2020)\nLæring og undervisning med universell utforming (2022)\n\nInnlevering: Fil: Assignment_UU_2022.pdf\n\n\nFelles innføringsdel i 2014 som 20% 1. amanuensis II\n\nUtviklingsarbeid: Fil: Utviklingsarbeid_Fellesdelen_2014.pdf\n\n\n\n\n1.17.2 Lederroller\n\nCCSE\n\nJeg er en del av ledergruppen\nBidrag til CCSE sine årsrapporter\n\n\n\n\n\n\n1. Becker EA, Koch C, Word K, Harris RM, Sane M, Nederbragt L, et al. The Carpentries Instructor Training June 2019. Zenodo. 2019. doi:10.5281/zenodo.3258398\n\n\n2. Aldazabal Mensa I, Alexander H, Allen J, Alsheikh-Hussain A, Attali D, Baird D, et al. Software Carpentry: The Unix Shell. Zenodo. 2017. doi:10.5281/zenodo.278226\n\n\n3. Achterberg H, Adams J, Adelman J, Allen J, Aranda J, Bae S, et al. Software Carpentry: Programming with Python. Zenodo. 2017. doi:10.5281/zenodo.278222\n\n\n4. Koziar KE, Munk M, Greene A, Rasel AA, Bennett E, Stevens SL, et al. Software Carpentry: Version Control with Git 2023-05. Zenodo; 2023. doi:10.5281/zenodo.7908089\n\n\n5. Allen J, Bachant P, Banaszkiewicz P, Bekolay T, Blischak J, Boissonneault M, et al. Software Carpentry: Automation and Make. Zenodo. 2017. doi:10.5281/zenodo.278220\n\n\n6. Wilson G, Becker E, McKay S, Michonneau F, Williams JJ, Mayes AC, et al. Data Carpentry Wrangling Genomics Lesson. Zenodo. 2017. doi:10.5281/zenodo.1064254\n\n\n7. Nederbragt A, Harris RM, Hill AP, Wilson G. Ten quick tips for teaching with participatory live coding. PLOS Computational Biology. 2020;16: e1008090. doi:10.1371/journal.pcbi.1008090",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Pedagogisk mappe</span>"
+    ]
+  },
+  {
+    "objectID": "cv_online.html#utdanning",
+    "href": "cv_online.html#utdanning",
+    "title": "Utdanningsfaglig CV Alexander (Lex) Nederbragt",
+    "section": "Utdanning",
+    "text": "Utdanning\n\n1997-2001 PhD Biologi, Utrecht Graduate School of Developmental Biology, Universitetet i Utrecht, Nederland\n1990-1996 BSc & MSc Biologi, Universitetet i Utrecht, Nederland",
+    "crumbs": [
+      "Utdanningsfaglig CV Alexander (Lex) Nederbragt"
+    ]
+  },
+  {
+    "objectID": "cv_online.html#arbeidserfaring",
+    "href": "cv_online.html#arbeidserfaring",
+    "title": "Utdanningsfaglig CV Alexander (Lex) Nederbragt",
+    "section": "Arbeidserfaring",
+    "text": "Arbeidserfaring\n\n2018- Førstelektor, Inst. for Biovitenskap og Inst. for Informatikk, Universitetet i Oslo\n2018- Nestleder med hovedansvar for koordinering av utdanningsaktiviteter, Senter for Bioinformatikk, Inst. for Informatikk, Universitetet i Oslo\n2013-2018 Førsteamanuensis II (20%), Inst. for Informatikk, Universitetet i Oslo\n2015-2018 Senior ingeniør (fast), Inst. for Biovitenskap, Universitetet i Oslo\n2005-2018 Postdoktor, forsker, Senior ingeniør, Inst. for Biovitenskap, Universitetet i Oslo\n2003-2005 Senior Scientist, Lingvitae AS, Oslo\n2002-2003 Postdoktor, University of Hawaii, USA",
+    "crumbs": [
+      "Utdanningsfaglig CV Alexander (Lex) Nederbragt"
+    ]
+  },
+  {
+    "objectID": "cv_online.html#universitetspedagogisk-kompetanse",
+    "href": "cv_online.html#universitetspedagogisk-kompetanse",
+    "title": "Utdanningsfaglig CV Alexander (Lex) Nederbragt",
+    "section": "Universitetspedagogisk kompetanse",
+    "text": "Universitetspedagogisk kompetanse\n\n\n\nJeg tok Felles innføringsdel i 2014 som 20% 1. amanuensis II\nJeg fullførte Felles innføringsdel for Universitetspedagogisk Basiskompetanse i 2019\nModuler tatt i tillegg til Fellesdelen:\n\nForskningsveiledning (2014)\nForelesning og undervisning - det dramaturgiske aspekt (2015)\nPedagogisk mappe (2020)\nLæring og undervisning med universell utforming (2022)",
+    "crumbs": [
+      "Utdanningsfaglig CV Alexander (Lex) Nederbragt"
+    ]
+  },
+  {
+    "objectID": "cv_online.html#emneansvar",
+    "href": "cv_online.html#emneansvar",
+    "title": "Utdanningsfaglig CV Alexander (Lex) Nederbragt",
+    "section": "Emneansvar",
+    "text": "Emneansvar\n\nBIOS1100 2017-\n\nKurstittel: Innføring i beregningsmodeller for biovitenskap\nEmnesidene: https://www.uio.no/studier/emner/matnat/ibv/BIOS1100\n\nINF-BIO5121/9121 2012-2016\n\nKurstittel: High Throughput Sequencing technologies and bioinformatics analysis\nEmnesidene: https://www.uio.no/studier/emner/matnat/ifi/INF-BIO5120/index-eng.html\nKurssidene for høsten 2016: http://inf-biox121.readthedocs.org/en/2016",
+    "crumbs": [
+      "Utdanningsfaglig CV Alexander (Lex) Nederbragt"
+    ]
+  },
+  {
+    "objectID": "cv_online.html#annen-universitetsundervisning",
+    "href": "cv_online.html#annen-universitetsundervisning",
+    "title": "Utdanningsfaglig CV Alexander (Lex) Nederbragt",
+    "section": "Annen universitetsundervisning",
+    "text": "Annen universitetsundervisning\n\nMNPED9000 Teaching in STEM 2022-\n\nTema: Formative assessment\nTema: Cognitive load and learning environment\n\nBIOS-IN5410 Bioinformatics for Molecular Biology 2021-\n\nTema: Reproducible Bioinformatic Analyses\n\nMBV3070/BIOS3010 Bioinformatikk 2019-\n\nTema: Python programmering\nTema: Genome assembly and annotation\n\nMBV-INF4410/9410 Bioinformatics for Molecular Biology 2013-2016\n\nForelesning “The bioinformatics of sequencing and assembling genomes”\nForelesning “What does it mean to do bioinformatics?”\n\nBIO9905MERG1 - Bioinformatics for Metagenomic Analyses and Environmental Sequencing (2011)\n\nForelesning “Next Generation Sequencing techniques and data relevant for metagenomics analyses”\nForelesning “Assembly of metagenomes”\n\nBIO2120 Evolusjonsbiologi 2006-2007\n\nForelesning “Evolution and Development”\nForelesning “Evolution of Genes and Genomes”\nOppgaver for gruppearbeid\n\nErasmus ICP course Marine Cell Biology (Observatoire Oceanologique, Banyuls-sur-mer, France) 2000\n\nForelesning “Fundamental aspects of development”\nForelesning “Cell cycle changes during development”\n\n\nWorkshops\n\nForskerskole i Bioinformatikk NORBIS Summer School “Robust and reproducible practices in bioinformatics programming” 2018\n\nWebsidene\n\nNext-Gen Sequence Analysis Workshop ‘week 3’ (intermediate and advanced skills) (invitert), Michigan State University 2015\n\nWebsidene\n\nUniversity of California Davis Assembly Masterclass (invitert) 2013\n\nWebsidene\n\nNorwegian Sequencing Centre course: High Through-put Sequencing: technology basics, applications and bioinformatic analysis 2011\n\nWebsidene\nJeg gjennomførte en Workshop om Genome Assembly\n\nDe novo genome assembly (invitert), Univ. of Gothenburg, 2011",
+    "crumbs": [
+      "Utdanningsfaglig CV Alexander (Lex) Nederbragt"
+    ]
+  },
+  {
+    "objectID": "cv_online.html#utdanningsfaglige-utviklingsprosjekter",
+    "href": "cv_online.html#utdanningsfaglige-utviklingsprosjekter",
+    "title": "Utdanningsfaglig CV Alexander (Lex) Nederbragt",
+    "section": "Utdanningsfaglige utviklingsprosjekter",
+    "text": "Utdanningsfaglige utviklingsprosjekter\n\nProsjekt “Integrasjon av Jupyter og Canvas for digital vurdering”\n\nUtlysning av prosjektmidler for digital vurdering\nProsjektsiden (krever login med UiO brukernavn og passord)",
+    "crumbs": [
+      "Utdanningsfaglig CV Alexander (Lex) Nederbragt"
+    ]
+  },
+  {
+    "objectID": "cv_online.html#lederroller",
+    "href": "cv_online.html#lederroller",
+    "title": "Utdanningsfaglig CV Alexander (Lex) Nederbragt",
+    "section": "Lederroller",
+    "text": "Lederroller\n\nLeder, Prosjekt Digitalt Læringsmiljø 2030 (2023)\nStyreleder, Carpentry@UiO (2019-)\nNestleder med ansvar for utdanning i Bioinformatikk, Senter for Bioinformatikk (2018-)\nMedlem av ledergruppe Centre for Computing in Science Education (CCSE, et SFU ved UiO) (2017-)\nMedlem Fagråd for IT i Utdanning (2022-)\nLeder for ​​Styret Forskerskole Digitalt Liv Norge (2016-2020)\nMedlem, så leder, Executive Council (styret) for The Carpentries (2018-2021)",
+    "crumbs": [
+      "Utdanningsfaglig CV Alexander (Lex) Nederbragt"
+    ]
+  },
+  {
+    "objectID": "cv_online.html#relevante-vitenskapelige-publikasjoner",
+    "href": "cv_online.html#relevante-vitenskapelige-publikasjoner",
+    "title": "Utdanningsfaglig CV Alexander (Lex) Nederbragt",
+    "section": "Relevante vitenskapelige publikasjoner",
+    "text": "Relevante vitenskapelige publikasjoner\n\nA. Nederbragt, R. M. Harris, A. P. Hill and G. Wilson (2020). “Ten quick tips for teaching with participatory live coding”, PLOS Computational Biology, 16(9),pp. e1008090, doi: 10.1371/journal.pcbi.1008090",
+    "crumbs": [
+      "Utdanningsfaglig CV Alexander (Lex) Nederbragt"
+    ]
+  },
+  {
+    "objectID": "cv_online.html#vedlegg",
+    "href": "cv_online.html#vedlegg",
+    "title": "Utdanningsfaglig CV Alexander (Lex) Nederbragt",
+    "section": "Vedlegg",
+    "text": "Vedlegg\nSe pedagogisk mappe, under “Vedlegg for Utdanningsfaglig CV”.",
+    "crumbs": [
+      "Utdanningsfaglig CV Alexander (Lex) Nederbragt"
+    ]
+  }
+]

@@ -1,0 +1,121 @@
+# Utdanningsfaglig CV Alexander (Lex) Nederbragt {.unnumbered}
+
+<!-- Forkortet versjon av den som ble sendt inn, uten sensitiv informasjon -->
+
+
+## Utdanning
+
+* 1997-2001 PhD Biologi, Utrecht Graduate School of Developmental Biology, Universitetet i Utrecht, Nederland
+* 1990-1996 BSc & MSc Biologi, Universitetet i Utrecht, Nederland
+
+## Arbeidserfaring
+
+* 2018- Førstelektor, Inst. for Biovitenskap og Inst. for Informatikk, Universitetet i Oslo
+* 2018- Nestleder med hovedansvar for koordinering av utdanningsaktiviteter, Senter for Bioinformatikk, Inst. for Informatikk,
+  Universitetet i Oslo
+* 2013-2018 Førsteamanuensis II (20%), Inst. for Informatikk, Universitetet i Oslo
+* 2015-2018 Senior ingeniør (fast), Inst. for Biovitenskap, Universitetet i Oslo
+* 2005-2018 Postdoktor, forsker, Senior ingeniør, Inst. for Biovitenskap, Universitetet i Oslo
+* 2003-2005 Senior Scientist, Lingvitae AS, Oslo
+* 2002-2003 Postdoktor, University of Hawaii, USA
+
+
+## Universitetspedagogisk kompetanse
+
+<!-- Synkroniser med ped_mappe.md -->
+<!-- https://app.uio.no/fup/historikk -->
+
+* Jeg tok *Felles innføringsdel* i 2014 som 20% 1. amanuensis II
+* Jeg fullførte *Felles innføringsdel* for Universitetspedagogisk Basiskompetanse i 2019
+* Moduler tatt i tillegg til Fellesdelen:
+  * Forskningsveiledning (2014)
+  * Forelesning og undervisning - det dramaturgiske aspekt (2015)
+  * Pedagogisk mappe (2020)
+  * Læring og undervisning med universell utforming (2022)
+
+
+## Emneansvar
+
+* BIOS1100 2017-
+  * Kurstittel: **Innføring i beregningsmodeller for biovitenskap**
+  * Emnesidene: <https://www.uio.no/studier/emner/matnat/ibv/BIOS1100>
+  
+* INF-BIO5121/9121 2012-2016
+  * Kurstittel: **High Throughput Sequencing technologies and bioinformatics analysis**
+  * Emnesidene: <https://www.uio.no/studier/emner/matnat/ifi/INF-BIO5120/index-eng.html>
+  * Kurssidene for høsten 2016: <http://inf-biox121.readthedocs.org/en/2016>
+
+## Annen universitetsundervisning
+
+* [MNPED9000](https://www.uio.no/studier/emner/matnat/mn/MNPED9000/index.html) **Teaching in STEM** 2022-
+  * Tema: Formative assessment
+  * Tema: Cognitive load and learning environment
+
+* [BIOS-IN5410](https://www.uio.no/studier/emner/matnat/ibv/BIOS-IN5410/) **Bioinformatics for Molecular Biology** 2021-
+  * Tema: Reproducible Bioinformatic Analyses
+
+* [MBV3070/BIOS3010](https://www.uio.no/studier/emner/matnat/ibv/BIOS3010/index.html) **Bioinformatikk** 2019-
+  * Tema: Python programmering
+  * Tema: Genome assembly and annotation
+
+
+* [MBV-INF4410/9410](https://www.uio.no/studier/emner/matnat/ibv/MBV-INF4410/index.html) **Bioinformatics for Molecular Biology** 2013-2016
+  * Forelesning "The bioinformatics of sequencing and assembling genomes"
+  * Forelesning "What does it mean to do bioinformatics?"
+
+* [BIO9905MERG1](https://www.uio.no/studier/emner/matnat/ibv/BIO9905MERG1/) - **Bioinformatics for Metagenomic Analyses and Environmental Sequencing** (2011)
+  * Forelesning "Next Generation Sequencing techniques and data relevant for metagenomics analyses"
+  * Forelesning "Assembly of metagenomes"
+
+* [BIO2120](https://www.uio.no/studier/emner/matnat/ibv/nedlagte-emner/BIO2120/) **Evolusjonsbiologi** 2006-2007
+  * Forelesning "Evolution and Development"
+  * Forelesning "Evolution of Genes and Genomes"
+  * Oppgaver for gruppearbeid
+
+* Erasmus ICP course Marine Cell Biology (Observatoire Oceanologique, Banyuls-sur-mer, France) 2000
+  * Forelesning "Fundamental aspects of development"
+  * Forelesning "Cell cycle changes during development"
+
+**Workshops**
+
+* Forskerskole i Bioinformatikk NORBIS Summer School "Robust and reproducible practices in bioinformatics programming" 2018
+  * [Websidene](https://norbis.w.uib.no/norbis-summer-school-2018/)
+
+* Next-Gen Sequence Analysis Workshop 'week 3' (intermediate and advanced skills) (invitert), Michigan State University 2015
+  * [Websidene](http://angus.readthedocs.org/en/2015/week3.html)
+
+* University of California Davis Assembly Masterclass (invitert) 2013
+  * [Websidene](http://davis-assembly-masterclass-2013.readthedocs.org/en/latest)
+
+* Norwegian Sequencing Centre course: High Through-put Sequencing: technology basics, applications and bioinformatic analysis 2011
+  * [Websidene](https://www.sequencing.uio.no/events/2011/nsc_course_2011.html)
+  * Jeg gjennomførte en Workshop om [Genome Assembly](https://github.com/lexnederbragt/denovo-assembly-tutorial)
+
+* *De novo* genome assembly (invitert), Univ. of Gothenburg, 2011
+
+## Utdanningsfaglige utviklingsprosjekter
+
+* Prosjekt "Integrasjon av Jupyter og Canvas for digital vurdering"
+  * [Utlysning av prosjektmidler for digital vurdering](https://www.uio.no/link/arrangementer/2019/digitalvurdering/prosjektmidlerdigitalvurdering.pdf)
+  * [Prosjektsiden](https://www.usit.uio.no/om/organisasjon/itf/aktiviteter/prosjekter/jupyter-canvas) (krever login med UiO brukernavn og passord)
+
+
+## Lederroller
+
+* Leder, Prosjekt Digitalt Læringsmiljø 2030 (2023)
+* Styreleder, Carpentry@UiO (2019-)
+* Nestleder med ansvar for utdanning i Bioinformatikk,
+  Senter for Bioinformatikk (2018-)
+* Medlem av ledergruppe Centre for Computing in Science Education
+  (CCSE, et SFU ved UiO) (2017-)
+* Medlem Fagråd for IT i Utdanning (2022-)
+* Leder for ​​Styret Forskerskole Digitalt Liv Norge (2016-2020)
+* Medlem, så leder, Executive Council (styret) for The Carpentries (2018-2021)
+
+
+## Relevante vitenskapelige publikasjoner
+  * **A. Nederbragt, R. M. Harris, A. P. Hill and G. Wilson** (2020). "Ten quick tips for teaching with participatory live coding", *PLOS Computational Biology*, 16(9),pp. e1008090, [doi: 10.1371/journal.pcbi.1008090](https://dx.doi.org/10.1371/journal.pcbi.1008090)
+
+## Vedlegg
+
+Se pedagogisk mappe, under "Vedlegg for Utdanningsfaglig CV".

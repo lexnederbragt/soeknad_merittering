@@ -19,6 +19,17 @@ HUSK ikke skriv ut som PDF, men 'Lagre som...' --> 'PDF'
 
 ::: {.content-visible when-format="html"}
 
+Dette er en web-versjon av søknaden jeg skrev for å bli Merittert Utdanner ved UiO i 2023.
+[Søknaden ble innvilget](https://www.uio.no/om/aktuelt/aktuelle-saker/2023/ni-nye-meritterte-utdannere-ved-uio.html).
+
+Søknaden består av:
+
+* [Redegjørelse](redegjoerelse.qmd), der jeg viser hvordan jeg oppfyller SoTL-kriteriene
+* [Pedagogisk mappe](ped_mappe.qmd), er en samling med dokumentasjon som støtter opp under redegjørelsen.
+  Filene det referes til er ikke lagt ut her.
+* [Utdanningsfaglig CV](cv_online.qmd)
+
+
 Denne søknaden er skrevet som en Quarto bok.
 For å lære mer om Quarto, besøk <https://quarto.org/docs/books>.
 :::

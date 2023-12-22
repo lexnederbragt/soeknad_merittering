@@ -2,7 +2,7 @@ project:
   type: book
 
 book:
-  title: "Redegjørelse søknad Merittert Utdanner UiO 2023"
+  title: "Søknad Merittert Utdanner UiO 2023"
   author: "Lex Nederbragt"
   date: today
   date-format: long
@@ -12,6 +12,7 @@ book:
     - redegjoerelse.qmd
     - referanser.qmd
     - ped_mappe.qmd
+    - cv_online.qmd
 
 bibliography: pedagogisk_mappe.bib
 csl: plos-computational-biology.csl

@@ -2,6 +2,23 @@
 
 Antall ord (uten referanser): 2489.
 
+
+<!-- 
+Ting fra Trello som ikke ble med
+
+* CSE sommerstudenter inkludert alle søknader vi sendte inn
+* exit quiz
+* hjemmeksamen som lærte meg 'hvorfor' vi hadde så høy strykprosent tidligere år:
+  fordelen av å ha alle hjelpemidler tilgjengelig.
+* Bidrag utdanningskonferanse 2022 
+* whiteboarding Even 
+* lær-å-lære øktene programseminar Sundvolden
+* sitater gruppelærerevalueringer
+* sitater erfaringsdokument
+
+ -->
+
+
 <!---
  Det som kjennetegner meg som underviser
 

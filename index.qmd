@@ -31,6 +31,7 @@ Søknaden består av:
 
 
 Denne søknaden er skrevet som en Quarto bok.
+Se kilden til disse sidene, skrevet i Quarto Markdown, [på GitHub](https://github.com/lexnederbragt/soeknad_merittering).
 For å lære mer om Quarto, besøk <https://quarto.org/docs/books>.
 :::
 
